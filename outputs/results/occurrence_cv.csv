@@ -1,0 +1,13 @@
+species,scientific,iucn,habitat,presences,absences,model,AUC,TSS
+Malabar Grey Hornbill,Ocyceros griseus,VULNERABLE,"Forest, W. Ghats endemic",656,431,Logistic (GLM),0.8835627581913871,0.6349775055175145
+Malabar Grey Hornbill,Ocyceros griseus,VULNERABLE,"Forest, W. Ghats endemic",656,431,Random Forest,0.9317419783826609,0.7249165299077585
+Malabar Grey Hornbill,Ocyceros griseus,VULNERABLE,"Forest, W. Ghats endemic",656,431,LightGBM,0.9317455152509762,0.7283013128855187
+Great Hornbill,Buceros bicornis,VULNERABLE,Large evergreen forest,63,873,Logistic (GLM),0.71117656684667,0.4136802487317951
+Great Hornbill,Buceros bicornis,VULNERABLE,Large evergreen forest,63,873,Random Forest,0.8635066092110766,0.6136475208640157
+Great Hornbill,Buceros bicornis,VULNERABLE,Large evergreen forest,63,873,LightGBM,0.8918162148402698,0.6406480117820323
+Kerala Laughingthrush,Trochalopteron fairbanki,NEAR_THREATENED,"Montane shola, endemic",56,880,Logistic (GLM),0.9461038961038961,0.7814935064935066
+Kerala Laughingthrush,Trochalopteron fairbanki,NEAR_THREATENED,"Montane shola, endemic",56,880,Random Forest,0.9614650974025974,0.8342532467532467
+Kerala Laughingthrush,Trochalopteron fairbanki,NEAR_THREATENED,"Montane shola, endemic",56,880,LightGBM,0.9552962662337663,0.8303571428571429
+River Tern,Sterna aurantia,VULNERABLE,Rivers and wetlands,338,616,Logistic (GLM),0.7103761622992393,0.30675094136632597
+River Tern,Sterna aurantia,VULNERABLE,Rivers and wetlands,338,616,Random Forest,0.8225140244371013,0.5114308768154922
+River Tern,Sterna aurantia,VULNERABLE,Rivers and wetlands,338,616,LightGBM,0.8170003073849227,0.4956966110812265

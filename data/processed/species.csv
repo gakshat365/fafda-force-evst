@@ -1,0 +1,574 @@
+speciesKey,scientificName,vernacularName,family,order,iucn
+2473341,Numida meleagris,Helmeted Guineafowl,Numididae,Galliformes,LEAST_CONCERN
+2473356,Perdicula asiatica,Jungle Bush-Quail,Phasianidae,Galliformes,LEAST_CONCERN
+2473362,Perdicula erythrorhyncha,Painted Bush-Quail,Phasianidae,Galliformes,LEAST_CONCERN
+2473696,Galloperdix spadicea,Red Spurfowl,Phasianidae,Galliformes,LEAST_CONCERN
+2473700,Galloperdix lunulata,Painted Spurfowl,Phasianidae,Galliformes,LEAST_CONCERN
+2474156,Coturnix coturnix,Common Quail,Phasianidae,Galliformes,LEAST_CONCERN
+2474163,Coturnix coromandelica,Rain Quail,Phasianidae,Galliformes,LEAST_CONCERN
+2474377,Fulica atra,Eurasian Coot,Rallidae,Gruiformes,LEAST_CONCERN
+2474404,Gallicrex cinerea,Watercock,Rallidae,Gruiformes,LEAST_CONCERN
+2474416,Porphyrio porphyrio,Western Swamphen,Rallidae,Gruiformes,LEAST_CONCERN
+2474460,Rallina eurizonoides,Slaty-legged Crake,Rallidae,Gruiformes,LEAST_CONCERN
+2474525,Gallirallus striatus,Slaty-breasted Rail,Rallidae,Gruiformes,LEAST_CONCERN
+2474621,Porzana porzana,Spotted Crake,Rallidae,Gruiformes,LEAST_CONCERN
+2474622,Porzana fusca,ruddy-breasted crake,Rallidae,Gruiformes,LEAST_CONCERN
+2474628,Porzana pusilla,Baillon's crake,Rallidae,Gruiformes,LEAST_CONCERN
+2474732,Amaurornis phoenicurus,White-breasted Waterhen,Rallidae,Gruiformes,LEAST_CONCERN
+2474863,Chlamydotis macqueenii,Macqueen's Bustard,Otididae,Otidiformes,VULNERABLE
+2474868,Sypheotides indicus,Lesser Florican,Otididae,Otidiformes,CRITICALLY_ENDANGERED
+2474968,Turnix tanki,Yellow-legged Buttonquail,Turnicidae,Charadriiformes,LEAST_CONCERN
+2474982,Turnix suscitator,Barred Buttonquail,Turnicidae,Charadriiformes,LEAST_CONCERN
+2475365,Coracias garrulus,European Roller,Coraciidae,Coraciiformes,LEAST_CONCERN
+2475379,Coracias benghalensis,Indian Roller,Coraciidae,Coraciiformes,NEAR_THREATENED
+2475392,Merops leschenaulti,Chestnut-headed Bee-eater,Meropidae,Coraciiformes,LEAST_CONCERN
+2475410,Merops orientalis,Green Bee-eater,Meropidae,Coraciiformes,LEAST_CONCERN
+2475419,Merops persicus,Blue-cheeked/Blue-tailed Bee-eater,Meropidae,Coraciiformes,LEAST_CONCERN
+2475443,Merops apiaster,European Bee-eater,Meropidae,Coraciiformes,LEAST_CONCERN
+2475449,Merops viridis,Blue-throated Bee-eater,Meropidae,Coraciiformes,LEAST_CONCERN
+2475452,Merops philippinus,Blue-tailed Bee-eater,Meropidae,Coraciiformes,LEAST_CONCERN
+2475458,Nyctyornis athertoni,Blue-bearded Bee-eater,Meropidae,Coraciiformes,LEAST_CONCERN
+2475494,Alcedo meninting,Blue-eared Kingfisher,Alcedinidae,Coraciiformes,LEAST_CONCERN
+2475532,Alcedo atthis,Common Kingfisher,Alcedinidae,Coraciiformes,LEAST_CONCERN
+2475679,Ceryle rudis,Pied Kingfisher,Alcedinidae,Coraciiformes,LEAST_CONCERN
+2475923,Ocyceros birostris,Indian Gray Hornbill,Bucerotidae,Bucerotiformes,LEAST_CONCERN
+2475924,Ocyceros griseus,Malabar Gray Hornbill,Bucerotidae,Bucerotiformes,VULNERABLE
+2475988,Anthracoceros coronatus,Malabar Pied-Hornbill,Bucerotidae,Bucerotiformes,NEAR_THREATENED
+2476012,Buceros bicornis,Great Hornbill,Bucerotidae,Bucerotiformes,VULNERABLE
+2477102,Cypsiurus balasiensis,Asian Palm-Swift,Apodidae,Apodiformes,LEAST_CONCERN
+2477127,Hirundapus giganteus,Brown-backed Needletail,Apodidae,Apodiformes,LEAST_CONCERN
+2477130,Hirundapus caudacutus,White-throated Needletail,Apodidae,Apodiformes,LEAST_CONCERN
+2477226,Aerodramus unicolor,Indian Swiftlet,Apodidae,Apodiformes,LEAST_CONCERN
+2477342,Zoonavena sylvatica,White-rumped Needletail,Apodidae,Apodiformes,LEAST_CONCERN
+2477411,Tachymarptis melba,Alpine Swift,Apodidae,Apodiformes,LEAST_CONCERN
+2477443,Hemiprocne coronata,Crested Treeswift,Hemiprocnidae,Apodiformes,LEAST_CONCERN
+2478037,Chrysocolaptes festivus,White-naped Woodpecker,Picidae,Piciformes,LEAST_CONCERN
+2478040,Chrysocolaptes lucidus,Buff-spotted Flameback,Picidae,Piciformes,LEAST_CONCERN
+2478522,Picus xanthopygaeus,Streak-throated Woodpecker,Picidae,Piciformes,LEAST_CONCERN
+2478592,Hemicircus canente,Heart-spotted Woodpecker,Picidae,Piciformes,LEAST_CONCERN
+2479226,Psittacula krameri,Rose-ringed Parakeet,Psittacidae,Psittaciformes,LEAST_CONCERN
+2479399,Loriculus vernalis,Vernal Hanging-Parrot,Psittacidae,Psittaciformes,LEAST_CONCERN
+2479414,Lorius garrulus,Chattering Lory,Psittacidae,Psittaciformes,VULNERABLE
+2479798,Melopsittacus undulatus,Budgerigar,Psittacidae,Psittaciformes,LEAST_CONCERN
+2480185,Fregata andrewsi,Christmas Island Frigatebird,Fregatidae,Suliformes,VULNERABLE
+2480186,Fregata ariel,Lesser Frigatebird,Fregatidae,Suliformes,LEAST_CONCERN
+2480187,Fregata minor,Great Frigatebird,Fregatidae,Suliformes,LEAST_CONCERN
+2480259,Recurvirostra avosetta,Pied Avocet,Recurvirostridae,Charadriiformes,LEAST_CONCERN
+2480297,Charadrius leschenaultii,Greater Sand-Plover,Charadriidae,Charadriiformes,LEAST_CONCERN
+2480308,Charadrius asiaticus,Caspian Plover,Charadriidae,Charadriiformes,LEAST_CONCERN
+2480311,Charadrius alexandrinus,Kentish Plover,Charadriidae,Charadriiformes,LEAST_CONCERN
+2480327,Pluvialis squatarola,Black-bellied Plover,Charadriidae,Charadriiformes,VULNERABLE
+2480328,Pluvialis dominica,American Golden-Plover,Charadriidae,Charadriiformes,LEAST_CONCERN
+2480331,Pluvialis fulva,Pacific Golden-Plover,Charadriidae,Charadriiformes,LEAST_CONCERN
+2480350,Pelecanus onocrotalus,Great White Pelican,Pelecanidae,Pelecaniformes,LEAST_CONCERN
+2480372,Elanus caeruleus,Black-shouldered Kite,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480383,Gyps bengalensis,White-rumped Vulture,Accipitridae,Accipitriformes,CRITICALLY_ENDANGERED
+2480385,Gyps indicus,Indian Vulture,Accipitridae,Accipitriformes,CRITICALLY_ENDANGERED
+2480389,Gyps fulvus,Eurasian Griffon,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480420,Pernis apivorus,European Honey-buzzard,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480433,Spilornis cheela,Crested Serpent-Eagle,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480437,Haliastur indus,Brahminy Kite,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480455,Haliaeetus leucogaster,White-bellied Sea-Eagle,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480478,Butastur teesa,White-eyed Buzzard,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480482,Circus aeruginosus,Eurasian Marsh-Harrier,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480491,Circus macrourus,Pallid Harrier,Accipitridae,Accipitriformes,NEAR_THREATENED
+2480495,Circus pygargus,Montagu's Harrier,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480500,Aquila heliaca,Imperial Eagle,Accipitridae,Accipitriformes,VULNERABLE
+2480509,Aquila clanga,greater spotted eagle,Accipitridae,Accipitriformes,VULNERABLE
+2480513,Aquila nipalensis,Steppe Eagle,Accipitridae,Accipitriformes,ENDANGERED
+2480537,Buteo buteo,Common Buzzard,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480595,Accipiter virgatus,Besra,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480603,Accipiter trivirgatus,Crested Goshawk,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480610,Accipiter badius,Shikra,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480637,Accipiter nisus,Eurasian Sparrowhawk,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480666,Circaetus gallicus,Short-toed Snake-Eagle,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480685,Hieraaetus pennatus,Booted Eagle,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480696,Neophron percnopterus,Egyptian Vulture,Accipitridae,Accipitriformes,ENDANGERED
+2480706,Aviceda leuphotes,Black Baza,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480708,Aviceda jerdoni,Jerdon's Baza,Accipitridae,Accipitriformes,LEAST_CONCERN
+2480717,Sarcogyps calvus,Red-headed Vulture,Accipitridae,Accipitriformes,CRITICALLY_ENDANGERED
+2480726,Pandion haliaetus,Osprey,Pandionidae,Accipitriformes,LEAST_CONCERN
+2480755,Glareola lactea,Small Pratincole,Glareolidae,Charadriiformes,LEAST_CONCERN
+2480757,Glareola pratincola,Collared Pratincole,Glareolidae,Charadriiformes,LEAST_CONCERN
+2480759,Glareola maldivarum,Oriental Pratincole,Glareolidae,Charadriiformes,LEAST_CONCERN
+2480767,Threskiornis melanocephalus,Black-headed Ibis,Threskiornithidae,Pelecaniformes,LEAST_CONCERN
+2480773,Plegadis falcinellus,Glossy Ibis,Threskiornithidae,Pelecaniformes,LEAST_CONCERN
+2480778,Pseudibis papillosa,Red-naped Ibis,Threskiornithidae,Pelecaniformes,LEAST_CONCERN
+2480801,Platalea leucorodia,Eurasian Spoonbill,Threskiornithidae,Pelecaniformes,LEAST_CONCERN
+2480824,Butorides striata,Striated Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480830,Bubulcus ibis,Cattle Egret,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480841,Gorsachius melanolophus,Malayan Night-Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480848,Ixobrychus sinensis,Yellow Bittern,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480863,Nycticorax nycticorax,Black-crowned Night-Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480871,Dupetor flavicollis,Black Bittern,Ardeidae,Pelecaniformes,NOT_EVALUATED
+2480876,Egretta garzetta,Little Egret/Western Reef-Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480878,Egretta ardesiaca,Black Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480880,Egretta intermedia,intermediate egret,Ardeidae,Pelecaniformes,NOT_EVALUATED
+2480898,Egretta gularis,Western Reef-Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480905,Ardeola grayii,Indian Pond-Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480906,Ardeola ralloides,Squacco Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480907,Ardeola bacchus,Chinese Pond-Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480910,Botaurus stellaris,Great Bittern,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480934,Ardea purpurea,Purple Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+2480967,Sula dactylatra,Masked/Nazca Booby,Sulidae,Suliformes,LEAST_CONCERN
+2480972,Sula sula,Red-footed Booby,Sulidae,Suliformes,LEAST_CONCERN
+2480998,Falco amurensis,Amur Falcon,Falconidae,Falconiformes,LEAST_CONCERN
+2481019,Falco chicquera,Red-necked Falcon,Falconidae,Falconiformes,NEAR_THREATENED
+2481035,Falco subbuteo,Eurasian Hobby,Falconidae,Falconiformes,LEAST_CONCERN
+2481047,Falco peregrinus,Peregrine Falcon,Falconidae,Falconiformes,LEAST_CONCERN
+2481112,Anous tenuirostris,Lesser Noddy,Laridae,Charadriiformes,LEAST_CONCERN
+2481120,Chlidonias leucopterus,White-winged Tern,Laridae,Charadriiformes,LEAST_CONCERN
+2481121,Chlidonias hybrida,Whiskered Tern,Laridae,Charadriiformes,LEAST_CONCERN
+2481174,Larus fuscus,Lesser Black-backed Gull,Laridae,Charadriiformes,LEAST_CONCERN
+2481181,Larus cachinnans,Caspian Gull,Laridae,Charadriiformes,LEAST_CONCERN
+2481205,Rissa tridactyla,Black-legged Kittiwake,Laridae,Charadriiformes,VULNERABLE
+2481213,Gygis alba,White Tern,Laridae,Charadriiformes,LEAST_CONCERN
+2481221,Xema sabini,Sabine's Gull,Laridae,Charadriiformes,LEAST_CONCERN
+2481236,Hydroprogne caspia,Caspian Tern,Laridae,Charadriiformes,LEAST_CONCERN
+2481240,Thalasseus sandvicensis,Sandwich Tern,Laridae,Charadriiformes,LEAST_CONCERN
+2481263,Gelochelidon nilotica,Gull-billed Tern,Laridae,Charadriiformes,LEAST_CONCERN
+2481364,Phaethon lepturus,White-tailed Tropicbird,Phaethontidae,Phaethontiformes,LEAST_CONCERN
+2481519,Calonectris leucomelas,Streaked Shearwater,Procellariidae,Procellariiformes,NEAR_THREATENED
+2481521,Calonectris diomedea,Cory's Shearwater,Procellariidae,Procellariiformes,LEAST_CONCERN
+2481605,Bulweria fallax,Jouanin's Petrel,Procellariidae,Procellariiformes,NEAR_THREATENED
+2481609,Stercorarius pomarinus,Pomarine Jaeger,Stercorariidae,Charadriiformes,LEAST_CONCERN
+2481613,Stercorarius longicaudus,Long-tailed Jaeger,Stercorariidae,Charadriiformes,LEAST_CONCERN
+2481621,Stercorarius parasiticus,Parasitic Jaeger,Stercorariidae,Charadriiformes,LEAST_CONCERN
+2481622,Stercorarius antarcticus,Brown Skua,Stercorariidae,Charadriiformes,NOT_EVALUATED
+2481670,Limnodromus scolopaceus,Long-billed Dowitcher,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481671,Limnodromus semipalmatus,Asian Dowitcher,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481681,Limosa lapponica,Bar-tailed Godwit,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481685,Limosa limosa,Black-tailed Godwit,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481700,Scolopax rusticola,Eurasian Woodcock,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481703,Xenus cinereus,Terek Sandpiper,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481713,Tringa glareola,Wood Sandpiper,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481714,Tringa totanus,Common Redshank,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481719,Tringa stagnatilis,Marsh Sandpiper,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481725,Tringa erythropus,Spotted Redshank,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481726,Tringa nebularia,Common Greenshank,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481728,Tringa ochropus,Green Sandpiper,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481740,Calidris temminckii,Temminck's Stint,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481741,Calidris ferruginea,Curlew Sandpiper,Scolopacidae,Charadriiformes,VULNERABLE
+2481744,Calidris melanotos,Pectoral Sandpiper,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481746,Calidris ruficollis,Red-necked Stint,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481748,Calidris alba,Sanderling,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481749,Calidris minuta,Little Stint,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481750,Calidris subminuta,Long-toed Stint,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481759,Calidris alpina,Dunlin,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481765,Calidris canutus,Red Knot,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481768,Calidris tenuirostris,Great Knot,Scolopacidae,Charadriiformes,ENDANGERED
+2481776,Arenaria interpres,Ruddy Turnstone,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481784,Numenius phaeopus,Whimbrel,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481792,Numenius arquata,Eurasian Curlew,Scolopacidae,Charadriiformes,NEAR_THREATENED
+2481800,Actitis hypoleucos,Common Sandpiper,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481819,Gallinago gallinago,Common Snipe,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481826,Gallinago nemoricola,Wood Snipe,Scolopacidae,Charadriiformes,VULNERABLE
+2481828,Gallinago stenura,Pin-tailed Snipe,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481835,Lymnocryptes minimus,Jack Snipe,Scolopacidae,Charadriiformes,LEAST_CONCERN
+2481840,Hydrophasianus chirurgus,Pheasant-tailed Jacana,Jacanidae,Charadriiformes,LEAST_CONCERN
+2481850,Metopidius indicus,Bronze-winged Jacana,Jacanidae,Charadriiformes,LEAST_CONCERN
+2481889,Phalacrocorax fuscicollis,Indian Cormorant,Phalacrocoracidae,Suliformes,LEAST_CONCERN
+2481890,Phalacrocorax carbo,Great Cormorant/European Shag,Phalacrocoracidae,Suliformes,LEAST_CONCERN
+2481909,Ciconia nigra,Black Stork,Ciconiidae,Ciconiiformes,LEAST_CONCERN
+2481912,Ciconia ciconia,White Stork,Ciconiidae,Ciconiiformes,LEAST_CONCERN
+2481918,Ciconia episcopus,Woolly-necked Stork,Ciconiidae,Ciconiiformes,NEAR_THREATENED
+2481938,Mycteria leucocephala,Painted Stork,Ciconiidae,Ciconiiformes,LEAST_CONCERN
+2481947,Leptoptilos javanicus,Lesser/Greater Adjutant,Ciconiidae,Ciconiiformes,NEAR_THREATENED
+2482003,Oceanodroma monorhis,Swinhoe's Storm-Petrel,Hydrobatidae,Procellariiformes,NEAR_THREATENED
+2482029,Rostratula benghalensis,Greater Painted-Snipe,Rostratulidae,Charadriiformes,LEAST_CONCERN
+2482048,Tachybaptus ruficollis,Little Grebe,Podicipedidae,Podicipediformes,LEAST_CONCERN
+2482081,Anhinga melanogaster,Oriental Darter,Anhingidae,Suliformes,LEAST_CONCERN
+2482089,Esacus recurvirostris,Great Thick-knee,Burhinidae,Charadriiformes,NEAR_THREATENED
+2482451,Dendrocitta vagabunda,Rufous Treepie,Corvidae,Passeriformes,LEAST_CONCERN
+2482455,Dendrocitta leucogastra,White-bellied Treepie,Corvidae,Passeriformes,LEAST_CONCERN
+2482487,Corvus macrorhynchos,Large-billed Crow,Corvidae,Passeriformes,LEAST_CONCERN
+2482499,Corvus splendens,House Crow,Corvidae,Passeriformes,LEAST_CONCERN
+2484096,Aegithina tiphia,Common Iora,Aegithinidae,Passeriformes,LEAST_CONCERN
+2484097,Aegithina nigrolutea,White-tailed Iora,Aegithinidae,Passeriformes,LEAST_CONCERN
+2484653,Arachnothera longirostra,Little Spiderhunter,Nectariniidae,Passeriformes,LEAST_CONCERN
+2484691,Dicaeum agile,Thick-billed Flowerpecker,Dicaeidae,Passeriformes,LEAST_CONCERN
+2484722,Dicaeum concolor,Nilgiri Flowerpecker,Dicaeidae,Passeriformes,LEAST_CONCERN
+2484723,Dicaeum erythrorhynchos,Pale-billed Flowerpecker,Dicaeidae,Passeriformes,LEAST_CONCERN
+2484857,Tephrodornis pondicerianus,Common Woodshrike,Tephrodornithidae,Passeriformes,LEAST_CONCERN
+2484887,Sitta castanea,Indian Nuthatch,Sittidae,Passeriformes,LEAST_CONCERN
+2486119,Pycnonotus luteolus,White-browed Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+2486128,Pycnonotus xantholaemus,Yellow-throated Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+2486131,Pycnonotus cafer,Red-vented Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+2486148,Pycnonotus priocephalus,Gray-headed Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+2486151,Pycnonotus jocosus,Red-whiskered Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+2486625,Hypothymis azurea,Black-naped Monarch,Monarchidae,Passeriformes,LEAST_CONCERN
+2486687,Terpsiphone paradisi,Indian Paradise-Flycatcher,Monarchidae,Passeriformes,LEAST_CONCERN
+2486748,Hemipus picatus,Bar-winged Flycatcher-shrike,Tephrodornithidae,Passeriformes,LEAST_CONCERN
+2486770,Coracina macei,Large Cuckooshrike,Campephagidae,Passeriformes,LEAST_CONCERN
+2486772,Coracina melanoptera,Black-headed Cuckooshrike,Campephagidae,Passeriformes,LEAST_CONCERN
+2486818,Pericrocotus divaricatus,Ashy Minivet,Campephagidae,Passeriformes,LEAST_CONCERN
+2486819,Pericrocotus flammeus,Orange Minivet,Campephagidae,Passeriformes,LEAST_CONCERN
+2486822,Pericrocotus cinnamomeus,Small Minivet,Campephagidae,Passeriformes,LEAST_CONCERN
+2488929,Irena puella,Asian Fairy-bluebird,Irenidae,Passeriformes,LEAST_CONCERN
+2488963,Oriolus xanthornus,Black-hooded Oriole,Oriolidae,Passeriformes,LEAST_CONCERN
+2488999,Gracula religiosa,Common Hill Myna,Sturnidae,Passeriformes,LEAST_CONCERN
+2489005,Acridotheres tristis,Common Myna,Sturnidae,Passeriformes,LEAST_CONCERN
+2489006,Acridotheres fuscus,Jungle Myna,Sturnidae,Passeriformes,LEAST_CONCERN
+2489160,Riparia riparia,Bank Swallow,Hirundinidae,Passeriformes,LEAST_CONCERN
+2489214,Delichon urbicum,Common House-Martin,Hirundinidae,Passeriformes,LEAST_CONCERN
+2489220,Delichon dasypus,Asian House-Martin,Hirundinidae,Passeriformes,LEAST_CONCERN
+2489362,Zosterops palpebrosus,Oriental White-eye,Zosteropidae,Passeriformes,LEAST_CONCERN
+2489507,Pitta brachyura,Indian Pitta,Pittidae,Passeriformes,LEAST_CONCERN
+2490244,Anthus hodgsoni,Olive-backed Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+2490246,Anthus trivialis,Tree Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+2490250,Anthus nilghiriensis,Nilgiri Pipit,Motacillidae,Passeriformes,VULNERABLE
+2490264,Anthus godlewskii,Blyth's Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+2490274,Anthus campestris,Tawny Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+2490277,Anthus rufulus,Paddyfield Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+2490283,Anthus cervinus,Red-throated Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+2490292,Anthus similis,Long-billed Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+2490303,Motacilla tschutschensis,Eastern Yellow Wagtail,Motacillidae,Passeriformes,LEAST_CONCERN
+2490307,Motacilla citreola,Citrine Wagtail,Motacillidae,Passeriformes,LEAST_CONCERN
+2490310,Motacilla cinerea,Gray Wagtail,Motacillidae,Passeriformes,LEAST_CONCERN
+2490317,Dendronanthus indicus,Forest Wagtail,Motacillidae,Passeriformes,LEAST_CONCERN
+2490669,Galerida cristata,Crested Lark,Alaudidae,Passeriformes,LEAST_CONCERN
+2490672,Galerida malabarica,Malabar Lark,Alaudidae,Passeriformes,LEAST_CONCERN
+2490681,Calandrella brachydactyla,Greater Short-toed Lark,Alaudidae,Passeriformes,LEAST_CONCERN
+2490698,Alauda gulgula,Oriental Skylark,Alaudidae,Passeriformes,LEAST_CONCERN
+2490728,Turdus obscurus,Eyebrowed Thrush,Turdidae,Passeriformes,LEAST_CONCERN
+2490955,Monticola solitarius,Blue Rock-Thrush,Muscicapidae,Passeriformes,LEAST_CONCERN
+2490956,Monticola saxatilis,Rufous-tailed Rock-Thrush,Muscicapidae,Passeriformes,LEAST_CONCERN
+2491482,Emberiza hortulana,Ortolan Bunting,Emberizidae,Passeriformes,LEAST_CONCERN
+2491521,Emberiza bruniceps,Red-headed Bunting,Emberizidae,Passeriformes,LEAST_CONCERN
+2491544,Emberiza pusilla,Little Bunting,Emberizidae,Passeriformes,LEAST_CONCERN
+2491548,Emberiza fucata,Chestnut-eared Bunting,Emberizidae,Passeriformes,LEAST_CONCERN
+2492364,Carpospiza brachydactyla,Pale Rockfinch,Passeridae,Passeriformes,LEAST_CONCERN
+2492391,Cyanoptila cyanomelana,Blue-and-white Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492428,Cyornis tickelliae,Tickell's Blue Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492434,Cyornis rubeculoides,Blue-throated Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492519,Saxicola caprata,Pied Bushchat,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492526,Saxicola torquatus,African Stonechat,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492557,Muscicapa muttui,Brown-breasted Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492558,Muscicapa ruficauda,Rusty-tailed Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492566,Muscicapa sibirica,Dark-sided Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492576,Muscicapa striata,Spotted Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492605,Ficedula parva,Red-breasted Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492634,Culicicapa ceylonensis,Gray-headed Canary-Flycatcher,Stenostiridae,Passeriformes,LEAST_CONCERN
+2492675,Copsychus malabaricus,White-rumped Shama,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492680,Copsychus saularis,Oriental Magpie-Robin,Muscicapidae,Passeriformes,LEAST_CONCERN
+2492752,Prinia socialis,Ashy Prinia,Cisticolidae,Passeriformes,LEAST_CONCERN
+2492754,Prinia sylvatica,Jungle Prinia,Cisticolidae,Passeriformes,LEAST_CONCERN
+2492758,Prinia inornata,Plain Prinia,Cisticolidae,Passeriformes,LEAST_CONCERN
+2492766,Prinia hodgsonii,Gray-breasted Prinia,Cisticolidae,Passeriformes,LEAST_CONCERN
+2492822,Cisticola juncidis,Zitting Cisticola,Cisticolidae,Passeriformes,LEAST_CONCERN
+2492836,Cisticola exilis,Golden-headed Cisticola,Cisticolidae,Passeriformes,LEAST_CONCERN
+2492846,Lanius cristatus,Brown Shrike,Laniidae,Passeriformes,LEAST_CONCERN
+2492851,Lanius vittatus,Bay-backed Shrike,Laniidae,Passeriformes,LEAST_CONCERN
+2492854,Lanius minor,Lesser Gray Shrike,Laniidae,Passeriformes,LEAST_CONCERN
+2492865,Lanius isabellinus,Isabelline Shrike,Laniidae,Passeriformes,LEAST_CONCERN
+2492921,Dumetia hyperythra,Tawny-bellied Babbler,Timaliidae,Passeriformes,LEAST_CONCERN
+2492956,Sylvia atricapilla,Eurasian Blackcap,Sylviidae,Passeriformes,LEAST_CONCERN
+2492960,Sylvia curruca,Lesser Whitethroat,Sylviidae,Passeriformes,LEAST_CONCERN
+2493028,Orthotomus sutorius,Common Tailorbird,Cisticolidae,Passeriformes,LEAST_CONCERN
+2493033,Orthotomus atrogularis,Dark-necked Tailorbird,Cisticolidae,Passeriformes,LEAST_CONCERN
+2493052,Phylloscopus trochilus,Willow Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493055,Phylloscopus occipitalis,Western Crowned Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493067,Phylloscopus tytleri,Tytler's Leaf Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493068,Phylloscopus affinis,Tickell's Leaf Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493069,Phylloscopus magnirostris,Large-billed Leaf Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493075,Phylloscopus fuscatus,Dusky Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493084,Phylloscopus trochiloides,Greenish Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493091,Phylloscopus collybita,Common Chiffchaff,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493095,Phylloscopus inornatus,Yellow-browed Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+2493129,Acrocephalus schoenobaenus,Sedge Warbler,Acrocephalidae,Passeriformes,LEAST_CONCERN
+2493137,Acrocephalus agricola,Paddyfield Warbler,Acrocephalidae,Passeriformes,LEAST_CONCERN
+2493145,Acrocephalus dumetorum,Blyth's Reed Warbler,Acrocephalidae,Passeriformes,LEAST_CONCERN
+2493248,Pellorneum ruficeps,Puff-throated Babbler,Pellorneidae,Passeriformes,LEAST_CONCERN
+2493314,Turdoides malcolmi,Large Gray Babbler,Leiothrichidae,Passeriformes,LEAST_CONCERN
+2493324,Turdoides affinis,Yellow-billed Babbler,Leiothrichidae,Passeriformes,LEAST_CONCERN
+2493332,Pomatorhinus horsfieldii,Indian Scimitar-Babbler,Timaliidae,Passeriformes,LEAST_CONCERN
+2493459,Garrulax delesserti,Wynaad Laughingthrush,Leiothrichidae,Passeriformes,LEAST_CONCERN
+2493548,Locustella naevia,Common Grasshopper-Warbler,Locustellidae,Passeriformes,LEAST_CONCERN
+2493556,Locustella certhiola,Pallas's Grasshopper-Warbler,Locustellidae,Passeriformes,LEAST_CONCERN
+2493598,Lonchura punctulata,Scaly-breasted Munia,Estrildidae,Passeriformes,LEAST_CONCERN
+2493608,Lonchura kelaarti,Black-throated Munia,Estrildidae,Passeriformes,LEAST_CONCERN
+2493618,Lonchura striata,White-rumped Munia,Estrildidae,Passeriformes,LEAST_CONCERN
+2493626,Lonchura malacca,Tricolored Munia,Estrildidae,Passeriformes,LEAST_CONCERN
+2493633,Taeniopygia guttata,Zebra Finch,Estrildidae,Passeriformes,LEAST_CONCERN
+2493698,Amandava amandava,Red Avadavat,Estrildidae,Passeriformes,LEAST_CONCERN
+2493967,Dicrurus hottentottus,Hair-crested Drongo,Dicruridae,Passeriformes,LEAST_CONCERN
+2493969,Dicrurus paradiseus,Greater Racket-tailed Drongo,Dicruridae,Passeriformes,LEAST_CONCERN
+2493970,Dicrurus macrocercus,Black Drongo,Dicruridae,Passeriformes,LEAST_CONCERN
+2493971,Dicrurus aeneus,Bronzed Drongo,Dicruridae,Passeriformes,LEAST_CONCERN
+2493974,Dicrurus caerulescens,White-bellied Drongo,Dicruridae,Passeriformes,LEAST_CONCERN
+2494036,Ploceus manyar,Streaked Weaver,Ploceidae,Passeriformes,LEAST_CONCERN
+2494056,Ploceus philippinus,Baya Weaver,Ploceidae,Passeriformes,LEAST_CONCERN
+2494459,Carpodacus erythrinus,Common Rosefinch,Fringillidae,Passeriformes,LEAST_CONCERN
+2495414,Columba livia,Rock Pigeon,Columbidae,Columbiformes,LEAST_CONCERN
+2495681,Streptopelia orientalis,Oriental Turtle-Dove,Columbidae,Columbiformes,LEAST_CONCERN
+2495691,Streptopelia tranquebarica,Red Collared-Dove,Columbidae,Columbiformes,LEAST_CONCERN
+2495696,Streptopelia decaocto,Eurasian Collared-Dove,Columbidae,Columbiformes,LEAST_CONCERN
+2495757,Treron phoenicopterus,Yellow-footed Pigeon,Columbidae,Columbiformes,LEAST_CONCERN
+2495776,Treron bicinctus,Orange-breasted Pigeon,Columbidae,Columbiformes,LEAST_CONCERN
+2495840,Chalcophaps indica,Asian Emerald Dove,Columbidae,Columbiformes,LEAST_CONCERN
+2495934,Ducula aenea,Green Imperial-Pigeon,Columbidae,Columbiformes,NEAR_THREATENED
+2495993,Ducula badia,Mountain Imperial-Pigeon,Columbidae,Columbiformes,LEAST_CONCERN
+2496279,Cacomantis passerinus,Gray-bellied Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+2496280,Cacomantis sonneratii,Banded Bay Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+2496347,Eudynamys scolopaceus,Asian Koel,Cuculidae,Cuculiformes,LEAST_CONCERN
+2496379,Rhopodytes viridirostris,,Cuculidae,Cuculiformes,NOT_EVALUATED
+2496467,Clamator coromandus,Chestnut-winged Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+2496468,Clamator jacobinus,Pied Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+2496474,Taccocua leschenaultii,Sirkeer Malkoha,Cuculidae,Cuculiformes,LEAST_CONCERN
+2496506,Surniculus lugubris,Square-tailed Drongo-Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+2496852,Caprimulgus atripennis,Jerdon's Nightjar,Caprimulgidae,Caprimulgiformes,LEAST_CONCERN
+2496890,Caprimulgus macrurus,Large-tailed Nightjar,Caprimulgidae,Caprimulgiformes,LEAST_CONCERN
+2496944,Caprimulgus asiaticus,Indian Nightjar,Caprimulgidae,Caprimulgiformes,LEAST_CONCERN
+2496952,Caprimulgus affinis,Savanna Nightjar,Caprimulgidae,Caprimulgiformes,LEAST_CONCERN
+2497135,Batrachostomus moniliger,Sri Lanka Frogmouth,Podargidae,Caprimulgiformes,LEAST_CONCERN
+2497280,Athene brama,Spotted Owlet,Strigidae,Strigiformes,LEAST_CONCERN
+2497295,Asio flammeus,Short-eared Owl,Strigidae,Strigiformes,LEAST_CONCERN
+2497525,Strix ocellata,Mottled Wood-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+2497546,Strix leptogrammica,Brown Wood-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+2497755,Otus brucei,Pallid Scops-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+2497840,Ninox scutulata,Brown Boobook,Strigidae,Strigiformes,LEAST_CONCERN
+2497921,Tyto alba,Barn Owl,Tytonidae,Strigiformes,LEAST_CONCERN
+2498001,Sarkidiornis melanotos,Comb Duck,Anatidae,Anseriformes,LEAST_CONCERN
+2498015,Tadorna ferruginea,Ruddy Shelduck,Anatidae,Anseriformes,LEAST_CONCERN
+2498034,Anser cygnoides,Swan Goose,Anatidae,Anseriformes,ENDANGERED
+2498035,Anser indicus,Bar-headed Goose,Anatidae,Anseriformes,LEAST_CONCERN
+2498112,Anas acuta,Northern Pintail,Anatidae,Anseriformes,LEAST_CONCERN
+2498255,Aythya ferina,Common Pochard,Anatidae,Anseriformes,VULNERABLE
+2498259,Aythya nyroca,Ferruginous Duck,Anatidae,Anseriformes,NEAR_THREATENED
+2498261,Aythya fuligula,Tufted Duck,Anatidae,Anseriformes,LEAST_CONCERN
+2498310,Nettapus coromandelianus,Cotton Pygmy-Goose,Anatidae,Anseriformes,LEAST_CONCERN
+2498343,Cygnus olor,Mute Swan,Anatidae,Anseriformes,LEAST_CONCERN
+2498402,Dendrocygna bicolor,Fulvous Whistling-Duck,Anatidae,Anseriformes,LEAST_CONCERN
+2498404,Dendrocygna javanica,Lesser Whistling-Duck,Anatidae,Anseriformes,LEAST_CONCERN
+2498415,Upupa epops,Eurasian Hoopoe,Upupidae,Bucerotiformes,LEAST_CONCERN
+4352332,Phoenicopterus roseus,Greater Flamingo,Phoenicopteridae,Phoenicopteriformes,LEAST_CONCERN
+4408732,Luscinia svecica,Bluethroat,Muscicapidae,Passeriformes,LEAST_CONCERN
+4408780,Muscicapa latirostris,Asian Brown Flycatcher,Muscicapidae,Passeriformes,NOT_EVALUATED
+4845776,Lonchura oryzivora,Java Sparrow,Estrildidae,Passeriformes,ENDANGERED
+5227765,Gallus sonneratii,Gray Junglefowl,Phasianidae,Galliformes,LEAST_CONCERN
+5228199,Gallinula chloropus,Eurasian Moorhen,Rallidae,Gruiformes,LEAST_CONCERN
+5228280,Eurystomus orientalis,Dollarbird,Coraciidae,Coraciiformes,LEAST_CONCERN
+5228310,Halcyon pileata,Black-capped Kingfisher,Alcedinidae,Coraciiformes,VULNERABLE
+5228328,Halcyon smyrnensis,White-throated Kingfisher,Alcedinidae,Coraciiformes,LEAST_CONCERN
+5228386,Ceyx erithaca,Black-backed Dwarf-Kingfisher,Alcedinidae,Coraciiformes,NEAR_THREATENED
+5228417,Pelargopsis capensis,Stork-billed Kingfisher,Alcedinidae,Coraciiformes,LEAST_CONCERN
+5228662,Apus affinis,Little Swift,Apodidae,Apodiformes,LEAST_CONCERN
+5228670,Apus pacificus,Pacific Swift,Apodidae,Apodiformes,LEAST_CONCERN
+5228676,Apus apus,Common Swift,Apodidae,Apodiformes,LEAST_CONCERN
+5228719,Picumnus innominatus,Speckled Piculet,Picidae,Piciformes,LEAST_CONCERN
+5228803,Dinopium javanense,Common Flameback,Picidae,Piciformes,LEAST_CONCERN
+5228816,Dinopium benghalense,Black-rumped Flameback,Picidae,Piciformes,LEAST_CONCERN
+5228839,Dryocopus javensis,White-bellied Woodpecker,Picidae,Piciformes,LEAST_CONCERN
+5229044,Psittacula cyanocephala,Plum-headed Parakeet,Psittacidae,Psittaciformes,LEAST_CONCERN
+5229045,Psittacula alexandri,Red-breasted Parakeet,Psittacidae,Psittaciformes,NEAR_THREATENED
+5229054,Psittacula columboides,Malabar Parakeet,Psittacidae,Psittaciformes,LEAST_CONCERN
+5229055,Psittacula eupatria,Alexandrine Parakeet,Psittacidae,Psittaciformes,LEAST_CONCERN
+5229126,Himantopus himantopus,Black-winged Stilt,Recurvirostridae,Charadriiformes,LEAST_CONCERN
+5229131,Vanellus indicus,Red-wattled Lapwing,Charadriidae,Charadriiformes,LEAST_CONCERN
+5229133,Vanellus malabaricus,Yellow-wattled Lapwing,Charadriidae,Charadriiformes,LEAST_CONCERN
+5229145,Vanellus cinereus,Gray-headed Lapwing,Charadriidae,Charadriiformes,LEAST_CONCERN
+5229147,Vanellus leucurus,White-tailed Lapwing,Charadriidae,Charadriiformes,LEAST_CONCERN
+5229163,Pelecanus philippensis,Spot-billed Pelican,Pelecanidae,Pelecaniformes,NEAR_THREATENED
+5229165,Aegypius monachus,Cinereous Vulture,Accipitridae,Accipitriformes,NEAR_THREATENED
+5229167,Milvus migrans,Black Kite,Accipitridae,Accipitriformes,LEAST_CONCERN
+5229171,Circus melanoleucos,Pied Harrier,Accipitridae,Accipitriformes,LEAST_CONCERN
+5229180,Circus spilonotus,Eastern Marsh-Harrier,Accipitridae,Accipitriformes,LEAST_CONCERN
+5229198,Ictinaetus malayensis,Black Eagle,Accipitridae,Accipitriformes,LEAST_CONCERN
+5229199,Dromas ardeola,Crab-Plover,Dromadidae,Charadriiformes,LEAST_CONCERN
+5229214,Sterna sumatrana,Black-naped Tern,Laridae,Charadriiformes,LEAST_CONCERN
+5229230,Sterna paradisaea,Arctic Tern,Laridae,Charadriiformes,LEAST_CONCERN
+5229239,Sterna aurantia,River Tern,Laridae,Charadriiformes,VULNERABLE
+5229249,Sterna dougallii,Roseate Tern,Laridae,Charadriiformes,LEAST_CONCERN
+5229261,Sterna acuticauda,Black-bellied Tern,Laridae,Charadriiformes,ENDANGERED
+5229371,Puffinus persicus,Persian Shearwater,Procellariidae,Procellariiformes,LEAST_CONCERN
+5229378,Puffinus carneipes,flesh-footed shearwater,Procellariidae,Procellariiformes,NEAR_THREATENED
+5229410,Anastomus oscitans,Asian Openbill,Ciconiidae,Ciconiiformes,LEAST_CONCERN
+5229411,Anastomus lamelligerus,African Openbill,Ciconiidae,Ciconiiformes,LEAST_CONCERN
+5229419,Oceanites oceanicus,Wilson's Storm-Petrel,Hydrobatidae,Procellariiformes,LEAST_CONCERN
+5230398,Artamus fuscus,Ashy Woodswallow,Artamidae,Passeriformes,LEAST_CONCERN
+5230726,Chloropsis aurifrons,Golden-fronted Leafbird,Chloropseidae,Passeriformes,LEAST_CONCERN
+5230784,Hirundo domicola,Hill Swallow,Hirundinidae,Passeriformes,LEAST_CONCERN
+5230801,Hirundo smithii,Wire-tailed Swallow,Hirundinidae,Passeriformes,LEAST_CONCERN
+5231007,Monticola cinclorhynchus,Blue-capped Rock-Thrush,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231190,Passer domesticus,House Sparrow,Passeridae,Passeriformes,LEAST_CONCERN
+5231209,Passer hispaniolensis,Spanish Sparrow,Passeridae,Passeriformes,LEAST_CONCERN
+5231233,Oenanthe pleschanka,Pied Wheatear,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231238,Oenanthe picata,Variable Wheatear,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231240,Oenanthe oenanthe,Northern Wheatear,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231244,Oenanthe deserti,Desert Wheatear,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231245,Oenanthe isabellina,Isabelline Wheatear,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231264,Luscinia brunnea,Indian Blue Robin,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231269,Ficedula subrubra,Kashmir Flycatcher,Muscicapidae,Passeriformes,VULNERABLE
+5231276,Ficedula zanthopygia,Korean Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231280,Ficedula nigrorufa,Black-and-rufous Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231283,Ficedula superciliaris,Ultramarine Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+5231332,Acrocephalus bistrigiceps,Black-browed Reed Warbler,Acrocephalidae,Passeriformes,LEAST_CONCERN
+5231333,Acrocephalus stentoreus,Clamorous Reed Warbler,Acrocephalidae,Passeriformes,LEAST_CONCERN
+5231342,Rhopocichla atriceps,Dark-fronted Babbler,Timaliidae,Passeriformes,LEAST_CONCERN
+5231383,Alcippe poioicephala,Brown-cheeked Fulvetta,Pellorneidae,Passeriformes,LEAST_CONCERN
+5231393,Chrysomma sinense,Yellow-eyed Babbler,Sylviidae,Passeriformes,LEAST_CONCERN
+5231752,Rhipidura aureola,White-browed Fantail,Rhipiduridae,Passeriformes,LEAST_CONCERN
+5231876,Columba elphinstonii,Nilgiri Wood-Pigeon,Columbidae,Columbiformes,LEAST_CONCERN
+5231900,Cuculus sparverioides,large hawk cuckoo,Cuculidae,Cuculiformes,NOT_EVALUATED
+5231904,Cuculus micropterus,Indian Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+5231910,Cuculus varius,common hawk cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+5231918,Cuculus canorus,Common Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+5231927,Cuculus poliocephalus,Lesser Cuckoo,Cuculidae,Cuculiformes,LEAST_CONCERN
+5231979,Centropus bengalensis,Lesser Coucal,Cuculidae,Cuculiformes,LEAST_CONCERN
+5232005,Centropus sinensis,Greater Coucal,Cuculidae,Cuculiformes,LEAST_CONCERN
+5232051,Harpactes fasciatus,Malabar Trogon,Trogonidae,Trogoniformes,LEAST_CONCERN
+5232083,Glaucidium radiatum,Jungle Owlet,Strigidae,Strigiformes,LEAST_CONCERN
+5232229,Ketupa zeylonensis,Brown Fish-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+5232251,Otus bakkamoena,Indian Scops-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+5232328,Otus sunia,Oriental Scops-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+5739290,Phalaropus lobatus,Red-necked Phalarope,Scolopacidae,Charadriiformes,LEAST_CONCERN
+5739315,Phoenicurus ochruros,Black Redstart,Muscicapidae,Passeriformes,LEAST_CONCERN
+5739357,Iduna rama,Sykes's Warbler,Acrocephalidae,Passeriformes,LEAST_CONCERN
+5739359,Iduna caligata,Booted Warbler,Acrocephalidae,Passeriformes,LEAST_CONCERN
+5788501,Nisaetus cirrhatus,Crested Hawk-Eagle,Accipitridae,Accipitriformes,LEAST_CONCERN
+5788504,Nisaetus kelaarti,Legge's Hawk-Eagle,Accipitridae,Accipitriformes,NOT_EVALUATED
+5788511,Lophotriorchis kienerii,Rufous-bellied Eagle,Accipitridae,Accipitriformes,NEAR_THREATENED
+5788516,Aquila hastata,Indian Spotted Eagle,Accipitridae,Accipitriformes,NEAR_THREATENED
+5788816,Eremopterix griseus,Ashy-crowned Sparrow-Lark,Alaudidae,Passeriformes,LEAST_CONCERN
+5788823,Ammomanes phoenicura,Rufous-tailed Lark,Alaudidae,Passeriformes,NEAR_THREATENED
+5788824,Mirafra affinis,Jerdon's Bushlark,Alaudidae,Passeriformes,LEAST_CONCERN
+5788886,Ficedula albicilla,Taiga Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+5788893,Saxicoloides fulicatus,,Muscicapidae,Passeriformes,LEAST_CONCERN
+5788900,Myiomela albiventris,White-bellied Blue Robin,Muscicapidae,Passeriformes,NEAR_THREATENED
+5788901,Myiomela major,White-bellied Shortwing,Muscicapidae,Passeriformes,NEAR_THREATENED
+5788902,Eumyias albicaudatus,Nilgiri Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+5789032,Chloropsis jerdoni,Jerdon's/Golden-fronted Leafbird,Chloropseidae,Passeriformes,LEAST_CONCERN
+5789039,Myophonus horsfieldii,Malabar Whistling-Thrush,Muscicapidae,Passeriformes,LEAST_CONCERN
+5789082,Euodice malabarica,Indian Silverbill,Estrildidae,Passeriformes,LEAST_CONCERN
+5789152,Chaetornis striata,Bristled Grassbird,Locustellidae,Passeriformes,VULNERABLE
+5789153,Schoenicola platyurus,Broad-tailed Grassbird,Locustellidae,Passeriformes,NEAR_THREATENED
+5789279,Sternula albifrons,Little Tern,Laridae,Charadriiformes,LEAST_CONCERN
+5789283,Thalasseus bergii,Great Crested Tern,Laridae,Charadriiformes,LEAST_CONCERN
+5789284,Onychoprion fuscatus,Sooty Tern,Laridae,Charadriiformes,LEAST_CONCERN
+5789286,Onychoprion anaethetus,Bridled Tern,Laridae,Charadriiformes,LEAST_CONCERN
+5789316,Tyto javanica,Eastern Barn Owl,Tytonidae,Strigiformes,NOT_EVALUATED
+5793241,Pernis ptilorhynchus,Oriental Honey-buzzard,Accipitridae,Accipitriformes,LEAST_CONCERN
+5844053,Micropternus brachyurus,Rufous Woodpecker,Picidae,Piciformes,LEAST_CONCERN
+5844449,Aquila fasciata,Bonelli's Eagle,Accipitridae,Accipitriformes,LEAST_CONCERN
+5845038,Tephrodornis virgatus,Large Woodshrike,Tephrodornithidae,Passeriformes,LEAST_CONCERN
+5845386,Pastor roseus,Rosy Starling,Sturnidae,Passeriformes,LEAST_CONCERN
+5846272,Turdus simillimus,Indian Blackbird,Turdidae,Passeriformes,LEAST_CONCERN
+5846290,Saxicola maurus,Siberian Stonechat,Muscicapidae,Passeriformes,NOT_EVALUATED
+5846407,Petrochelidon fluvicola,Streak-throated Swallow,Hirundinidae,Passeriformes,LEAST_CONCERN
+5959092,Bubo bubo,Eurasian Eagle-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+5959096,Bubo bengalensis,Rock Eagle-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+5959136,Bubo nipalensis,Spot-bellied Eagle-Owl,Strigidae,Strigiformes,LEAST_CONCERN
+6065768,Sternula saundersi,Saunders's Tern,Laridae,Charadriiformes,LEAST_CONCERN
+6065809,Chroicocephalus brunnicephalus,Brown-headed Gull,Laridae,Charadriiformes,NOT_EVALUATED
+6065810,Chroicocephalus genei,Slender-billed Gull,Laridae,Charadriiformes,NOT_EVALUATED
+6065824,Chroicocephalus ridibundus,Black-headed Gull,Laridae,Charadriiformes,NOT_EVALUATED
+6065833,Thalasseus bengalensis,Lesser Crested Tern,Laridae,Charadriiformes,LEAST_CONCERN
+6065844,Leucophaeus atricilla,Laughing Gull,Laridae,Charadriiformes,NOT_EVALUATED
+6066037,Burhinus indicus,Indian Thick-knee,Burhinidae,Charadriiformes,LEAST_CONCERN
+6066180,Icthyophaga ichthyaetus,Grey-headed Fish Eagle,Accipitridae,Accipitriformes,NEAR_THREATENED
+6066181,Icthyophaga humilis,Lesser Fish Eagle,Accipitridae,Accipitriformes,NEAR_THREATENED
+6066379,Ardea modesta,,Ardeidae,Pelecaniformes,NOT_EVALUATED
+6066393,Bubulcus coromandus,Eastern Cattle Egret,Ardeidae,Pelecaniformes,NOT_EVALUATED
+6066512,Microcarbo niger,Little Cormorant,Phalacrocoracidae,Suliformes,LEAST_CONCERN
+6085868,Pycnonotus gularis,Flame-throated Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+6087954,Rhipidura albogularis,Spot-breasted Fantail,Rhipiduridae,Passeriformes,LEAST_CONCERN
+6088706,Leptocoma minima,Crimson-backed Sunbird,Nectariniidae,Passeriformes,LEAST_CONCERN
+6088887,Tephrodornis sylvicola,Malabar Woodshrike,Tephrodornithidae,Passeriformes,LEAST_CONCERN
+6091832,Sturnia blythii,Malabar Starling,Sturnidae,Passeriformes,NOT_EVALUATED
+6091856,Sturnia sinensis,White-shouldered Starling,Sturnidae,Passeriformes,LEAST_CONCERN
+6092114,Gracula indica,Southern Hill Myna,Sturnidae,Passeriformes,LEAST_CONCERN
+6095444,Apus leuconyx,Blyth's Swift,Apodidae,Apodiformes,NOT_EVALUATED
+6100799,Emberiza lathami,Crested Bunting,Emberizidae,Passeriformes,LEAST_CONCERN
+6100817,Acritillas indica,Yellow-browed Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+6100870,Motacilla maderaspatensis,White-browed Wagtail,Motacillidae,Passeriformes,LEAST_CONCERN
+6100873,Geokichla wardii,Pied Thrush,Turdidae,Passeriformes,LEAST_CONCERN
+6100882,Geokichla citrina,Orange-headed Thrush,Turdidae,Passeriformes,LEAST_CONCERN
+6100892,Zoothera neilgherriensis,Nilgiri Thrush,Turdidae,Passeriformes,NOT_EVALUATED
+6100940,Agropsar sturninus,Daurian Starling,Sturnidae,Passeriformes,LEAST_CONCERN
+6100941,Sturnia pagodarum,Brahminy Starling,Sturnidae,Passeriformes,LEAST_CONCERN
+6100959,Corvus culminatus,Indian Jungle Crow,Corvidae,Passeriformes,NOT_EVALUATED
+6100968,Gymnoris xanthocollis,Yellow-throated Sparrow,Passeridae,Passeriformes,LEAST_CONCERN
+6101024,Iduna aedon,Thick-billed Warbler,Acrocephalidae,Passeriformes,NOT_EVALUATED
+6101031,Pericrocotus speciosus,Scarlet Minivet,Campephagidae,Passeriformes,NOT_EVALUATED
+6101070,Parus cinereus,Cinereous Tit,Paridae,Passeriformes,NOT_EVALUATED
+6101123,Trochalopteron cachinnans,Nilgiri Laughingthrush,Leiothrichidae,Passeriformes,NEAR_THREATENED
+6101131,Trochalopteron fairbanki,Kerala Laughingthrush,Leiothrichidae,Passeriformes,NEAR_THREATENED
+6101186,Lyncornis macrotis,Great Eared-Nightjar,Caprimulgidae,Caprimulgiformes,LEAST_CONCERN
+6101223,Spilopelia senegalensis,Laughing Dove,Columbidae,Columbiformes,LEAST_CONCERN
+6101224,Spilopelia chinensis,Spotted Dove,Columbidae,Columbiformes,LEAST_CONCERN
+6101234,Treron affinis,Gray-fronted Green-Pigeon,Columbidae,Columbiformes,LEAST_CONCERN
+7340192,Phodilus assimilis,Sri Lanka Bay-Owl,Tytonidae,Strigiformes,LEAST_CONCERN
+7340278,Ptyonoprogne concolor,Dusky Crag-Martin,Hirundinidae,Passeriformes,LEAST_CONCERN
+7340537,Turdoides striata,Jungle Babbler,Leiothrichidae,Passeriformes,LEAST_CONCERN
+7340540,Cinnyris lotenius,Long-billed Sunbird,Nectariniidae,Passeriformes,LEAST_CONCERN
+7340545,Turdoides subrufa,Rufous Babbler,Leiothrichidae,Passeriformes,LEAST_CONCERN
+7340608,Cinnyris asiaticus,Purple Sunbird,Nectariniidae,Passeriformes,LEAST_CONCERN
+7340855,Leptocoma zeylonica,Purple-rumped Sunbird,Nectariniidae,Passeriformes,LEAST_CONCERN
+7341522,Phylloscopus humei,Hume's Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+7341536,Eumyias thalassinus,Verditer Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+7341580,Sturnia malabarica,Chestnut-tailed Starling,Sturnidae,Passeriformes,LEAST_CONCERN
+7341877,Parus aplonotus,Indian Black-lored Tit,Paridae,Passeriformes,NOT_EVALUATED
+7342065,Sylvia crassirostris,Eastern Orphean Warbler,Sylviidae,Passeriformes,LEAST_CONCERN
+7342071,Hypsipetes ganeesa,Square-tailed Bulbul,Pycnonotidae,Passeriformes,LEAST_CONCERN
+7387276,Chrysocolaptes guttacristatus,Greater Flameback,Picidae,Piciformes,LEAST_CONCERN
+7522803,Psilopogon rubricapillus,Crimson-fronted Barbet,Megalaimidae,Piciformes,LEAST_CONCERN
+7537888,Calidris falcinellus,Broad-billed Sandpiper,Scolopacidae,Charadriiformes,VULNERABLE
+7691806,Psilopogon haemacephalus,Coppersmith Barbet,Megalaimidae,Piciformes,LEAST_CONCERN
+7745240,Lanius collurio,Red-backed Shrike,Laniidae,Passeriformes,LEAST_CONCERN
+7760921,Psilopogon zeylanicus,Brown-headed Barbet,Megalaimidae,Piciformes,LEAST_CONCERN
+7788295,Haematopus ostralegus,Eurasian Oystercatcher,Haematopodidae,Charadriiformes,NEAR_THREATENED
+7796884,Psilopogon viridis,White-cheeked Barbet,Megalaimidae,Piciformes,LEAST_CONCERN
+7982160,Larus canus,Mew Gull,Laridae,Charadriiformes,LEAST_CONCERN
+8000602,Mareca penelope,Eurasian Wigeon,Anatidae,Anseriformes,LEAST_CONCERN
+8012314,Jynx torquilla,Eurasian Wryneck,Picidae,Piciformes,LEAST_CONCERN
+8028588,Ichthyaetus ichthyaetus,Pallas's Gull,Laridae,Charadriiformes,NOT_EVALUATED
+8077224,Alauda arvensis,Eurasian Skylark,Alaudidae,Passeriformes,LEAST_CONCERN
+8082581,Synoicus chinensis,Blue-breasted Quail,Phasianidae,Galliformes,LEAST_CONCERN
+8157718,Psilopogon malabaricus,Malabar Barbet,Megalaimidae,Piciformes,LEAST_CONCERN
+8214667,Anas crecca,Green-winged Teal,Anatidae,Anseriformes,LEAST_CONCERN
+8250742,Calidris pugnax,Ruff,Scolopacidae,Charadriiformes,LEAST_CONCERN
+8292425,Calidris subruficollis,Buff-breasted Sandpiper,Scolopacidae,Charadriiformes,VULNERABLE
+8303453,Ichthyaetus hemprichii,Sooty Gull,Laridae,Charadriiformes,NOT_EVALUATED
+8332393,Spatula clypeata,Northern Shoveler,Anatidae,Anseriformes,LEAST_CONCERN
+8908559,Leiopicus mahrattensis,Yellow-crowned Woodpecker,Picidae,Piciformes,LEAST_CONCERN
+8966665,Yungipicus nanus,Brown-capped Pygmy Woodpecker,Picidae,Piciformes,NOT_EVALUATED
+9273219,Lanius schach,Long-tailed Shrike,Laniidae,Passeriformes,LEAST_CONCERN
+9274012,Spatula querquedula,Garganey,Anatidae,Anseriformes,LEAST_CONCERN
+9326020,Gallus gallus,Red Junglefowl,Phasianidae,Galliformes,LEAST_CONCERN
+9362027,Mareca strepera,Gadwall,Anatidae,Anseriformes,LEAST_CONCERN
+9367409,Sterna hirundo,Common Tern,Laridae,Charadriiformes,LEAST_CONCERN
+9450106,Anas poecilorhyncha,spot-billed duck,Anatidae,Anseriformes,LEAST_CONCERN
+9451184,Pavo cristatus,Indian Peafowl,Phasianidae,Galliformes,LEAST_CONCERN
+9465111,Anthus richardi,Richard's/Blyth's Pipit,Motacillidae,Passeriformes,LEAST_CONCERN
+9509689,Caprimulgus indicus,Jungle Nightjar,Caprimulgidae,Caprimulgiformes,LEAST_CONCERN
+9512459,Anous stolidus,Brown Noddy,Laridae,Charadriiformes,LEAST_CONCERN
+9515886,Hirundo rustica,Barn Swallow,Hirundinidae,Passeriformes,LEAST_CONCERN
+9522580,Pterocles exustus,Chestnut-bellied Sandgrouse,Pteroclididae,Pteroclidiformes,LEAST_CONCERN
+9523325,Oriolus kundoo,Indian Golden Oriole,Oriolidae,Passeriformes,LEAST_CONCERN
+9561629,Gyps himalayensis,Himalayan Griffon,Accipitridae,Accipitriformes,NEAR_THREATENED
+9566476,Emberiza buchanani,Gray-necked Bunting,Emberizidae,Passeriformes,LEAST_CONCERN
+9566659,Charadrius hiaticula,Common Ringed Plover,Charadriidae,Charadriiformes,LEAST_CONCERN
+9573362,Picus chlorolophus,Lesser Yellownape,Picidae,Piciformes,LEAST_CONCERN
+9584698,Falco naumanni,Lesser Kestrel,Falconidae,Falconiformes,LEAST_CONCERN
+9584952,Phylloscopus nitidus,Green Warbler,Phylloscopidae,Passeriformes,LEAST_CONCERN
+9600020,Dicrurus leucophaeus,Ashy Drongo,Dicruridae,Passeriformes,LEAST_CONCERN
+9606290,Meleagris gallopavo,Wild Turkey,Phasianidae,Galliformes,LEAST_CONCERN
+9610931,Sitta frontalis,Velvet-fronted Nuthatch,Sittidae,Passeriformes,LEAST_CONCERN
+9613112,Emberiza melanocephala,Black-headed Bunting,Emberizidae,Passeriformes,LEAST_CONCERN
+9616058,Falco tinnunculus,Eurasian Kestrel,Falconidae,Falconiformes,LEAST_CONCERN
+9687165,Motacilla alba,White Wagtail,Motacillidae,Passeriformes,LEAST_CONCERN
+9701857,Motacilla flava,Western Yellow Wagtail,Motacillidae,Passeriformes,LEAST_CONCERN
+9705453,Parus major,Great Tit,Paridae,Passeriformes,LEAST_CONCERN
+9717283,Cecropis daurica,Eastern Red-rumped Swallow,Hirundinidae,Passeriformes,LEAST_CONCERN
+9722670,Charadrius mongolus,Lesser Sand-Plover,Charadriidae,Charadriiformes,ENDANGERED
+9743996,Phaethon aethereus,Red-billed/Red-tailed Tropicbird,Phaethontidae,Phaethontiformes,LEAST_CONCERN
+9750846,Oriolus chinensis,Black-naped Oriole,Oriolidae,Passeriformes,LEAST_CONCERN
+9751099,Cairina moschata,Muscovy Duck,Anatidae,Anseriformes,LEAST_CONCERN
+9752617,Ardea alba,Great Egret,Ardeidae,Pelecaniformes,LEAST_CONCERN
+9758793,Cyornis pallidipes,White-bellied Blue Flycatcher,Muscicapidae,Passeriformes,LEAST_CONCERN
+9761484,Anas platyrhynchos,Mallard,Anatidae,Anseriformes,LEAST_CONCERN
+9797180,Ardea cinerea,Gray/Purple Heron,Ardeidae,Pelecaniformes,LEAST_CONCERN
+10785624,Montecincla meridionalis,Ashambu Laughingthrush,Leiothrichidae,Passeriformes,VULNERABLE
+11273070,Ortygornis pondicerianus,Grey Francolin,Phasianidae,Galliformes,LEAST_CONCERN
+11746102,Chrysocolaptes socialis,Malabar Flameback,Picidae,Piciformes,NOT_EVALUATED
+12232620,Ketupa nipalensis,Spot-bellied Eagle-Owl,Strigidae,Strigiformes,NOT_EVALUATED
