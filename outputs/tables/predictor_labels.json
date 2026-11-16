@@ -1,0 +1,23 @@
+{
+ "bio1": "Mean annual temperature",
+ "bio12": "Annual rainfall",
+ "bio4": "Temperature seasonality",
+ "bio15": "Rainfall seasonality",
+ "bio2": "Day-night temperature range",
+ "bio14": "Driest-month rainfall",
+ "bio18": "Warmest-quarter rainfall",
+ "ndvi_median": "Greenness (median NDVI)",
+ "ndvi_range": "Greenness seasonality (NDVI range)",
+ "elev_sd": "Terrain ruggedness",
+ "slope": "Slope",
+ "elev_mean": "Elevation",
+ "lc_tree": "Tree cover",
+ "lc_shrub": "Shrubland",
+ "lc_grass": "Grassland",
+ "lc_crop": "Cropland",
+ "lc_built": "Built-up",
+ "lc_water": "Open water",
+ "lc_wetland": "Wetland",
+ "dist_water_km": "Distance to inland water",
+ "lc_shannon": "Land-cover diversity"
+}

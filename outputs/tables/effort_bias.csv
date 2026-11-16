@@ -1,0 +1,4 @@
+measure,column,cells_available,r_with_log_effort,r_on_own_cells
+Observed species,observed_species,3043,0.800581215477555,0.9144820379851463
+Species at 95% coverage (tested),richness_coverage,1581,0.1981186816631121,0.1981186816631121
+Species in 200 records (used),richness,2058,0.1503093716539761,0.058598643467746535

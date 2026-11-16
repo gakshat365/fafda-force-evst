@@ -1,0 +1,49 @@
+species,scientific_name,habitat,iucn,presences,absences,model,AUC,TSS
+Great Hornbill,Buceros bicornis,Large evergreen forest,VU,94,1200,GLM (linear),0.7833156028368795,0.48659574468085104
+Great Hornbill,Buceros bicornis,Large evergreen forest,VU,94,1200,GLM (quadratic),0.799104609929078,0.48356382978723406
+Great Hornbill,Buceros bicornis,Large evergreen forest,VU,94,1200,Random Forest,0.7895921985815604,0.46634751773049643
+Great Hornbill,Buceros bicornis,Large evergreen forest,VU,94,1200,XGBoost,0.7883333333333333,0.46679078014184394
+Malabar Grey Hornbill,Ocyceros griseus,Western Ghats forest (endemic),VU,660,780,GLM (linear),0.9502214452214451,0.7801864801864802
+Malabar Grey Hornbill,Ocyceros griseus,Western Ghats forest (endemic),VU,660,780,GLM (quadratic),0.9630633255633255,0.8208624708624709
+Malabar Grey Hornbill,Ocyceros griseus,Western Ghats forest (endemic),VU,660,780,Random Forest,0.973227466977467,0.8428904428904429
+Malabar Grey Hornbill,Ocyceros griseus,Western Ghats forest (endemic),VU,660,780,XGBoost,0.9671406371406372,0.8497668997668997
+Malabar Pied Hornbill,Anthracoceros coronatus,Riverine and dry forest,NT,426,977,GLM (linear),0.9224895603577109,0.6908832730260787
+Malabar Pied Hornbill,Anthracoceros coronatus,Riverine and dry forest,NT,426,977,GLM (quadratic),0.9240801341656215,0.6984036597613659
+Malabar Pied Hornbill,Anthracoceros coronatus,Riverine and dry forest,NT,426,977,Random Forest,0.9311127769688757,0.7228461179907834
+Malabar Pied Hornbill,Anthracoceros coronatus,Riverine and dry forest,NT,426,977,XGBoost,0.9348032926319432,0.7353616753403396
+Kerala Laughingthrush,Trochalopteron fairbanki,High-altitude shola (endemic),NT,57,1227,GLM (linear),0.9283232531205764,0.7777634796036546
+Kerala Laughingthrush,Trochalopteron fairbanki,High-altitude shola (endemic),NT,57,1227,GLM (quadratic),0.9429788815968201,0.7917470938961094
+Kerala Laughingthrush,Trochalopteron fairbanki,High-altitude shola (endemic),NT,57,1227,Random Forest,0.9623958020560774,0.8381160725775318
+Kerala Laughingthrush,Trochalopteron fairbanki,High-altitude shola (endemic),NT,57,1227,XGBoost,0.9574629319835857,0.8291940119246771
+White-bellied Blue Robin,Myiomela albiventris,High-altitude shola (endemic),NT,46,1236,GLM (linear),0.9606198114534965,0.8433586604755875
+White-bellied Blue Robin,Myiomela albiventris,High-altitude shola (endemic),NT,46,1236,GLM (quadratic),0.9508934852961869,0.834564513859575
+White-bellied Blue Robin,Myiomela albiventris,High-altitude shola (endemic),NT,46,1236,Random Forest,0.9719114957084565,0.8570071760236387
+White-bellied Blue Robin,Myiomela albiventris,High-altitude shola (endemic),NT,46,1236,XGBoost,0.9785422822569297,0.8852187983678064
+River Tern,Sterna aurantia,Rivers and reservoirs,VU,1245,536,GLM (linear),0.8504630462147097,0.57723730743871
+River Tern,Sterna aurantia,Rivers and reservoirs,VU,1245,536,GLM (quadratic),0.8710453755319787,0.6196292633219446
+River Tern,Sterna aurantia,Rivers and reservoirs,VU,1245,536,Random Forest,0.8821345081819817,0.6091919918479889
+River Tern,Sterna aurantia,Rivers and reservoirs,VU,1245,536,XGBoost,0.8813238026733802,0.6203350716298028
+Black-bellied Tern,Sterna acuticauda,Rivers and reservoirs,EN,42,1245,GLM (linear),0.6728246318607765,0.29489386115892136
+Black-bellied Tern,Sterna acuticauda,Rivers and reservoirs,EN,42,1245,GLM (quadratic),0.6398164084911072,0.2612736660929432
+Black-bellied Tern,Sterna acuticauda,Rivers and reservoirs,EN,42,1245,Random Forest,0.7189233122968063,0.3462994836488812
+Black-bellied Tern,Sterna acuticauda,Rivers and reservoirs,EN,42,1245,XGBoost,0.7131000191241154,0.4114170969592656
+Spot-billed Pelican,Pelecanus philippensis,Lakes and irrigation tanks,NT,593,837,GLM (linear),0.879044850213865,0.6100644516572276
+Spot-billed Pelican,Pelecanus philippensis,Lakes and irrigation tanks,NT,593,837,GLM (quadratic),0.88880628438916,0.6255276110577204
+Spot-billed Pelican,Pelecanus philippensis,Lakes and irrigation tanks,NT,593,837,Random Forest,0.8867653488226843,0.6298028976046709
+Spot-billed Pelican,Pelecanus philippensis,Lakes and irrigation tanks,NT,593,837,XGBoost,0.886449034031039,0.622989033748975
+Woolly-necked Stork,Ciconia episcopus,Wetlands and farmland,NT,1355,367,GLM (linear),0.8196929326241491,0.5190041927667233
+Woolly-necked Stork,Ciconia episcopus,Wetlands and farmland,NT,1355,367,GLM (quadratic),0.8292950722422755,0.5473863076505424
+Woolly-necked Stork,Ciconia episcopus,Wetlands and farmland,NT,1355,367,Random Forest,0.8621977336939581,0.574407030173844
+Woolly-necked Stork,Ciconia episcopus,Wetlands and farmland,NT,1355,367,XGBoost,0.860637260323557,0.5746865479553979
+Rufous-tailed Lark,Ammomanes phoenicura,Dry open plains,NT,691,901,GLM (linear),0.9223310327325643,0.6712271780350182
+Rufous-tailed Lark,Ammomanes phoenicura,Dry open plains,NT,691,901,GLM (quadratic),0.9215552425267952,0.6832077559746286
+Rufous-tailed Lark,Ammomanes phoenicura,Dry open plains,NT,691,901,Random Forest,0.9325247232934624,0.7216615723645218
+Rufous-tailed Lark,Ammomanes phoenicura,Dry open plains,NT,691,901,XGBoost,0.9288634111318665,0.7049812798450347
+Indian Courser,Cursorius coromandelicus,Dry grassland and scrub,NT,115,1195,GLM (linear),0.8882663270875023,0.6446425322903402
+Indian Courser,Cursorius coromandelicus,Dry grassland and scrub,NT,115,1195,GLM (quadratic),0.8930034564307806,0.6505002728761142
+Indian Courser,Cursorius coromandelicus,Dry grassland and scrub,NT,115,1195,Random Forest,0.921720938693833,0.7332726941968346
+Indian Courser,Cursorius coromandelicus,Dry grassland and scrub,NT,115,1195,XGBoost,0.9028342732399491,0.7027105694014917
+White-rumped Vulture,Gyps bengalensis,Dry forest (Nilgiri-Moyar),CR,95,1192,GLM (linear),0.7859943482868244,0.4578594136347581
+White-rumped Vulture,Gyps bengalensis,Dry forest (Nilgiri-Moyar),CR,95,1192,GLM (quadratic),0.7863299187566231,0.5042211232779936
+White-rumped Vulture,Gyps bengalensis,Dry forest (Nilgiri-Moyar),CR,95,1192,Random Forest,0.877693394560226,0.6489138113740728
+White-rumped Vulture,Gyps bengalensis,Dry forest (Nilgiri-Moyar),CR,95,1192,XGBoost,0.8187212998940304,0.5945249028611798

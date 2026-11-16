@@ -1,0 +1,3044 @@
+cell_id,state,lon,lat,protected,richness_hotspot,threatened_hotspot
+77.30_8.10,Tamil Nadu,77.35,8.15,0.0,False,False
+77.40_8.10,Tamil Nadu,77.45,8.15,0.0,False,False
+77.50_8.10,Tamil Nadu,77.55,8.15,0.06437491842195389,False,False
+77.20_8.20,Tamil Nadu,77.25,8.25,0.0,False,False
+77.30_8.20,Tamil Nadu,77.35,8.25,0.04155533232134987,False,False
+77.40_8.20,Tamil Nadu,77.45,8.25,0.1859743329263444,False,False
+77.50_8.20,Tamil Nadu,77.55,8.25,0.28089370009687636,False,False
+77.60_8.20,Tamil Nadu,77.64999999999999,8.25,0.0,False,False
+77.70_8.20,Tamil Nadu,77.75,8.25,0.0,False,False
+77.80_8.20,Tamil Nadu,77.85,8.25,0.0,False,False
+77.00_8.30,Kerala,77.05,8.350000000000001,0.0,False,False
+77.10_8.30,Kerala,77.14999999999999,8.350000000000001,0.0,False,False
+77.20_8.30,Tamil Nadu,77.25,8.350000000000001,0.0,False,False
+77.30_8.30,Tamil Nadu,77.35,8.350000000000001,0.4232387975776734,False,False
+77.40_8.30,Tamil Nadu,77.45,8.350000000000001,0.6701183092897609,False,False
+77.50_8.30,Tamil Nadu,77.55,8.350000000000001,0.40705157933290637,False,False
+77.60_8.30,Tamil Nadu,77.64999999999999,8.350000000000001,0.0,False,False
+77.70_8.30,Tamil Nadu,77.75,8.350000000000001,0.0,False,True
+77.80_8.30,Tamil Nadu,77.85,8.350000000000001,0.0,False,False
+77.90_8.30,Tamil Nadu,77.95,8.350000000000001,0.0,False,False
+76.90_8.40,Kerala,76.95,8.450000000000001,0.0,False,False
+77.00_8.40,Kerala,77.05,8.450000000000001,0.0,False,False
+77.10_8.40,Kerala,77.14999999999999,8.450000000000001,0.0,False,False
+77.20_8.40,Tamil Nadu,77.25,8.450000000000001,0.32215842398982825,False,False
+77.30_8.40,Tamil Nadu,77.35,8.450000000000001,0.9313132767584602,False,False
+77.40_8.40,Tamil Nadu,77.45,8.450000000000001,0.9702284737789953,False,False
+77.50_8.40,Tamil Nadu,77.55,8.450000000000001,0.3907146523762309,False,False
+77.60_8.40,Tamil Nadu,77.64999999999999,8.450000000000001,0.0,False,False
+77.70_8.40,Tamil Nadu,77.75,8.450000000000001,0.009960318692994177,False,True
+77.80_8.40,Tamil Nadu,77.85,8.450000000000001,0.0,False,False
+77.90_8.40,Tamil Nadu,77.95,8.450000000000001,0.0,False,False
+78.00_8.40,Tamil Nadu,78.05,8.450000000000001,0.0,False,False
+76.90_8.50,Kerala,76.95,8.55,0.0,False,False
+77.00_8.50,Kerala,77.05,8.55,0.0,False,False
+77.10_8.50,Kerala,77.14999999999999,8.55,0.2910116252153204,False,False
+77.20_8.50,Kerala,77.25,8.55,0.9994110276561537,False,False
+77.30_8.50,Tamil Nadu,77.35,8.55,1.0,True,False
+77.40_8.50,Tamil Nadu,77.45,8.55,1.0,True,False
+77.50_8.50,Tamil Nadu,77.55,8.55,0.33051884920333635,False,False
+77.60_8.50,Tamil Nadu,77.64999999999999,8.55,0.0,False,False
+77.70_8.50,Tamil Nadu,77.75,8.55,0.0006003840235076727,False,False
+77.80_8.50,Tamil Nadu,77.85,8.55,0.0,False,False
+77.90_8.50,Tamil Nadu,77.95,8.55,0.0,False,False
+78.00_8.50,Tamil Nadu,78.05,8.55,0.0,False,False
+76.80_8.60,Kerala,76.85,8.65,0.0,False,False
+76.90_8.60,Kerala,76.95,8.65,0.0,False,False
+77.00_8.60,Kerala,77.05,8.65,0.0,False,False
+77.10_8.60,Kerala,77.14999999999999,8.65,0.5149395931712084,False,False
+77.20_8.60,Tamil Nadu,77.25,8.65,0.993987898777684,True,False
+77.30_8.60,Tamil Nadu,77.35,8.65,0.9913756860934831,False,False
+77.40_8.60,Tamil Nadu,77.45,8.65,0.40395814012554226,False,False
+77.50_8.60,Tamil Nadu,77.55,8.65,0.04273367602536924,False,False
+77.60_8.60,Tamil Nadu,77.64999999999999,8.65,0.0,False,False
+77.70_8.60,Tamil Nadu,77.75,8.65,0.0,False,False
+77.80_8.60,Tamil Nadu,77.85,8.65,0.046498814794882055,False,False
+77.90_8.60,Tamil Nadu,77.95,8.65,0.0012730480978261852,False,False
+78.00_8.60,Tamil Nadu,78.05,8.65,0.0,False,False
+76.70_8.70,Kerala,76.75,8.75,0.0,False,False
+76.80_8.70,Kerala,76.85,8.75,0.0,False,False
+76.90_8.70,Kerala,76.95,8.75,0.0,False,False
+77.00_8.70,Kerala,77.05,8.75,0.0,False,False
+77.10_8.70,Kerala,77.14999999999999,8.75,0.08607257155664083,False,False
+77.20_8.70,Tamil Nadu,77.25,8.75,0.9218960644043761,False,False
+77.30_8.70,Tamil Nadu,77.35,8.75,0.4550541650946933,False,False
+77.40_8.70,Tamil Nadu,77.45,8.75,0.0,False,False
+77.50_8.70,Tamil Nadu,77.55,8.75,0.0,False,False
+77.60_8.70,Tamil Nadu,77.64999999999999,8.75,0.0,False,False
+77.70_8.70,Tamil Nadu,77.75,8.75,0.0,False,False
+77.80_8.70,Tamil Nadu,77.85,8.75,0.05978123215194327,False,False
+77.90_8.70,Tamil Nadu,77.95,8.75,0.005589213437353109,False,True
+78.00_8.70,Tamil Nadu,78.05,8.75,0.0,False,True
+78.10_8.70,Tamil Nadu,78.14999999999999,8.75,0.0,False,True
+76.60_8.80,Kerala,76.64999999999999,8.850000000000001,0.0,False,False
+76.70_8.80,Kerala,76.75,8.850000000000001,0.0,False,False
+76.80_8.80,Kerala,76.85,8.850000000000001,0.0,False,False
+76.90_8.80,Kerala,76.95,8.850000000000001,0.0,False,False
+77.00_8.80,Kerala,77.05,8.850000000000001,0.01309235612967744,False,False
+77.10_8.80,Kerala,77.14999999999999,8.850000000000001,0.4374321426221979,False,False
+77.20_8.80,Kerala,77.25,8.850000000000001,0.924956451905068,False,False
+77.30_8.80,Tamil Nadu,77.35,8.850000000000001,0.18212787265782243,False,False
+77.40_8.80,Tamil Nadu,77.45,8.850000000000001,0.0,False,False
+77.50_8.80,Tamil Nadu,77.55,8.850000000000001,0.0,False,False
+77.60_8.80,Tamil Nadu,77.64999999999999,8.850000000000001,0.0,False,False
+77.70_8.80,Tamil Nadu,77.75,8.850000000000001,0.023189318817004742,False,False
+77.80_8.80,Tamil Nadu,77.85,8.850000000000001,0.0,False,False
+77.90_8.80,Tamil Nadu,77.95,8.850000000000001,0.0,False,False
+78.00_8.80,Tamil Nadu,78.05,8.850000000000001,0.0,False,False
+78.10_8.80,Tamil Nadu,78.14999999999999,8.850000000000001,0.013701051149097714,False,True
+76.50_8.90,Kerala,76.55,8.950000000000001,0.0,False,False
+76.60_8.90,Kerala,76.64999999999999,8.950000000000001,0.0,False,False
+76.70_8.90,Kerala,76.75,8.950000000000001,0.0,False,False
+76.80_8.90,Kerala,76.85,8.950000000000001,0.0,False,False
+76.90_8.90,Kerala,76.95,8.950000000000001,0.0,False,False
+77.00_8.90,Kerala,77.05,8.950000000000001,0.1084511199318267,False,False
+77.10_8.90,Kerala,77.14999999999999,8.950000000000001,0.481248336770676,False,False
+77.20_8.90,Tamil Nadu,77.25,8.950000000000001,0.3009679637649818,False,False
+77.30_8.90,Tamil Nadu,77.35,8.950000000000001,0.0,False,False
+77.40_8.90,Tamil Nadu,77.45,8.950000000000001,0.0,False,False
+77.50_8.90,Tamil Nadu,77.55,8.950000000000001,0.0,False,False
+77.60_8.90,Tamil Nadu,77.64999999999999,8.950000000000001,0.0,False,False
+77.70_8.90,Tamil Nadu,77.75,8.950000000000001,0.0,False,False
+77.80_8.90,Tamil Nadu,77.85,8.950000000000001,0.0,False,False
+77.90_8.90,Tamil Nadu,77.95,8.950000000000001,0.0,False,False
+78.00_8.90,Tamil Nadu,78.05,8.950000000000001,0.0,False,False
+78.10_8.90,Tamil Nadu,78.14999999999999,8.950000000000001,0.0,False,True
+76.50_9.00,Kerala,76.55,9.05,0.0,False,False
+76.60_9.00,Kerala,76.64999999999999,9.05,0.0,False,False
+76.70_9.00,Kerala,76.75,9.05,0.0,False,False
+76.80_9.00,Kerala,76.85,9.05,0.0,False,False
+76.90_9.00,Kerala,76.95,9.05,0.0,False,False
+77.00_9.00,Kerala,77.05,9.05,0.0,False,False
+77.10_9.00,Kerala,77.14999999999999,9.05,0.14239995986913825,False,False
+77.20_9.00,Tamil Nadu,77.25,9.05,0.3112548111482212,False,False
+77.30_9.00,Tamil Nadu,77.35,9.05,0.0,False,False
+77.40_9.00,Tamil Nadu,77.45,9.05,0.0,False,False
+77.50_9.00,Tamil Nadu,77.55,9.05,0.0,False,False
+77.60_9.00,Tamil Nadu,77.64999999999999,9.05,0.0,False,False
+77.70_9.00,Tamil Nadu,77.75,9.05,0.0,False,False
+77.80_9.00,Tamil Nadu,77.85,9.05,0.0,False,False
+77.90_9.00,Tamil Nadu,77.95,9.05,0.0,False,False
+78.00_9.00,Tamil Nadu,78.05,9.05,0.0,False,False
+78.10_9.00,Tamil Nadu,78.14999999999999,9.05,0.0,False,False
+78.20_9.00,Tamil Nadu,78.25,9.05,0.0,False,False
+76.50_9.10,Kerala,76.55,9.15,0.0,False,False
+76.60_9.10,Kerala,76.64999999999999,9.15,0.0,False,False
+76.70_9.10,Kerala,76.75,9.15,0.0,False,False
+76.80_9.10,Kerala,76.85,9.15,0.0,False,False
+76.90_9.10,Kerala,76.95,9.15,0.0,False,False
+77.00_9.10,Kerala,77.05,9.15,0.0,False,False
+77.10_9.10,Kerala,77.14999999999999,9.15,0.0,False,False
+77.20_9.10,Kerala,77.25,9.15,0.46342857345694594,False,False
+77.30_9.10,Tamil Nadu,77.35,9.15,0.3335430774741471,False,False
+77.40_9.10,Tamil Nadu,77.45,9.15,0.0,False,False
+77.50_9.10,Tamil Nadu,77.55,9.15,0.0,False,False
+77.60_9.10,Tamil Nadu,77.64999999999999,9.15,0.0,False,False
+77.70_9.10,Tamil Nadu,77.75,9.15,0.0,False,False
+77.80_9.10,Tamil Nadu,77.85,9.15,0.0,False,False
+77.90_9.10,Tamil Nadu,77.95,9.15,0.0,False,False
+78.00_9.10,Tamil Nadu,78.05,9.15,0.0,False,False
+78.10_9.10,Tamil Nadu,78.14999999999999,9.15,0.0,False,False
+78.20_9.10,Tamil Nadu,78.25,9.15,0.0,False,False
+78.30_9.10,Tamil Nadu,78.35,9.15,0.0,False,False
+78.40_9.10,Tamil Nadu,78.45,9.15,0.03269122362924034,False,False
+78.50_9.10,Tamil Nadu,78.55,9.15,0.16625493946154893,False,True
+76.40_9.20,Kerala,76.45,9.25,0.0,False,False
+76.50_9.20,Kerala,76.55,9.25,0.0,False,False
+76.60_9.20,Kerala,76.64999999999999,9.25,0.0,False,False
+76.70_9.20,Kerala,76.75,9.25,0.0,False,False
+76.80_9.20,Kerala,76.85,9.25,0.0,False,False
+76.90_9.20,Kerala,76.95,9.25,0.0,False,False
+77.00_9.20,Kerala,77.05,9.25,0.0,False,False
+77.10_9.20,Kerala,77.14999999999999,9.25,0.0,False,False
+77.20_9.20,Kerala,77.25,9.25,0.29168546598085127,False,False
+77.30_9.20,Tamil Nadu,77.35,9.25,0.5112825985572961,False,False
+77.40_9.20,Tamil Nadu,77.45,9.25,0.0,False,False
+77.50_9.20,Tamil Nadu,77.55,9.25,0.0,False,False
+77.60_9.20,Tamil Nadu,77.64999999999999,9.25,0.0,False,False
+77.70_9.20,Tamil Nadu,77.75,9.25,0.0,False,False
+77.80_9.20,Tamil Nadu,77.85,9.25,0.0,False,False
+77.90_9.20,Tamil Nadu,77.95,9.25,0.0,False,False
+78.00_9.20,Tamil Nadu,78.05,9.25,0.0,False,False
+78.10_9.20,Tamil Nadu,78.14999999999999,9.25,0.0,False,False
+78.20_9.20,Tamil Nadu,78.25,9.25,0.0,False,False
+78.30_9.20,Tamil Nadu,78.35,9.25,0.0,False,False
+78.40_9.20,Tamil Nadu,78.45,9.25,0.0,False,False
+78.50_9.20,Tamil Nadu,78.55,9.25,0.04476289414600361,False,False
+78.60_9.20,Tamil Nadu,78.64999999999999,9.25,0.0,False,False
+78.70_9.20,Tamil Nadu,78.75,9.25,0.0,False,False
+78.80_9.20,Tamil Nadu,78.85,9.25,0.02813488216851793,False,False
+76.40_9.30,Kerala,76.45,9.35,0.0,False,False
+76.50_9.30,Kerala,76.55,9.35,0.0,False,False
+76.60_9.30,Kerala,76.64999999999999,9.35,0.0,False,False
+76.70_9.30,Kerala,76.75,9.35,0.0,False,False
+76.80_9.30,Kerala,76.85,9.35,0.0,False,False
+76.90_9.30,Kerala,76.95,9.35,0.0,False,False
+77.00_9.30,Kerala,77.05,9.35,0.023188069077035932,False,False
+77.10_9.30,Kerala,77.14999999999999,9.35,0.29297664086182484,False,False
+77.20_9.30,Kerala,77.25,9.35,0.9386690014802759,False,False
+77.30_9.30,Tamil Nadu,77.35,9.35,0.5725800434780672,False,False
+77.40_9.30,Tamil Nadu,77.45,9.35,0.0,False,False
+77.50_9.30,Tamil Nadu,77.55,9.35,0.0,False,False
+77.60_9.30,Tamil Nadu,77.64999999999999,9.35,0.0,False,False
+77.70_9.30,Tamil Nadu,77.75,9.35,0.0,False,False
+77.80_9.30,Tamil Nadu,77.85,9.35,0.0,False,False
+77.90_9.30,Tamil Nadu,77.95,9.35,0.0,False,False
+78.00_9.30,Tamil Nadu,78.05,9.35,0.0,False,False
+78.10_9.30,Tamil Nadu,78.14999999999999,9.35,0.0,False,False
+78.20_9.30,Tamil Nadu,78.25,9.35,0.0,False,False
+78.30_9.30,Tamil Nadu,78.35,9.35,0.0,False,False
+78.40_9.30,Tamil Nadu,78.45,9.35,0.012118431041996716,False,False
+78.50_9.30,Tamil Nadu,78.55,9.35,0.0,False,False
+78.60_9.30,Tamil Nadu,78.64999999999999,9.35,0.0,False,False
+78.70_9.30,Tamil Nadu,78.75,9.35,0.0012918532708843956,False,False
+78.80_9.30,Tamil Nadu,78.85,9.35,0.020137447221118612,False,False
+78.90_9.30,Tamil Nadu,78.95,9.35,0.0,False,False
+76.30_9.40,Kerala,76.35,9.45,0.0,False,False
+76.40_9.40,Kerala,76.45,9.45,0.0,False,False
+76.50_9.40,Kerala,76.55,9.45,0.0,False,False
+76.60_9.40,Kerala,76.64999999999999,9.45,0.0,False,False
+76.70_9.40,Kerala,76.75,9.45,0.0,False,False
+76.80_9.40,Kerala,76.85,9.45,0.0,False,False
+76.90_9.40,Kerala,76.95,9.45,0.24169605278763467,False,False
+77.00_9.40,Kerala,77.05,9.45,0.8798049352540126,False,False
+77.10_9.40,Kerala,77.14999999999999,9.45,0.8744601179678789,False,False
+77.20_9.40,Kerala,77.25,9.45,0.999999886751529,False,False
+77.30_9.40,Kerala,77.35,9.45,0.9905518241322364,False,False
+77.40_9.40,Tamil Nadu,77.45,9.45,0.4075743094957665,False,False
+77.50_9.40,Tamil Nadu,77.55,9.45,0.0,False,False
+77.60_9.40,Tamil Nadu,77.64999999999999,9.45,0.0,False,False
+77.70_9.40,Tamil Nadu,77.75,9.45,0.0,False,False
+77.80_9.40,Tamil Nadu,77.85,9.45,0.0,False,False
+77.90_9.40,Tamil Nadu,77.95,9.45,0.0,False,False
+78.00_9.40,Tamil Nadu,78.05,9.45,0.0,False,False
+78.10_9.40,Tamil Nadu,78.14999999999999,9.45,0.0,False,False
+78.20_9.40,Tamil Nadu,78.25,9.45,0.0,False,False
+78.30_9.40,Tamil Nadu,78.35,9.45,0.0,False,False
+78.40_9.40,Tamil Nadu,78.45,9.45,0.0,False,False
+78.50_9.40,Tamil Nadu,78.55,9.45,0.0,False,False
+78.60_9.40,Tamil Nadu,78.64999999999999,9.45,0.0,False,False
+78.70_9.40,Tamil Nadu,78.75,9.45,0.004134094484002717,False,False
+78.80_9.40,Tamil Nadu,78.85,9.45,0.0,False,False
+76.30_9.50,Kerala,76.35,9.55,0.0,False,False
+76.40_9.50,Kerala,76.45,9.55,0.0,False,False
+76.50_9.50,Kerala,76.55,9.55,0.0,False,False
+76.60_9.50,Kerala,76.64999999999999,9.55,0.0,False,False
+76.70_9.50,Kerala,76.75,9.55,0.0,False,False
+76.80_9.50,Kerala,76.85,9.55,0.0,False,False
+76.90_9.50,Kerala,76.95,9.55,0.0,False,False
+77.00_9.50,Kerala,77.05,9.55,0.08078898216536327,False,False
+77.10_9.50,Kerala,77.14999999999999,9.55,0.8449409839342741,False,False
+77.20_9.50,Kerala,77.25,9.55,0.9757186694699618,False,False
+77.30_9.50,Kerala,77.35,9.55,0.6524944084900299,False,False
+77.40_9.50,Tamil Nadu,77.45,9.55,0.4187368103393742,False,False
+77.50_9.50,Tamil Nadu,77.55,9.55,0.6057797545605975,False,False
+77.60_9.50,Tamil Nadu,77.64999999999999,9.55,0.17626097828846635,False,False
+77.70_9.50,Tamil Nadu,77.75,9.55,0.0,False,False
+77.80_9.50,Tamil Nadu,77.85,9.55,0.0,False,False
+77.90_9.50,Tamil Nadu,77.95,9.55,0.0,False,False
+78.00_9.50,Tamil Nadu,78.05,9.55,0.0,False,False
+78.10_9.50,Tamil Nadu,78.14999999999999,9.55,0.0,False,False
+78.20_9.50,Tamil Nadu,78.25,9.55,0.0,False,False
+78.30_9.50,Tamil Nadu,78.35,9.55,0.0,False,False
+78.40_9.50,Tamil Nadu,78.45,9.55,0.0,False,False
+78.50_9.50,Tamil Nadu,78.55,9.55,0.0,False,False
+78.60_9.50,Tamil Nadu,78.64999999999999,9.55,0.0,False,False
+78.70_9.50,Tamil Nadu,78.75,9.55,0.0,False,False
+78.80_9.50,Tamil Nadu,78.85,9.55,0.0,False,False
+76.30_9.60,Kerala,76.35,9.65,0.0,False,False
+76.40_9.60,Kerala,76.45,9.65,0.002583759181999989,False,False
+76.50_9.60,Kerala,76.55,9.65,0.0,False,False
+76.60_9.60,Kerala,76.64999999999999,9.65,0.0,False,False
+76.70_9.60,Kerala,76.75,9.65,0.0,False,False
+76.80_9.60,Kerala,76.85,9.65,0.0,False,False
+76.90_9.60,Kerala,76.95,9.65,0.0,False,False
+77.00_9.60,Kerala,77.05,9.65,0.0,False,False
+77.10_9.60,Kerala,77.14999999999999,9.65,0.07699215656286927,False,False
+77.20_9.60,Tamil Nadu,77.25,9.65,0.31841858832415487,False,False
+77.30_9.60,Tamil Nadu,77.35,9.65,0.37441568657324376,True,False
+77.40_9.60,Tamil Nadu,77.45,9.65,0.01698389657196334,False,False
+77.50_9.60,Tamil Nadu,77.55,9.65,0.3549230023274441,False,False
+77.60_9.60,Tamil Nadu,77.64999999999999,9.65,0.06274743868897405,False,False
+77.70_9.60,Tamil Nadu,77.75,9.65,0.005133452323218692,False,False
+77.80_9.60,Tamil Nadu,77.85,9.65,0.0,False,False
+77.90_9.60,Tamil Nadu,77.95,9.65,0.0,False,False
+78.00_9.60,Tamil Nadu,78.05,9.65,0.0,False,False
+78.10_9.60,Tamil Nadu,78.14999999999999,9.65,0.0,False,False
+78.20_9.60,Tamil Nadu,78.25,9.65,0.0,False,False
+78.30_9.60,Tamil Nadu,78.35,9.65,0.0,False,False
+78.40_9.60,Tamil Nadu,78.45,9.65,0.0,False,False
+78.50_9.60,Tamil Nadu,78.55,9.65,0.0,False,False
+78.60_9.60,Tamil Nadu,78.64999999999999,9.65,0.0,False,False
+78.70_9.60,Tamil Nadu,78.75,9.65,0.0,False,False
+78.80_9.60,Tamil Nadu,78.85,9.65,0.0,False,False
+78.90_9.60,Tamil Nadu,78.95,9.65,0.0,False,False
+76.30_9.70,Kerala,76.35,9.75,0.0,False,False
+76.40_9.70,Kerala,76.45,9.75,0.0,False,False
+76.50_9.70,Kerala,76.55,9.75,0.0,False,False
+76.60_9.70,Kerala,76.64999999999999,9.75,0.0,False,False
+76.70_9.70,Kerala,76.75,9.75,0.0,False,False
+76.80_9.70,Kerala,76.85,9.75,0.004195260859381566,False,False
+76.90_9.70,Kerala,76.95,9.75,0.5597571646259979,False,False
+77.00_9.70,Kerala,77.05,9.75,0.33602444579177737,False,False
+77.10_9.70,Kerala,77.14999999999999,9.75,0.0,False,False
+77.20_9.70,Tamil Nadu,77.25,9.75,0.0,False,False
+77.30_9.70,Tamil Nadu,77.35,9.75,0.2631137784109353,False,False
+77.40_9.70,Tamil Nadu,77.45,9.75,0.17109730394337072,False,False
+77.50_9.70,Tamil Nadu,77.55,9.75,0.2943997393583087,False,False
+77.60_9.70,Tamil Nadu,77.64999999999999,9.75,0.709703840345718,False,False
+77.70_9.70,Tamil Nadu,77.75,9.75,0.08004483242721519,False,False
+77.80_9.70,Tamil Nadu,77.85,9.75,0.0,False,False
+77.90_9.70,Tamil Nadu,77.95,9.75,0.0,False,False
+78.00_9.70,Tamil Nadu,78.05,9.75,0.0,False,False
+78.10_9.70,Tamil Nadu,78.14999999999999,9.75,0.0,False,False
+78.20_9.70,Tamil Nadu,78.25,9.75,0.0,False,False
+78.30_9.70,Tamil Nadu,78.35,9.75,0.0,False,False
+78.40_9.70,Tamil Nadu,78.45,9.75,0.0,False,False
+78.50_9.70,Tamil Nadu,78.55,9.75,0.0,False,False
+78.60_9.70,Tamil Nadu,78.64999999999999,9.75,0.0,False,False
+78.70_9.70,Tamil Nadu,78.75,9.75,0.0,False,False
+78.80_9.70,Tamil Nadu,78.85,9.75,0.0,False,False
+78.90_9.70,Tamil Nadu,78.95,9.75,0.0,False,False
+76.30_9.80,Kerala,76.35,9.85,0.0,False,False
+76.40_9.80,Kerala,76.45,9.85,0.0,False,False
+76.50_9.80,Kerala,76.55,9.85,0.0,False,False
+76.60_9.80,Kerala,76.64999999999999,9.85,0.0,False,False
+76.70_9.80,Kerala,76.75,9.85,0.0,False,False
+76.80_9.80,Kerala,76.85,9.85,0.010528121150086793,False,False
+76.90_9.80,Kerala,76.95,9.85,0.2380394179412472,False,False
+77.00_9.80,Kerala,77.05,9.85,0.027680755084038437,False,False
+77.10_9.80,Kerala,77.14999999999999,9.85,0.0,False,False
+77.20_9.80,Tamil Nadu,77.25,9.85,0.0,False,False
+77.30_9.80,Tamil Nadu,77.35,9.85,0.0,False,False
+77.40_9.80,Tamil Nadu,77.45,9.85,0.00024202757786593738,False,False
+77.50_9.80,Tamil Nadu,77.55,9.85,0.6410122575838249,False,False
+77.60_9.80,Tamil Nadu,77.64999999999999,9.85,0.3837735693063482,False,False
+77.70_9.80,Tamil Nadu,77.75,9.85,0.022217797239224363,False,False
+77.80_9.80,Tamil Nadu,77.85,9.85,0.0,False,False
+77.90_9.80,Tamil Nadu,77.95,9.85,0.0,False,False
+78.00_9.80,Tamil Nadu,78.05,9.85,0.0,False,False
+78.10_9.80,Tamil Nadu,78.14999999999999,9.85,0.0,False,False
+78.20_9.80,Tamil Nadu,78.25,9.85,0.0,False,False
+78.30_9.80,Tamil Nadu,78.35,9.85,0.0,False,False
+78.40_9.80,Tamil Nadu,78.45,9.85,0.0,False,False
+78.50_9.80,Tamil Nadu,78.55,9.85,0.0,False,False
+78.60_9.80,Tamil Nadu,78.64999999999999,9.85,0.0,False,False
+78.70_9.80,Tamil Nadu,78.75,9.85,0.0,False,False
+78.80_9.80,Tamil Nadu,78.85,9.85,0.0,False,False
+78.90_9.80,Tamil Nadu,78.95,9.85,0.0,False,False
+79.00_9.80,Tamil Nadu,79.05,9.85,0.0,False,False
+76.20_9.90,Kerala,76.25,9.95,0.00022949935999967623,False,False
+76.30_9.90,Kerala,76.35,9.95,0.0,False,False
+76.40_9.90,Kerala,76.45,9.95,0.0,False,False
+76.50_9.90,Kerala,76.55,9.95,0.0,False,False
+76.60_9.90,Kerala,76.64999999999999,9.95,0.0,False,False
+76.70_9.90,Kerala,76.75,9.95,0.0,False,False
+76.80_9.90,Kerala,76.85,9.95,0.0,False,False
+76.90_9.90,Kerala,76.95,9.95,0.0,False,False
+77.00_9.90,Kerala,77.05,9.95,0.0,False,False
+77.10_9.90,Kerala,77.14999999999999,9.95,0.0,False,False
+77.20_9.90,Tamil Nadu,77.25,9.95,0.16210951611069926,False,False
+77.30_9.90,Tamil Nadu,77.35,9.95,0.0,False,False
+77.40_9.90,Tamil Nadu,77.45,9.95,0.0,False,False
+77.50_9.90,Tamil Nadu,77.55,9.95,0.0,False,False
+77.60_9.90,Tamil Nadu,77.64999999999999,9.95,0.3329825806550537,False,False
+77.70_9.90,Tamil Nadu,77.75,9.95,0.3469824243623622,False,False
+77.80_9.90,Tamil Nadu,77.85,9.95,0.0,False,False
+77.90_9.90,Tamil Nadu,77.95,9.95,0.0,False,False
+78.00_9.90,Tamil Nadu,78.05,9.95,0.0,False,False
+78.10_9.90,Tamil Nadu,78.14999999999999,9.95,0.0,False,False
+78.20_9.90,Tamil Nadu,78.25,9.95,0.0,False,False
+78.30_9.90,Tamil Nadu,78.35,9.95,0.0,False,False
+78.40_9.90,Tamil Nadu,78.45,9.95,0.0,False,False
+78.50_9.90,Tamil Nadu,78.55,9.95,0.0,False,False
+78.60_9.90,Tamil Nadu,78.64999999999999,9.95,0.0,False,False
+78.70_9.90,Tamil Nadu,78.75,9.95,0.0,False,False
+78.80_9.90,Tamil Nadu,78.85,9.95,0.0,False,False
+78.90_9.90,Tamil Nadu,78.95,9.95,0.0,False,False
+79.00_9.90,Tamil Nadu,79.05,9.95,0.0,False,False
+79.10_9.90,Tamil Nadu,79.14999999999999,9.95,0.0,False,False
+76.20_10.00,Kerala,76.25,10.05,0.0,False,False
+76.30_10.00,Kerala,76.35,10.05,0.0,False,False
+76.40_10.00,Kerala,76.45,10.05,0.0,False,False
+76.50_10.00,Kerala,76.55,10.05,0.0,False,False
+76.60_10.00,Kerala,76.64999999999999,10.05,0.0,False,False
+76.70_10.00,Kerala,76.75,10.05,0.0,False,False
+76.80_10.00,Kerala,76.85,10.05,0.0,False,False
+76.90_10.00,Kerala,76.95,10.05,0.0,False,False
+77.00_10.00,Kerala,77.05,10.05,0.0,False,False
+77.10_10.00,Kerala,77.14999999999999,10.05,0.0,False,False
+77.20_10.00,Tamil Nadu,77.25,10.05,0.022649128758300153,True,False
+77.30_10.00,Tamil Nadu,77.35,10.05,0.0,False,False
+77.40_10.00,Tamil Nadu,77.45,10.05,0.0,False,False
+77.50_10.00,Tamil Nadu,77.55,10.05,0.0,False,False
+77.60_10.00,Tamil Nadu,77.64999999999999,10.05,0.0,False,False
+77.70_10.00,Tamil Nadu,77.75,10.05,0.0,False,False
+77.80_10.00,Tamil Nadu,77.85,10.05,0.0,False,False
+77.90_10.00,Tamil Nadu,77.95,10.05,0.0,False,False
+78.00_10.00,Tamil Nadu,78.05,10.05,0.0,False,False
+78.10_10.00,Tamil Nadu,78.14999999999999,10.05,0.0,False,False
+78.20_10.00,Tamil Nadu,78.25,10.05,0.0,False,False
+78.30_10.00,Tamil Nadu,78.35,10.05,0.0,False,False
+78.40_10.00,Tamil Nadu,78.45,10.05,0.0,False,False
+78.50_10.00,Tamil Nadu,78.55,10.05,0.0,False,False
+78.60_10.00,Tamil Nadu,78.64999999999999,10.05,0.0,False,False
+78.70_10.00,Tamil Nadu,78.75,10.05,0.0,False,False
+78.80_10.00,Tamil Nadu,78.85,10.05,0.0,False,False
+78.90_10.00,Tamil Nadu,78.95,10.05,0.0,False,False
+79.00_10.00,Tamil Nadu,79.05,10.05,0.0,False,False
+79.10_10.00,Tamil Nadu,79.14999999999999,10.05,0.0,False,False
+76.20_10.10,Kerala,76.25,10.15,0.0,False,False
+76.30_10.10,Kerala,76.35,10.15,0.0,False,False
+76.40_10.10,Kerala,76.45,10.15,0.0,False,False
+76.50_10.10,Kerala,76.55,10.15,0.0,False,False
+76.60_10.10,Kerala,76.64999999999999,10.15,0.01958307659030186,False,False
+76.70_10.10,Kerala,76.75,10.15,0.09367534781967683,True,False
+76.80_10.10,Kerala,76.85,10.15,0.0,False,False
+76.90_10.10,Kerala,76.95,10.15,7.958238516388671e-07,False,False
+77.00_10.10,Kerala,77.05,10.15,0.1747057040237659,False,False
+77.10_10.10,Kerala,77.14999999999999,10.15,0.10930515531894071,False,False
+77.20_10.10,Kerala,77.25,10.15,0.20287841465390818,False,False
+77.30_10.10,Tamil Nadu,77.35,10.15,0.3232834968744672,False,False
+77.40_10.10,Tamil Nadu,77.45,10.15,0.4994655238933455,False,False
+77.50_10.10,Tamil Nadu,77.55,10.15,0.23696345625181472,False,False
+77.60_10.10,Tamil Nadu,77.64999999999999,10.15,0.16684570918294356,False,False
+77.70_10.10,Tamil Nadu,77.75,10.15,0.0,False,False
+77.80_10.10,Tamil Nadu,77.85,10.15,0.0,False,False
+77.90_10.10,Tamil Nadu,77.95,10.15,0.0,False,False
+78.00_10.10,Tamil Nadu,78.05,10.15,0.0,False,False
+78.10_10.10,Tamil Nadu,78.14999999999999,10.15,0.0,False,False
+78.20_10.10,Tamil Nadu,78.25,10.15,0.0,False,False
+78.30_10.10,Tamil Nadu,78.35,10.15,0.0,False,False
+78.40_10.10,Tamil Nadu,78.45,10.15,0.0,False,False
+78.50_10.10,Tamil Nadu,78.55,10.15,0.0025658931720004725,False,False
+78.60_10.10,Tamil Nadu,78.64999999999999,10.15,0.0,False,False
+78.70_10.10,Tamil Nadu,78.75,10.15,0.0,False,False
+78.80_10.10,Tamil Nadu,78.85,10.15,0.0,False,False
+78.90_10.10,Tamil Nadu,78.95,10.15,0.0,False,False
+79.00_10.10,Tamil Nadu,79.05,10.15,0.0,False,False
+79.10_10.10,Tamil Nadu,79.14999999999999,10.15,0.0,False,False
+76.10_10.20,Kerala,76.14999999999999,10.25,0.0,False,False
+76.20_10.20,Kerala,76.25,10.25,0.0,False,False
+76.30_10.20,Kerala,76.35,10.25,0.0,False,False
+76.40_10.20,Kerala,76.45,10.25,0.0,False,False
+76.50_10.20,Kerala,76.55,10.25,0.0,False,True
+76.60_10.20,Kerala,76.64999999999999,10.25,0.0,False,False
+76.70_10.20,Kerala,76.75,10.25,0.0,True,False
+76.80_10.20,Kerala,76.85,10.25,0.0,False,False
+76.90_10.20,Tamil Nadu,76.95,10.25,0.34556869483269603,False,False
+77.00_10.20,Kerala,77.05,10.25,0.7953927749968354,False,False
+77.10_10.20,Kerala,77.14999999999999,10.25,0.23809974914653864,False,False
+77.20_10.20,Kerala,77.25,10.25,0.7509335651042588,False,False
+77.30_10.20,Tamil Nadu,77.35,10.25,0.5411270318154191,False,False
+77.40_10.20,Tamil Nadu,77.45,10.25,0.4361673726122001,False,False
+77.50_10.20,Tamil Nadu,77.55,10.25,0.5365069862369359,False,False
+77.60_10.20,Tamil Nadu,77.64999999999999,10.25,0.5583022163458609,False,False
+77.70_10.20,Tamil Nadu,77.75,10.25,0.023269885909250353,False,False
+77.80_10.20,Tamil Nadu,77.85,10.25,0.0,False,False
+77.90_10.20,Tamil Nadu,77.95,10.25,0.0,False,False
+78.00_10.20,Tamil Nadu,78.05,10.25,0.0,False,False
+78.10_10.20,Tamil Nadu,78.14999999999999,10.25,0.0,False,False
+78.20_10.20,Tamil Nadu,78.25,10.25,0.0,False,False
+78.30_10.20,Tamil Nadu,78.35,10.25,0.0,False,False
+78.40_10.20,Tamil Nadu,78.45,10.25,0.0,False,False
+78.50_10.20,Tamil Nadu,78.55,10.25,0.0,False,False
+78.60_10.20,Tamil Nadu,78.64999999999999,10.25,0.0,False,False
+78.70_10.20,Tamil Nadu,78.75,10.25,0.0,False,False
+78.80_10.20,Tamil Nadu,78.85,10.25,0.0,False,False
+78.90_10.20,Tamil Nadu,78.95,10.25,0.0,False,False
+79.00_10.20,Tamil Nadu,79.05,10.25,0.0,False,False
+79.10_10.20,Tamil Nadu,79.14999999999999,10.25,0.0,False,False
+79.20_10.20,Tamil Nadu,79.25,10.25,0.0,False,False
+76.10_10.30,Kerala,76.14999999999999,10.35,0.0,False,False
+76.20_10.30,Kerala,76.25,10.35,0.0,False,False
+76.30_10.30,Kerala,76.35,10.35,0.0,False,False
+76.40_10.30,Kerala,76.45,10.35,0.1366807799585344,False,False
+76.50_10.30,Kerala,76.55,10.35,0.17032798646591849,False,False
+76.60_10.30,Kerala,76.64999999999999,10.35,0.24368716144126468,False,False
+76.70_10.30,Kerala,76.75,10.35,0.8130104790657781,True,False
+76.80_10.30,Tamil Nadu,76.85,10.35,0.7411103051875563,False,False
+76.90_10.30,Tamil Nadu,76.95,10.35,0.24980273837996966,False,False
+77.00_10.30,Tamil Nadu,77.05,10.35,0.9284224607897124,False,True
+77.10_10.30,Tamil Nadu,77.14999999999999,10.35,0.9633744871522817,True,False
+77.20_10.30,Tamil Nadu,77.25,10.35,1.0,False,False
+77.30_10.30,Tamil Nadu,77.35,10.35,0.24665922320641737,False,False
+77.40_10.30,Tamil Nadu,77.45,10.35,0.4829842483129995,True,False
+77.50_10.30,Tamil Nadu,77.55,10.35,0.2691446572728735,True,False
+77.60_10.30,Tamil Nadu,77.64999999999999,10.35,0.05113721434814354,False,False
+77.70_10.30,Tamil Nadu,77.75,10.35,0.0,False,False
+77.80_10.30,Tamil Nadu,77.85,10.35,0.0,False,False
+77.90_10.30,Tamil Nadu,77.95,10.35,0.0,False,False
+78.00_10.30,Tamil Nadu,78.05,10.35,0.0,False,False
+78.10_10.30,Tamil Nadu,78.14999999999999,10.35,0.0,False,False
+78.20_10.30,Tamil Nadu,78.25,10.35,0.0,False,False
+78.30_10.30,Tamil Nadu,78.35,10.35,0.0,False,False
+78.40_10.30,Tamil Nadu,78.45,10.35,0.0,False,False
+78.50_10.30,Tamil Nadu,78.55,10.35,0.0,False,False
+78.60_10.30,Tamil Nadu,78.64999999999999,10.35,0.0,False,False
+78.70_10.30,Tamil Nadu,78.75,10.35,0.0,False,False
+78.80_10.30,Tamil Nadu,78.85,10.35,0.0,False,False
+78.90_10.30,Tamil Nadu,78.95,10.35,0.0,False,False
+79.00_10.30,Tamil Nadu,79.05,10.35,0.0,False,False
+79.10_10.30,Tamil Nadu,79.14999999999999,10.35,0.0,False,False
+79.20_10.30,Tamil Nadu,79.25,10.35,0.0,False,False
+79.30_10.30,Tamil Nadu,79.35,10.35,0.0,False,False
+79.40_10.30,Tamil Nadu,79.45,10.35,0.0,False,False
+79.50_10.30,Tamil Nadu,79.55,10.35,0.0,False,True
+79.60_10.30,Tamil Nadu,79.64999999999999,10.35,0.0,False,False
+79.70_10.30,Tamil Nadu,79.75,10.35,0.0,False,True
+79.80_10.30,Tamil Nadu,79.85,10.35,0.10774293042593841,False,True
+76.10_10.40,Kerala,76.14999999999999,10.45,0.0,False,False
+76.20_10.40,Kerala,76.25,10.45,0.0,False,False
+76.30_10.40,Kerala,76.35,10.45,0.013006897981551743,False,False
+76.40_10.40,Kerala,76.45,10.45,0.6313806184897679,True,False
+76.50_10.40,Kerala,76.55,10.45,0.5667026839971575,False,False
+76.60_10.40,Kerala,76.64999999999999,10.45,0.6844078243654649,False,False
+76.70_10.40,Kerala,76.75,10.45,0.6847417030389285,True,False
+76.80_10.40,Tamil Nadu,76.85,10.45,0.9135044192710159,True,False
+76.90_10.40,Tamil Nadu,76.95,10.45,0.6130373496144782,True,False
+77.00_10.40,Tamil Nadu,77.05,10.45,0.8910163826176454,True,False
+77.10_10.40,Tamil Nadu,77.14999999999999,10.45,0.7241204264965172,True,False
+77.20_10.40,Tamil Nadu,77.25,10.45,0.3925735075338508,False,False
+77.30_10.40,Tamil Nadu,77.35,10.45,0.04529894869137998,False,False
+77.40_10.40,Tamil Nadu,77.45,10.45,0.0,False,False
+77.50_10.40,Tamil Nadu,77.55,10.45,0.0,False,False
+77.60_10.40,Tamil Nadu,77.64999999999999,10.45,0.0,False,False
+77.70_10.40,Tamil Nadu,77.75,10.45,0.0,False,False
+77.80_10.40,Tamil Nadu,77.85,10.45,0.0,False,False
+77.90_10.40,Tamil Nadu,77.95,10.45,0.0,False,False
+78.00_10.40,Tamil Nadu,78.05,10.45,0.0,False,False
+78.10_10.40,Tamil Nadu,78.14999999999999,10.45,0.0,False,False
+78.20_10.40,Tamil Nadu,78.25,10.45,0.0,False,False
+78.30_10.40,Tamil Nadu,78.35,10.45,0.0,False,False
+78.40_10.40,Tamil Nadu,78.45,10.45,0.0,False,False
+78.50_10.40,Tamil Nadu,78.55,10.45,0.0,False,False
+78.60_10.40,Tamil Nadu,78.64999999999999,10.45,0.0,False,False
+78.70_10.40,Tamil Nadu,78.75,10.45,0.0,False,False
+78.80_10.40,Tamil Nadu,78.85,10.45,0.0,False,False
+78.90_10.40,Tamil Nadu,78.95,10.45,0.0,False,False
+79.00_10.40,Tamil Nadu,79.05,10.45,0.0,False,False
+79.10_10.40,Tamil Nadu,79.14999999999999,10.45,0.0,False,False
+79.20_10.40,Tamil Nadu,79.25,10.45,0.0,False,False
+79.30_10.40,Tamil Nadu,79.35,10.45,0.0,False,False
+79.40_10.40,Tamil Nadu,79.45,10.45,0.0,False,False
+79.50_10.40,Tamil Nadu,79.55,10.45,0.003632445969499994,False,False
+79.60_10.40,Tamil Nadu,79.64999999999999,10.45,0.0,False,False
+79.70_10.40,Tamil Nadu,79.75,10.45,0.0,False,False
+79.80_10.40,Tamil Nadu,79.85,10.45,0.0,False,False
+76.00_10.50,Kerala,76.05,10.55,0.0,False,False
+76.10_10.50,Kerala,76.14999999999999,10.55,0.0,False,False
+76.20_10.50,Kerala,76.25,10.55,0.0,False,False
+76.30_10.50,Kerala,76.35,10.55,0.29107995644136964,False,False
+76.40_10.50,Kerala,76.45,10.55,0.3214160828509915,False,False
+76.50_10.50,Kerala,76.55,10.55,0.035125158195718854,False,False
+76.60_10.50,Kerala,76.64999999999999,10.55,0.029757402373373112,True,False
+76.70_10.50,Kerala,76.75,10.55,0.0,True,False
+76.80_10.50,Tamil Nadu,76.85,10.55,0.21774216519916464,False,False
+76.90_10.50,Tamil Nadu,76.95,10.55,0.0006808032556624102,False,False
+77.00_10.50,Tamil Nadu,77.05,10.55,0.0886880439317521,False,False
+77.10_10.50,Tamil Nadu,77.14999999999999,10.55,0.0,False,False
+77.20_10.50,Tamil Nadu,77.25,10.55,0.0,False,False
+77.30_10.50,Tamil Nadu,77.35,10.55,0.0,False,False
+77.40_10.50,Tamil Nadu,77.45,10.55,0.0,False,False
+77.50_10.50,Tamil Nadu,77.55,10.55,0.0,False,False
+77.60_10.50,Tamil Nadu,77.64999999999999,10.55,0.0,False,False
+77.70_10.50,Tamil Nadu,77.75,10.55,0.0,False,False
+77.80_10.50,Tamil Nadu,77.85,10.55,0.0,False,False
+77.90_10.50,Tamil Nadu,77.95,10.55,0.0,False,False
+78.00_10.50,Tamil Nadu,78.05,10.55,0.0,False,False
+78.10_10.50,Tamil Nadu,78.14999999999999,10.55,0.0,False,False
+78.20_10.50,Tamil Nadu,78.25,10.55,0.0,False,False
+78.30_10.50,Tamil Nadu,78.35,10.55,0.0,False,False
+78.40_10.50,Tamil Nadu,78.45,10.55,0.0,False,False
+78.50_10.50,Tamil Nadu,78.55,10.55,0.0,False,False
+78.60_10.50,Tamil Nadu,78.64999999999999,10.55,0.0,False,False
+78.70_10.50,Tamil Nadu,78.75,10.55,0.0,False,False
+78.80_10.50,Tamil Nadu,78.85,10.55,0.0,False,False
+78.90_10.50,Tamil Nadu,78.95,10.55,0.0,False,False
+79.00_10.50,Tamil Nadu,79.05,10.55,0.0,False,False
+79.10_10.50,Tamil Nadu,79.14999999999999,10.55,0.0,False,False
+79.20_10.50,Tamil Nadu,79.25,10.55,0.0,False,False
+79.30_10.50,Tamil Nadu,79.35,10.55,0.0,False,False
+79.40_10.50,Tamil Nadu,79.45,10.55,0.0,False,False
+79.50_10.50,Tamil Nadu,79.55,10.55,0.0,False,False
+79.60_10.50,Tamil Nadu,79.64999999999999,10.55,0.0,False,False
+79.70_10.50,Tamil Nadu,79.75,10.55,0.0,False,False
+79.80_10.50,Tamil Nadu,79.85,10.55,0.0,False,True
+76.00_10.60,Kerala,76.05,10.65,0.0,False,False
+76.10_10.60,Kerala,76.14999999999999,10.65,0.0,False,False
+76.20_10.60,Kerala,76.25,10.65,0.0,False,False
+76.30_10.60,Kerala,76.35,10.65,0.22020444065951125,False,False
+76.40_10.60,Kerala,76.45,10.65,0.0,False,False
+76.50_10.60,Kerala,76.55,10.65,0.0,False,False
+76.60_10.60,Kerala,76.64999999999999,10.65,0.0,False,False
+76.70_10.60,Kerala,76.75,10.65,0.0,False,False
+76.80_10.60,Kerala,76.85,10.65,0.0,False,False
+76.90_10.60,Tamil Nadu,76.95,10.65,0.0,False,False
+77.00_10.60,Tamil Nadu,77.05,10.65,0.0,False,False
+77.10_10.60,Tamil Nadu,77.14999999999999,10.65,0.0,False,False
+77.20_10.60,Tamil Nadu,77.25,10.65,0.0,False,False
+77.30_10.60,Tamil Nadu,77.35,10.65,0.0,False,False
+77.40_10.60,Tamil Nadu,77.45,10.65,0.0,False,False
+77.50_10.60,Tamil Nadu,77.55,10.65,0.0,False,False
+77.60_10.60,Tamil Nadu,77.64999999999999,10.65,0.0,False,False
+77.70_10.60,Tamil Nadu,77.75,10.65,0.0,False,False
+77.80_10.60,Tamil Nadu,77.85,10.65,0.0,False,False
+77.90_10.60,Tamil Nadu,77.95,10.65,0.0,False,False
+78.00_10.60,Tamil Nadu,78.05,10.65,0.0,False,False
+78.10_10.60,Tamil Nadu,78.14999999999999,10.65,0.0,False,False
+78.20_10.60,Tamil Nadu,78.25,10.65,0.0,False,False
+78.30_10.60,Tamil Nadu,78.35,10.65,0.0,False,False
+78.40_10.60,Tamil Nadu,78.45,10.65,0.0,False,False
+78.50_10.60,Tamil Nadu,78.55,10.65,0.0,False,False
+78.60_10.60,Tamil Nadu,78.64999999999999,10.65,0.0,False,False
+78.70_10.60,Tamil Nadu,78.75,10.65,0.0,False,False
+78.80_10.60,Tamil Nadu,78.85,10.65,0.0,False,False
+78.90_10.60,Tamil Nadu,78.95,10.65,0.0,False,False
+79.00_10.60,Tamil Nadu,79.05,10.65,0.0,False,False
+79.10_10.60,Tamil Nadu,79.14999999999999,10.65,0.0,False,False
+79.20_10.60,Tamil Nadu,79.25,10.65,0.0,False,False
+79.30_10.60,Tamil Nadu,79.35,10.65,0.002026547555547905,False,False
+79.40_10.60,Tamil Nadu,79.45,10.65,0.0,False,False
+79.50_10.60,Tamil Nadu,79.55,10.65,0.0,False,False
+79.60_10.60,Tamil Nadu,79.64999999999999,10.65,0.0,False,False
+79.70_10.60,Tamil Nadu,79.75,10.65,0.0,False,False
+79.80_10.60,Tamil Nadu,79.85,10.65,0.0,False,False
+75.90_10.70,Kerala,75.95,10.75,0.0,False,False
+76.00_10.70,Kerala,76.05,10.75,0.0,False,False
+76.10_10.70,Kerala,76.14999999999999,10.75,0.0,False,False
+76.20_10.70,Kerala,76.25,10.75,0.0,False,False
+76.30_10.70,Kerala,76.35,10.75,0.0,False,False
+76.40_10.70,Kerala,76.45,10.75,0.035337083949508866,False,False
+76.50_10.70,Kerala,76.55,10.75,0.0,False,False
+76.60_10.70,Kerala,76.64999999999999,10.75,0.0,False,False
+76.70_10.70,Kerala,76.75,10.75,0.0,False,False
+76.80_10.70,Kerala,76.85,10.75,0.0,False,False
+76.90_10.70,Tamil Nadu,76.95,10.75,0.0,False,False
+77.00_10.70,Tamil Nadu,77.05,10.75,0.0,False,False
+77.10_10.70,Tamil Nadu,77.14999999999999,10.75,0.0,False,False
+77.20_10.70,Tamil Nadu,77.25,10.75,0.0,False,False
+77.30_10.70,Tamil Nadu,77.35,10.75,0.0,False,False
+77.40_10.70,Tamil Nadu,77.45,10.75,0.0,False,False
+77.50_10.70,Tamil Nadu,77.55,10.75,0.0,False,False
+77.60_10.70,Tamil Nadu,77.64999999999999,10.75,0.0,False,False
+77.70_10.70,Tamil Nadu,77.75,10.75,0.0,False,False
+77.80_10.70,Tamil Nadu,77.85,10.75,0.0,False,False
+77.90_10.70,Tamil Nadu,77.95,10.75,0.0,False,False
+78.00_10.70,Tamil Nadu,78.05,10.75,0.0,False,False
+78.10_10.70,Tamil Nadu,78.14999999999999,10.75,0.0,False,False
+78.20_10.70,Tamil Nadu,78.25,10.75,0.0,False,False
+78.30_10.70,Tamil Nadu,78.35,10.75,0.0,False,False
+78.40_10.70,Tamil Nadu,78.45,10.75,0.0,False,False
+78.50_10.70,Tamil Nadu,78.55,10.75,0.0,False,False
+78.60_10.70,Tamil Nadu,78.64999999999999,10.75,0.0,False,False
+78.70_10.70,Tamil Nadu,78.75,10.75,0.0,False,False
+78.80_10.70,Tamil Nadu,78.85,10.75,0.0,False,False
+78.90_10.70,Tamil Nadu,78.95,10.75,0.0,False,False
+79.00_10.70,Tamil Nadu,79.05,10.75,0.015011552296040053,False,False
+79.10_10.70,Tamil Nadu,79.14999999999999,10.75,0.0,False,False
+79.20_10.70,Tamil Nadu,79.25,10.75,0.0,False,False
+79.30_10.70,Tamil Nadu,79.35,10.75,0.003127917640456053,False,False
+79.40_10.70,Tamil Nadu,79.45,10.75,0.0,False,False
+79.50_10.70,Tamil Nadu,79.55,10.75,0.0,False,False
+79.60_10.70,Tamil Nadu,79.64999999999999,10.75,0.0,False,False
+79.70_10.70,Tamil Nadu,79.75,10.75,0.0,False,False
+79.80_10.70,Tamil Nadu,79.85,10.75,0.0,False,False
+75.90_10.80,Kerala,75.95,10.85,0.0,False,False
+76.00_10.80,Kerala,76.05,10.85,0.0,False,False
+76.10_10.80,Kerala,76.14999999999999,10.85,0.0,False,False
+76.20_10.80,Kerala,76.25,10.85,0.0,False,False
+76.30_10.80,Kerala,76.35,10.85,0.0,False,False
+76.40_10.80,Kerala,76.45,10.85,0.0,False,False
+76.50_10.80,Kerala,76.55,10.85,0.0,False,False
+76.60_10.80,Kerala,76.64999999999999,10.85,0.0,True,False
+76.70_10.80,Kerala,76.75,10.85,0.0,True,False
+76.80_10.80,Tamil Nadu,76.85,10.85,0.0,False,False
+76.90_10.80,Tamil Nadu,76.95,10.85,0.0,False,False
+77.00_10.80,Tamil Nadu,77.05,10.85,0.0,False,False
+77.10_10.80,Tamil Nadu,77.14999999999999,10.85,0.0,False,False
+77.20_10.80,Tamil Nadu,77.25,10.85,0.0,False,False
+77.30_10.80,Tamil Nadu,77.35,10.85,0.0,False,False
+77.40_10.80,Tamil Nadu,77.45,10.85,0.0,False,False
+77.50_10.80,Tamil Nadu,77.55,10.85,0.0,False,False
+77.60_10.80,Tamil Nadu,77.64999999999999,10.85,0.0,False,False
+77.70_10.80,Tamil Nadu,77.75,10.85,0.0,False,False
+77.80_10.80,Tamil Nadu,77.85,10.85,0.0,False,False
+77.90_10.80,Tamil Nadu,77.95,10.85,0.0,False,False
+78.00_10.80,Tamil Nadu,78.05,10.85,0.0,False,False
+78.10_10.80,Tamil Nadu,78.14999999999999,10.85,0.0,False,False
+78.20_10.80,Tamil Nadu,78.25,10.85,0.0,False,False
+78.30_10.80,Tamil Nadu,78.35,10.85,0.0,False,False
+78.40_10.80,Tamil Nadu,78.45,10.85,0.0,False,False
+78.50_10.80,Tamil Nadu,78.55,10.85,0.0,False,False
+78.60_10.80,Tamil Nadu,78.64999999999999,10.85,0.0,False,False
+78.70_10.80,Tamil Nadu,78.75,10.85,0.0,False,False
+78.80_10.80,Tamil Nadu,78.85,10.85,0.0,False,False
+78.90_10.80,Tamil Nadu,78.95,10.85,0.0,False,False
+79.00_10.80,Tamil Nadu,79.05,10.85,0.004666275601459096,False,False
+79.10_10.80,Tamil Nadu,79.14999999999999,10.85,0.0,False,False
+79.20_10.80,Tamil Nadu,79.25,10.85,0.0,False,False
+79.30_10.80,Tamil Nadu,79.35,10.85,0.0,False,False
+79.40_10.80,Tamil Nadu,79.45,10.85,0.0,False,False
+79.50_10.80,Tamil Nadu,79.55,10.85,0.0,False,False
+79.60_10.80,Tamil Nadu,79.64999999999999,10.85,0.0,False,False
+79.70_10.80,Tamil Nadu,79.75,10.85,0.0,False,False
+79.80_10.80,Tamil Nadu,79.85,10.85,0.0,False,False
+75.90_10.90,Kerala,75.95,10.95,0.0,False,False
+76.00_10.90,Kerala,76.05,10.95,0.0,False,False
+76.10_10.90,Kerala,76.14999999999999,10.95,0.0,False,False
+76.20_10.90,Kerala,76.25,10.95,0.0,False,False
+76.30_10.90,Kerala,76.35,10.95,0.0,False,False
+76.40_10.90,Kerala,76.45,10.95,0.0,False,False
+76.50_10.90,Kerala,76.55,10.95,0.0,False,False
+76.60_10.90,Kerala,76.64999999999999,10.95,0.0,True,False
+76.70_10.90,Tamil Nadu,76.75,10.95,0.0,False,False
+76.80_10.90,Tamil Nadu,76.85,10.95,0.0,False,False
+76.90_10.90,Tamil Nadu,76.95,10.95,0.0,False,False
+77.00_10.90,Tamil Nadu,77.05,10.95,0.0,False,False
+77.10_10.90,Tamil Nadu,77.14999999999999,10.95,0.0,False,False
+77.20_10.90,Tamil Nadu,77.25,10.95,0.0,False,False
+77.30_10.90,Tamil Nadu,77.35,10.95,0.0,False,False
+77.40_10.90,Tamil Nadu,77.45,10.95,0.0,False,False
+77.50_10.90,Tamil Nadu,77.55,10.95,0.0,False,False
+77.60_10.90,Tamil Nadu,77.64999999999999,10.95,0.0,False,False
+77.70_10.90,Tamil Nadu,77.75,10.95,0.0,False,False
+77.80_10.90,Tamil Nadu,77.85,10.95,0.0,False,False
+77.90_10.90,Tamil Nadu,77.95,10.95,0.0,False,False
+78.00_10.90,Tamil Nadu,78.05,10.95,0.0,False,False
+78.10_10.90,Tamil Nadu,78.14999999999999,10.95,0.0,False,False
+78.20_10.90,Tamil Nadu,78.25,10.95,0.0,False,False
+78.30_10.90,Tamil Nadu,78.35,10.95,0.0,False,False
+78.40_10.90,Tamil Nadu,78.45,10.95,0.0,False,False
+78.50_10.90,Tamil Nadu,78.55,10.95,0.0,False,False
+78.60_10.90,Tamil Nadu,78.64999999999999,10.95,0.0,False,False
+78.70_10.90,Tamil Nadu,78.75,10.95,0.0,False,False
+78.80_10.90,Tamil Nadu,78.85,10.95,0.0,False,False
+78.90_10.90,Tamil Nadu,78.95,10.95,0.0,False,False
+79.00_10.90,Tamil Nadu,79.05,10.95,0.03263363977650062,False,False
+79.10_10.90,Tamil Nadu,79.14999999999999,10.95,0.0,False,False
+79.20_10.90,Tamil Nadu,79.25,10.95,0.0,False,False
+79.30_10.90,Tamil Nadu,79.35,10.95,0.0,False,False
+79.40_10.90,Tamil Nadu,79.45,10.95,0.0,False,False
+79.50_10.90,Tamil Nadu,79.55,10.95,0.0,False,False
+79.60_10.90,Tamil Nadu,79.64999999999999,10.95,0.0,False,False
+79.70_10.90,Puducherry,79.75,10.95,0.0,False,False
+79.80_10.90,Puducherry,79.85,10.95,0.0,False,False
+75.80_11.00,Kerala,75.85,11.05,0.0,False,False
+75.90_11.00,Kerala,75.95,11.05,0.0,False,False
+76.00_11.00,Kerala,76.05,11.05,0.0,False,False
+76.10_11.00,Kerala,76.14999999999999,11.05,0.0,False,False
+76.20_11.00,Kerala,76.25,11.05,0.0,False,False
+76.30_11.00,Kerala,76.35,11.05,0.007242779042868948,False,False
+76.40_11.00,Kerala,76.45,11.05,0.09746525508417075,False,False
+76.50_11.00,Kerala,76.55,11.05,0.0,False,False
+76.60_11.00,Kerala,76.64999999999999,11.05,0.0,False,False
+76.70_11.00,Tamil Nadu,76.75,11.05,0.0,False,False
+76.80_11.00,Tamil Nadu,76.85,11.05,0.0,False,False
+76.90_11.00,Tamil Nadu,76.95,11.05,0.0,False,False
+77.00_11.00,Tamil Nadu,77.05,11.05,0.0,False,False
+77.10_11.00,Tamil Nadu,77.14999999999999,11.05,0.0,False,False
+77.20_11.00,Tamil Nadu,77.25,11.05,0.0,False,False
+77.30_11.00,Tamil Nadu,77.35,11.05,0.0,False,False
+77.40_11.00,Tamil Nadu,77.45,11.05,0.0,False,False
+77.50_11.00,Tamil Nadu,77.55,11.05,0.0,False,False
+77.60_11.00,Tamil Nadu,77.64999999999999,11.05,0.0,False,False
+77.70_11.00,Tamil Nadu,77.75,11.05,0.0,False,False
+77.80_11.00,Tamil Nadu,77.85,11.05,0.0,False,False
+77.90_11.00,Tamil Nadu,77.95,11.05,0.0,False,False
+78.00_11.00,Tamil Nadu,78.05,11.05,0.0,False,False
+78.10_11.00,Tamil Nadu,78.14999999999999,11.05,0.0,False,False
+78.20_11.00,Tamil Nadu,78.25,11.05,0.0,False,False
+78.30_11.00,Tamil Nadu,78.35,11.05,0.0,False,False
+78.40_11.00,Tamil Nadu,78.45,11.05,0.0,False,False
+78.50_11.00,Tamil Nadu,78.55,11.05,0.0,False,False
+78.60_11.00,Tamil Nadu,78.64999999999999,11.05,0.0,False,False
+78.70_11.00,Tamil Nadu,78.75,11.05,0.0,False,False
+78.80_11.00,Tamil Nadu,78.85,11.05,0.0,False,False
+78.90_11.00,Tamil Nadu,78.95,11.05,0.0,False,False
+79.00_11.00,Tamil Nadu,79.05,11.05,0.0,False,False
+79.10_11.00,Tamil Nadu,79.14999999999999,11.05,0.0,False,False
+79.20_11.00,Tamil Nadu,79.25,11.05,0.0,False,False
+79.30_11.00,Tamil Nadu,79.35,11.05,0.0,False,False
+79.40_11.00,Tamil Nadu,79.45,11.05,0.0,False,False
+79.50_11.00,Tamil Nadu,79.55,11.05,0.0,False,False
+79.60_11.00,Tamil Nadu,79.64999999999999,11.05,0.0,False,False
+79.70_11.00,Tamil Nadu,79.75,11.05,0.0,False,False
+79.80_11.00,Tamil Nadu,79.85,11.05,0.0,False,False
+75.80_11.10,Kerala,75.85,11.15,0.0,False,False
+75.90_11.10,Kerala,75.95,11.15,0.0,False,False
+76.00_11.10,Kerala,76.05,11.15,0.0,False,False
+76.10_11.10,Kerala,76.14999999999999,11.15,0.0,False,False
+76.20_11.10,Kerala,76.25,11.15,0.0,False,False
+76.30_11.10,Kerala,76.35,11.15,0.01804340920229328,False,False
+76.40_11.10,Kerala,76.45,11.15,0.6386621427833634,False,False
+76.50_11.10,Kerala,76.55,11.15,0.0,False,False
+76.60_11.10,Kerala,76.64999999999999,11.15,0.0,False,False
+76.70_11.10,Tamil Nadu,76.75,11.15,0.0,False,False
+76.80_11.10,Tamil Nadu,76.85,11.15,0.0,False,False
+76.90_11.10,Tamil Nadu,76.95,11.15,0.0,False,False
+77.00_11.10,Tamil Nadu,77.05,11.15,0.0,False,False
+77.10_11.10,Tamil Nadu,77.14999999999999,11.15,0.0,False,False
+77.20_11.10,Tamil Nadu,77.25,11.15,0.0,False,False
+77.30_11.10,Tamil Nadu,77.35,11.15,0.007857770284000552,False,False
+77.40_11.10,Tamil Nadu,77.45,11.15,0.0,False,False
+77.50_11.10,Tamil Nadu,77.55,11.15,0.0,False,False
+77.60_11.10,Tamil Nadu,77.64999999999999,11.15,0.0,False,False
+77.70_11.10,Tamil Nadu,77.75,11.15,0.0,False,False
+77.80_11.10,Tamil Nadu,77.85,11.15,0.0,False,False
+77.90_11.10,Tamil Nadu,77.95,11.15,0.0,False,False
+78.00_11.10,Tamil Nadu,78.05,11.15,0.0,False,False
+78.10_11.10,Tamil Nadu,78.14999999999999,11.15,0.0,False,False
+78.20_11.10,Tamil Nadu,78.25,11.15,0.0,False,False
+78.30_11.10,Tamil Nadu,78.35,11.15,0.0,False,False
+78.40_11.10,Tamil Nadu,78.45,11.15,0.0,False,False
+78.50_11.10,Tamil Nadu,78.55,11.15,0.0,False,False
+78.60_11.10,Tamil Nadu,78.64999999999999,11.15,0.0,False,False
+78.70_11.10,Tamil Nadu,78.75,11.15,0.0,False,False
+78.80_11.10,Tamil Nadu,78.85,11.15,0.0,False,False
+78.90_11.10,Tamil Nadu,78.95,11.15,0.0,False,False
+79.00_11.10,Tamil Nadu,79.05,11.15,0.0,False,False
+79.10_11.10,Tamil Nadu,79.14999999999999,11.15,0.0,False,False
+79.20_11.10,Tamil Nadu,79.25,11.15,0.0,False,False
+79.30_11.10,Tamil Nadu,79.35,11.15,0.0,False,False
+79.40_11.10,Tamil Nadu,79.45,11.15,0.0,False,False
+79.50_11.10,Tamil Nadu,79.55,11.15,0.0,False,False
+79.60_11.10,Tamil Nadu,79.64999999999999,11.15,0.0,False,False
+79.70_11.10,Tamil Nadu,79.75,11.15,0.0,False,False
+79.80_11.10,Tamil Nadu,79.85,11.15,0.0,False,False
+75.80_11.20,Kerala,75.85,11.25,0.0,False,False
+75.90_11.20,Kerala,75.95,11.25,0.0,False,False
+76.00_11.20,Kerala,76.05,11.25,0.0,False,False
+76.10_11.20,Kerala,76.14999999999999,11.25,0.0,False,False
+76.20_11.20,Kerala,76.25,11.25,0.0,False,False
+76.30_11.20,Kerala,76.35,11.25,0.006116145397046239,False,False
+76.40_11.20,Kerala,76.45,11.25,0.7998038429132659,False,False
+76.50_11.20,Tamil Nadu,76.55,11.25,0.3248032562455848,False,False
+76.60_11.20,Tamil Nadu,76.64999999999999,11.25,0.0,False,False
+76.70_11.20,Tamil Nadu,76.75,11.25,0.0,False,False
+76.80_11.20,Tamil Nadu,76.85,11.25,0.0,False,False
+76.90_11.20,Tamil Nadu,76.95,11.25,0.0,False,False
+77.00_11.20,Tamil Nadu,77.05,11.25,0.0,False,False
+77.10_11.20,Tamil Nadu,77.14999999999999,11.25,0.0,False,False
+77.20_11.20,Tamil Nadu,77.25,11.25,0.0,False,False
+77.30_11.20,Tamil Nadu,77.35,11.25,0.0,False,False
+77.40_11.20,Tamil Nadu,77.45,11.25,0.0,False,False
+77.50_11.20,Tamil Nadu,77.55,11.25,0.0,False,False
+77.60_11.20,Tamil Nadu,77.64999999999999,11.25,0.005688186884001877,False,False
+77.70_11.20,Tamil Nadu,77.75,11.25,0.0,False,False
+77.80_11.20,Tamil Nadu,77.85,11.25,0.0,False,False
+77.90_11.20,Tamil Nadu,77.95,11.25,0.0,False,False
+78.00_11.20,Tamil Nadu,78.05,11.25,0.0,False,False
+78.10_11.20,Tamil Nadu,78.14999999999999,11.25,0.0,False,False
+78.20_11.20,Tamil Nadu,78.25,11.25,0.0,False,False
+78.30_11.20,Tamil Nadu,78.35,11.25,0.0,False,False
+78.40_11.20,Tamil Nadu,78.45,11.25,0.0,False,False
+78.50_11.20,Tamil Nadu,78.55,11.25,0.0,False,False
+78.60_11.20,Tamil Nadu,78.64999999999999,11.25,0.0,False,False
+78.70_11.20,Tamil Nadu,78.75,11.25,0.0,False,False
+78.80_11.20,Tamil Nadu,78.85,11.25,0.0,False,False
+78.90_11.20,Tamil Nadu,78.95,11.25,0.0,False,False
+79.00_11.20,Tamil Nadu,79.05,11.25,0.0,False,False
+79.10_11.20,Tamil Nadu,79.14999999999999,11.25,0.0,False,False
+79.20_11.20,Tamil Nadu,79.25,11.25,0.0,False,False
+79.30_11.20,Tamil Nadu,79.35,11.25,0.0,False,False
+79.40_11.20,Tamil Nadu,79.45,11.25,0.0,False,False
+79.50_11.20,Tamil Nadu,79.55,11.25,0.0,False,False
+79.60_11.20,Tamil Nadu,79.64999999999999,11.25,0.0,False,False
+79.70_11.20,Tamil Nadu,79.75,11.25,0.0,False,False
+75.70_11.30,Kerala,75.75,11.35,0.0,False,True
+75.80_11.30,Kerala,75.85,11.35,0.0,False,False
+75.90_11.30,Kerala,75.95,11.35,0.0,False,False
+76.00_11.30,Kerala,76.05,11.35,0.0,False,False
+76.10_11.30,Kerala,76.14999999999999,11.35,0.0,False,False
+76.20_11.30,Kerala,76.25,11.35,0.0,False,False
+76.30_11.30,Kerala,76.35,11.35,0.03929593492526103,False,False
+76.40_11.30,Kerala,76.45,11.35,0.7443931190920762,False,False
+76.50_11.30,Tamil Nadu,76.55,11.35,0.4434680519886412,False,False
+76.60_11.30,Tamil Nadu,76.64999999999999,11.35,0.0,False,False
+76.70_11.30,Tamil Nadu,76.75,11.35,0.0,False,False
+76.80_11.30,Tamil Nadu,76.85,11.35,0.0,False,False
+76.90_11.30,Tamil Nadu,76.95,11.35,0.0,False,False
+77.00_11.30,Tamil Nadu,77.05,11.35,0.0,False,False
+77.10_11.30,Tamil Nadu,77.14999999999999,11.35,0.0,False,False
+77.20_11.30,Tamil Nadu,77.25,11.35,0.0,False,False
+77.30_11.30,Tamil Nadu,77.35,11.35,0.0,False,False
+77.40_11.30,Tamil Nadu,77.45,11.35,0.0,False,False
+77.50_11.30,Tamil Nadu,77.55,11.35,0.0,False,False
+77.60_11.30,Tamil Nadu,77.64999999999999,11.35,0.0,False,False
+77.70_11.30,Tamil Nadu,77.75,11.35,0.0,False,False
+77.80_11.30,Tamil Nadu,77.85,11.35,0.0,False,False
+77.90_11.30,Tamil Nadu,77.95,11.35,0.0,False,False
+78.00_11.30,Tamil Nadu,78.05,11.35,0.0,False,False
+78.10_11.30,Tamil Nadu,78.14999999999999,11.35,0.0,False,False
+78.20_11.30,Tamil Nadu,78.25,11.35,0.0,False,False
+78.30_11.30,Tamil Nadu,78.35,11.35,0.0,False,False
+78.40_11.30,Tamil Nadu,78.45,11.35,0.0,False,False
+78.50_11.30,Tamil Nadu,78.55,11.35,0.0,False,False
+78.60_11.30,Tamil Nadu,78.64999999999999,11.35,0.0,False,False
+78.70_11.30,Tamil Nadu,78.75,11.35,0.0,False,False
+78.80_11.30,Tamil Nadu,78.85,11.35,0.0,False,False
+78.90_11.30,Tamil Nadu,78.95,11.35,0.0,False,False
+79.00_11.30,Tamil Nadu,79.05,11.35,0.0,False,False
+79.10_11.30,Tamil Nadu,79.14999999999999,11.35,0.0,False,False
+79.20_11.30,Tamil Nadu,79.25,11.35,0.0,False,False
+79.30_11.30,Tamil Nadu,79.35,11.35,0.0,False,False
+79.40_11.30,Tamil Nadu,79.45,11.35,0.0,False,False
+79.50_11.30,Tamil Nadu,79.55,11.35,0.0,False,False
+79.60_11.30,Tamil Nadu,79.64999999999999,11.35,0.0,False,False
+79.70_11.30,Tamil Nadu,79.75,11.35,0.0,False,False
+75.70_11.40,Kerala,75.75,11.45,0.0,False,False
+75.80_11.40,Kerala,75.85,11.45,0.0,False,False
+75.90_11.40,Kerala,75.95,11.45,0.0,False,False
+76.00_11.40,Kerala,76.05,11.45,0.0,False,False
+76.10_11.40,Kerala,76.14999999999999,11.45,0.0,False,False
+76.20_11.40,Kerala,76.25,11.45,0.0,False,False
+76.30_11.40,Kerala,76.35,11.45,0.0,False,False
+76.40_11.40,Tamil Nadu,76.45,11.45,0.0,False,False
+76.50_11.40,Tamil Nadu,76.55,11.45,0.0,False,False
+76.60_11.40,Tamil Nadu,76.64999999999999,11.45,0.0,False,False
+76.70_11.40,Tamil Nadu,76.75,11.45,0.0,False,False
+76.80_11.40,Tamil Nadu,76.85,11.45,0.0,False,False
+76.90_11.40,Tamil Nadu,76.95,11.45,0.0,False,False
+77.00_11.40,Tamil Nadu,77.05,11.45,0.01998417213118804,False,False
+77.10_11.40,Tamil Nadu,77.14999999999999,11.45,0.022945669695467595,False,False
+77.20_11.40,Tamil Nadu,77.25,11.45,0.0,False,False
+77.30_11.40,Tamil Nadu,77.35,11.45,0.0,False,False
+77.40_11.40,Tamil Nadu,77.45,11.45,0.0,False,False
+77.50_11.40,Tamil Nadu,77.55,11.45,0.0,False,False
+77.60_11.40,Tamil Nadu,77.64999999999999,11.45,0.0,False,False
+77.70_11.40,Tamil Nadu,77.75,11.45,0.0,False,False
+77.80_11.40,Tamil Nadu,77.85,11.45,0.0,False,False
+77.90_11.40,Tamil Nadu,77.95,11.45,0.0,False,False
+78.00_11.40,Tamil Nadu,78.05,11.45,0.0,False,False
+78.10_11.40,Tamil Nadu,78.14999999999999,11.45,0.0,False,False
+78.20_11.40,Tamil Nadu,78.25,11.45,0.0,False,False
+78.30_11.40,Tamil Nadu,78.35,11.45,0.0,False,False
+78.40_11.40,Tamil Nadu,78.45,11.45,0.0,False,False
+78.50_11.40,Tamil Nadu,78.55,11.45,0.0,False,False
+78.60_11.40,Tamil Nadu,78.64999999999999,11.45,0.0,False,False
+78.70_11.40,Tamil Nadu,78.75,11.45,0.0,False,False
+78.80_11.40,Tamil Nadu,78.85,11.45,0.0,False,False
+78.90_11.40,Tamil Nadu,78.95,11.45,0.0,False,False
+79.00_11.40,Tamil Nadu,79.05,11.45,0.0,False,False
+79.10_11.40,Tamil Nadu,79.14999999999999,11.45,0.0,False,False
+79.20_11.40,Tamil Nadu,79.25,11.45,0.0,False,False
+79.30_11.40,Tamil Nadu,79.35,11.45,0.0,False,False
+79.40_11.40,Tamil Nadu,79.45,11.45,0.0,False,False
+79.50_11.40,Tamil Nadu,79.55,11.45,0.0,False,False
+79.60_11.40,Tamil Nadu,79.64999999999999,11.45,0.0,False,False
+79.70_11.40,Tamil Nadu,79.75,11.45,0.0,False,False
+75.60_11.50,Kerala,75.64999999999999,11.55,0.0,False,False
+75.70_11.50,Kerala,75.75,11.55,0.0,False,False
+75.80_11.50,Kerala,75.85,11.55,0.0,False,False
+75.90_11.50,Kerala,75.95,11.55,0.2441728266737528,False,False
+76.00_11.50,Kerala,76.05,11.55,0.010797733434775792,False,False
+76.10_11.50,Kerala,76.14999999999999,11.55,0.0,False,False
+76.20_11.50,Tamil Nadu,76.25,11.55,0.0,False,False
+76.30_11.50,Tamil Nadu,76.35,11.55,0.06407151487010587,False,False
+76.40_11.50,Tamil Nadu,76.45,11.55,0.27752346245077386,False,False
+76.50_11.50,Tamil Nadu,76.55,11.55,0.58263925222344,True,False
+76.60_11.50,Tamil Nadu,76.64999999999999,11.55,0.39894343017195344,True,False
+76.70_11.50,Tamil Nadu,76.75,11.55,0.02782411587883668,True,True
+76.80_11.50,Tamil Nadu,76.85,11.55,0.005849464087805814,False,True
+76.90_11.50,Tamil Nadu,76.95,11.55,0.28126134120512813,False,True
+77.00_11.50,Tamil Nadu,77.05,11.55,0.8110117981682556,False,False
+77.10_11.50,Tamil Nadu,77.14999999999999,11.55,0.560056164867174,False,False
+77.20_11.50,Tamil Nadu,77.25,11.55,0.4055167935989887,False,False
+77.30_11.50,Tamil Nadu,77.35,11.55,0.016792515411690436,False,False
+77.40_11.50,Tamil Nadu,77.45,11.55,0.0,False,False
+77.50_11.50,Tamil Nadu,77.55,11.55,0.0,False,False
+77.60_11.50,Tamil Nadu,77.64999999999999,11.55,0.0,False,False
+77.70_11.50,Tamil Nadu,77.75,11.55,0.0,False,False
+77.80_11.50,Tamil Nadu,77.85,11.55,0.0,False,False
+77.90_11.50,Tamil Nadu,77.95,11.55,0.0,False,False
+78.00_11.50,Tamil Nadu,78.05,11.55,0.0,False,False
+78.10_11.50,Tamil Nadu,78.14999999999999,11.55,0.0,False,False
+78.20_11.50,Tamil Nadu,78.25,11.55,0.0,False,False
+78.30_11.50,Tamil Nadu,78.35,11.55,0.0,False,False
+78.40_11.50,Tamil Nadu,78.45,11.55,0.0,False,False
+78.50_11.50,Tamil Nadu,78.55,11.55,0.0,False,False
+78.60_11.50,Tamil Nadu,78.64999999999999,11.55,0.0,False,False
+78.70_11.50,Tamil Nadu,78.75,11.55,0.0,False,False
+78.80_11.50,Tamil Nadu,78.85,11.55,0.0,False,False
+78.90_11.50,Tamil Nadu,78.95,11.55,0.0,False,False
+79.00_11.50,Tamil Nadu,79.05,11.55,0.0,False,False
+79.10_11.50,Tamil Nadu,79.14999999999999,11.55,0.0,False,False
+79.20_11.50,Tamil Nadu,79.25,11.55,0.0,False,False
+79.30_11.50,Tamil Nadu,79.35,11.55,0.0,False,False
+79.40_11.50,Tamil Nadu,79.45,11.55,0.0,False,False
+79.50_11.50,Tamil Nadu,79.55,11.55,0.0,False,False
+79.60_11.50,Tamil Nadu,79.64999999999999,11.55,0.0,False,False
+79.70_11.50,Tamil Nadu,79.75,11.55,0.0,False,False
+75.60_11.60,Kerala,75.64999999999999,11.65,0.0,False,False
+75.70_11.60,Kerala,75.75,11.65,0.0,False,False
+75.80_11.60,Kerala,75.85,11.65,0.0,False,False
+75.90_11.60,Kerala,75.95,11.65,0.17644928146148595,False,False
+76.00_11.60,Kerala,76.05,11.65,0.0,False,False
+76.10_11.60,Kerala,76.14999999999999,11.65,0.0,False,False
+76.20_11.60,Kerala,76.25,11.65,0.0,False,False
+76.30_11.60,Kerala,76.35,11.65,0.055861186202667334,False,False
+76.40_11.60,Tamil Nadu,76.45,11.65,0.8253081914596989,False,False
+76.50_11.60,Tamil Nadu,76.55,11.65,0.9996120008081767,True,False
+76.60_11.60,Karnataka,76.64999999999999,11.65,0.7050484664370438,True,False
+76.70_11.60,Karnataka,76.75,11.65,0.5508135658016098,True,False
+76.80_11.60,Tamil Nadu,76.85,11.65,0.4345409192396671,False,False
+76.90_11.60,Tamil Nadu,76.95,11.65,0.7021371797952536,False,False
+77.00_11.60,Tamil Nadu,77.05,11.65,0.8922553612637204,False,False
+77.10_11.60,Tamil Nadu,77.14999999999999,11.65,0.8951599530408259,False,False
+77.20_11.60,Tamil Nadu,77.25,11.65,0.23125555930684882,False,False
+77.30_11.60,Tamil Nadu,77.35,11.65,0.0,False,False
+77.40_11.60,Tamil Nadu,77.45,11.65,0.0,False,False
+77.50_11.60,Tamil Nadu,77.55,11.65,0.0,False,False
+77.60_11.60,Tamil Nadu,77.64999999999999,11.65,0.0,False,False
+77.70_11.60,Tamil Nadu,77.75,11.65,0.0,False,False
+77.80_11.60,Tamil Nadu,77.85,11.65,0.0,False,False
+77.90_11.60,Tamil Nadu,77.95,11.65,0.0,False,False
+78.00_11.60,Tamil Nadu,78.05,11.65,0.0,False,False
+78.10_11.60,Tamil Nadu,78.14999999999999,11.65,0.0,False,False
+78.20_11.60,Tamil Nadu,78.25,11.65,0.0,False,False
+78.30_11.60,Tamil Nadu,78.35,11.65,0.0,False,False
+78.40_11.60,Tamil Nadu,78.45,11.65,0.0,False,False
+78.50_11.60,Tamil Nadu,78.55,11.65,0.0,False,False
+78.60_11.60,Tamil Nadu,78.64999999999999,11.65,0.0,False,False
+78.70_11.60,Tamil Nadu,78.75,11.65,0.0,False,False
+78.80_11.60,Tamil Nadu,78.85,11.65,0.0,False,False
+78.90_11.60,Tamil Nadu,78.95,11.65,0.0,False,False
+79.00_11.60,Tamil Nadu,79.05,11.65,0.0,False,False
+79.10_11.60,Tamil Nadu,79.14999999999999,11.65,0.0,False,False
+79.20_11.60,Tamil Nadu,79.25,11.65,0.0,False,False
+79.30_11.60,Tamil Nadu,79.35,11.65,0.0,False,False
+79.40_11.60,Tamil Nadu,79.45,11.65,0.0,False,False
+79.50_11.60,Tamil Nadu,79.55,11.65,0.0,False,False
+79.60_11.60,Tamil Nadu,79.64999999999999,11.65,0.0,False,False
+79.70_11.60,Tamil Nadu,79.75,11.65,0.0,False,False
+75.50_11.70,Kerala,75.55,11.75,0.0,False,False
+75.60_11.70,Kerala,75.64999999999999,11.75,0.0,False,False
+75.70_11.70,Kerala,75.75,11.75,0.0,False,False
+75.80_11.70,Kerala,75.85,11.75,0.0,False,False
+75.90_11.70,Kerala,75.95,11.75,0.0,False,False
+76.00_11.70,Kerala,76.05,11.75,0.0,False,False
+76.10_11.70,Kerala,76.14999999999999,11.75,0.0,False,False
+76.20_11.70,Kerala,76.25,11.75,0.010520502102831479,False,False
+76.30_11.70,Kerala,76.35,11.75,0.48888463800496373,True,True
+76.40_11.70,Karnataka,76.45,11.75,0.9073560348709807,True,True
+76.50_11.70,Karnataka,76.55,11.75,0.7136984371994801,True,True
+76.60_11.70,Karnataka,76.64999999999999,11.75,0.08686845293186904,True,True
+76.70_11.70,Karnataka,76.75,11.75,0.0,False,True
+76.80_11.70,Karnataka,76.85,11.75,0.055818978614263194,False,False
+76.90_11.70,Tamil Nadu,76.95,11.75,0.06687522020181227,False,False
+77.00_11.70,Tamil Nadu,77.05,11.75,0.453704053010204,True,False
+77.10_11.70,Tamil Nadu,77.14999999999999,11.75,0.8960224739313436,False,False
+77.20_11.70,Tamil Nadu,77.25,11.75,0.34198988619914067,False,False
+77.30_11.70,Tamil Nadu,77.35,11.75,0.1693775678991095,False,False
+77.40_11.70,Tamil Nadu,77.45,11.75,0.08608016542947113,False,False
+77.50_11.70,Tamil Nadu,77.55,11.75,0.0,False,False
+77.60_11.70,Tamil Nadu,77.64999999999999,11.75,0.0,False,False
+77.70_11.70,Tamil Nadu,77.75,11.75,0.0,False,False
+77.80_11.70,Tamil Nadu,77.85,11.75,0.0,False,False
+77.90_11.70,Tamil Nadu,77.95,11.75,0.0,False,False
+78.00_11.70,Tamil Nadu,78.05,11.75,0.0,False,False
+78.10_11.70,Tamil Nadu,78.14999999999999,11.75,0.0,False,False
+78.20_11.70,Tamil Nadu,78.25,11.75,0.0,False,False
+78.30_11.70,Tamil Nadu,78.35,11.75,0.0,False,False
+78.40_11.70,Tamil Nadu,78.45,11.75,0.0,False,False
+78.50_11.70,Tamil Nadu,78.55,11.75,0.0,False,False
+78.60_11.70,Tamil Nadu,78.64999999999999,11.75,0.0,False,False
+78.70_11.70,Tamil Nadu,78.75,11.75,0.0,False,False
+78.80_11.70,Tamil Nadu,78.85,11.75,0.0,False,False
+78.90_11.70,Tamil Nadu,78.95,11.75,0.0,False,False
+79.00_11.70,Tamil Nadu,79.05,11.75,0.0,False,False
+79.10_11.70,Tamil Nadu,79.14999999999999,11.75,0.0,False,False
+79.20_11.70,Tamil Nadu,79.25,11.75,0.0,False,False
+79.30_11.70,Tamil Nadu,79.35,11.75,0.0,False,False
+79.40_11.70,Tamil Nadu,79.45,11.75,0.0,False,False
+79.50_11.70,Tamil Nadu,79.55,11.75,0.0,False,False
+79.60_11.70,Tamil Nadu,79.64999999999999,11.75,0.0,False,False
+79.70_11.70,Tamil Nadu,79.75,11.75,0.0,False,False
+75.40_11.80,Kerala,75.45,11.85,0.0,False,False
+75.50_11.80,Kerala,75.55,11.85,0.0,False,False
+75.60_11.80,Kerala,75.64999999999999,11.85,0.0,False,False
+75.70_11.80,Kerala,75.75,11.85,0.0,False,False
+75.80_11.80,Kerala,75.85,11.85,0.07788512318147232,False,False
+75.90_11.80,Kerala,75.95,11.85,0.09974439830071853,False,False
+76.00_11.80,Kerala,76.05,11.85,0.24960399301774072,False,False
+76.10_11.80,Kerala,76.14999999999999,11.85,0.29159501205062605,True,True
+76.20_11.80,Karnataka,76.25,11.85,0.84424466027896,True,True
+76.30_11.80,Karnataka,76.35,11.85,0.7935833140316978,True,True
+76.40_11.80,Karnataka,76.45,11.85,0.6612656391994142,True,True
+76.50_11.80,Karnataka,76.55,11.85,0.7160195644377074,True,True
+76.60_11.80,Karnataka,76.64999999999999,11.85,0.0,False,True
+76.70_11.80,Karnataka,76.75,11.85,0.0,False,False
+76.80_11.80,Karnataka,76.85,11.85,0.0,False,False
+76.90_11.80,Karnataka,76.95,11.85,0.0,False,False
+77.00_11.80,Karnataka,77.05,11.85,0.43953929557972804,True,False
+77.10_11.80,Karnataka,77.14999999999999,11.85,1.0,False,False
+77.20_11.80,Karnataka,77.25,11.85,0.48934568597036837,False,False
+77.30_11.80,Karnataka,77.35,11.85,0.8590517926592067,False,False
+77.40_11.80,Karnataka,77.45,11.85,0.4156898681521377,False,False
+77.50_11.80,Tamil Nadu,77.55,11.85,0.0,False,False
+77.60_11.80,Tamil Nadu,77.64999999999999,11.85,0.0,False,False
+77.70_11.80,Tamil Nadu,77.75,11.85,0.0,False,False
+77.80_11.80,Tamil Nadu,77.85,11.85,0.0,False,False
+77.90_11.80,Tamil Nadu,77.95,11.85,0.0,False,False
+78.00_11.80,Tamil Nadu,78.05,11.85,0.0,False,False
+78.10_11.80,Tamil Nadu,78.14999999999999,11.85,0.0,False,False
+78.20_11.80,Tamil Nadu,78.25,11.85,0.0,False,False
+78.30_11.80,Tamil Nadu,78.35,11.85,0.0,False,False
+78.40_11.80,Tamil Nadu,78.45,11.85,0.0,False,False
+78.50_11.80,Tamil Nadu,78.55,11.85,0.0,False,False
+78.60_11.80,Tamil Nadu,78.64999999999999,11.85,0.0,False,False
+78.70_11.80,Tamil Nadu,78.75,11.85,0.0,False,False
+78.80_11.80,Tamil Nadu,78.85,11.85,0.0,False,False
+78.90_11.80,Tamil Nadu,78.95,11.85,0.0,False,False
+79.00_11.80,Tamil Nadu,79.05,11.85,0.0,False,False
+79.10_11.80,Tamil Nadu,79.14999999999999,11.85,0.0,False,False
+79.20_11.80,Tamil Nadu,79.25,11.85,0.0,False,False
+79.30_11.80,Tamil Nadu,79.35,11.85,0.0,False,False
+79.40_11.80,Tamil Nadu,79.45,11.85,0.0,False,False
+79.50_11.80,Tamil Nadu,79.55,11.85,0.0,False,False
+79.60_11.80,Tamil Nadu,79.64999999999999,11.85,0.0,False,False
+79.70_11.80,Puducherry,79.75,11.85,0.0,False,False
+75.30_11.90,Kerala,75.35,11.95,0.0,False,False
+75.40_11.90,Kerala,75.45,11.95,0.0,False,False
+75.50_11.90,Kerala,75.55,11.95,0.0,False,False
+75.60_11.90,Kerala,75.64999999999999,11.95,0.0,False,False
+75.70_11.90,Kerala,75.75,11.95,0.011561348477197893,False,False
+75.80_11.90,Kerala,75.85,11.95,0.6195637830285654,False,False
+75.90_11.90,Karnataka,75.95,11.95,0.5894953488033583,False,False
+76.00_11.90,Kerala,76.05,11.95,0.42037971435697236,False,False
+76.10_11.90,Karnataka,76.14999999999999,11.95,1.0,True,True
+76.20_11.90,Karnataka,76.25,11.95,0.4576600005707033,True,True
+76.30_11.90,Karnataka,76.35,11.95,0.0750083150479,True,False
+76.40_11.90,Karnataka,76.45,11.95,0.3392269567943898,True,False
+76.50_11.90,Karnataka,76.55,11.95,0.27039905610884185,True,True
+76.60_11.90,Karnataka,76.64999999999999,11.95,0.009017384515106521,False,False
+76.70_11.90,Karnataka,76.75,11.95,0.0,False,False
+76.80_11.90,Karnataka,76.85,11.95,0.0,False,False
+76.90_11.90,Karnataka,76.95,11.95,0.0,False,False
+77.00_11.90,Karnataka,77.05,11.95,0.06684434184700055,True,False
+77.10_11.90,Karnataka,77.14999999999999,11.95,0.9624597605401994,True,False
+77.20_11.90,Karnataka,77.25,11.95,0.7747691557950981,False,False
+77.30_11.90,Karnataka,77.35,11.95,0.8077777470752614,False,False
+77.40_11.90,Karnataka,77.45,11.95,0.8697550463764733,False,False
+77.50_11.90,Karnataka,77.55,11.95,0.6140079482814815,False,False
+77.60_11.90,Tamil Nadu,77.64999999999999,11.95,0.427081846965168,False,False
+77.70_11.90,Tamil Nadu,77.75,11.95,0.0,False,False
+77.80_11.90,Tamil Nadu,77.85,11.95,0.0,False,False
+77.90_11.90,Tamil Nadu,77.95,11.95,0.0,False,False
+78.00_11.90,Tamil Nadu,78.05,11.95,0.0,False,False
+78.10_11.90,Tamil Nadu,78.14999999999999,11.95,0.0,False,False
+78.20_11.90,Tamil Nadu,78.25,11.95,0.0,False,False
+78.30_11.90,Tamil Nadu,78.35,11.95,0.0,False,False
+78.40_11.90,Tamil Nadu,78.45,11.95,0.0,False,False
+78.50_11.90,Tamil Nadu,78.55,11.95,0.0,False,False
+78.60_11.90,Tamil Nadu,78.64999999999999,11.95,0.0,False,False
+78.70_11.90,Tamil Nadu,78.75,11.95,0.0,False,False
+78.80_11.90,Tamil Nadu,78.85,11.95,0.0,False,False
+78.90_11.90,Tamil Nadu,78.95,11.95,0.0,False,False
+79.00_11.90,Tamil Nadu,79.05,11.95,0.0,False,False
+79.10_11.90,Tamil Nadu,79.14999999999999,11.95,0.0,False,False
+79.20_11.90,Tamil Nadu,79.25,11.95,0.0,False,False
+79.30_11.90,Tamil Nadu,79.35,11.95,0.0,False,False
+79.40_11.90,Tamil Nadu,79.45,11.95,0.0,False,False
+79.50_11.90,Tamil Nadu,79.55,11.95,0.0,False,False
+79.60_11.90,Tamil Nadu,79.64999999999999,11.95,0.0,False,False
+79.70_11.90,Puducherry,79.75,11.95,0.0535631256205863,False,False
+75.20_12.00,Kerala,75.25,12.05,0.0,False,False
+75.30_12.00,Kerala,75.35,12.05,0.0,False,False
+75.40_12.00,Kerala,75.45,12.05,0.0,False,False
+75.50_12.00,Kerala,75.55,12.05,0.0,False,False
+75.60_12.00,Kerala,75.64999999999999,12.05,0.0,False,False
+75.70_12.00,Kerala,75.75,12.05,0.0838513097036312,False,False
+75.80_12.00,Karnataka,75.85,12.05,0.5127897641416307,False,False
+75.90_12.00,Karnataka,75.95,12.05,0.005171945266391924,False,False
+76.00_12.00,Karnataka,76.05,12.05,0.4259955086960852,True,False
+76.10_12.00,Karnataka,76.14999999999999,12.05,1.0,True,True
+76.20_12.00,Karnataka,76.25,12.05,0.6045609795763804,True,True
+76.30_12.00,Karnataka,76.35,12.05,0.0,True,False
+76.40_12.00,Karnataka,76.45,12.05,0.0,True,False
+76.50_12.00,Karnataka,76.55,12.05,0.0,True,True
+76.60_12.00,Karnataka,76.64999999999999,12.05,0.0,False,False
+76.70_12.00,Karnataka,76.75,12.05,0.0,True,True
+76.80_12.00,Karnataka,76.85,12.05,0.0,False,False
+76.90_12.00,Karnataka,76.95,12.05,0.0,False,True
+77.00_12.00,Karnataka,77.05,12.05,0.030819771132228467,True,True
+77.10_12.00,Karnataka,77.14999999999999,12.05,0.777983592643124,True,False
+77.20_12.00,Karnataka,77.25,12.05,0.35677023355884235,True,False
+77.30_12.00,Karnataka,77.35,12.05,0.3998430637973248,False,False
+77.40_12.00,Karnataka,77.45,12.05,0.5183028545382734,False,False
+77.50_12.00,Karnataka,77.55,12.05,0.8948260917349447,False,False
+77.60_12.00,Karnataka,77.64999999999999,12.05,0.9584024088221821,False,False
+77.70_12.00,Tamil Nadu,77.75,12.05,0.24086452357956964,False,False
+77.80_12.00,Tamil Nadu,77.85,12.05,0.0,False,False
+77.90_12.00,Tamil Nadu,77.95,12.05,0.0,False,False
+78.00_12.00,Tamil Nadu,78.05,12.05,0.0,False,False
+78.10_12.00,Tamil Nadu,78.14999999999999,12.05,0.0,False,False
+78.20_12.00,Tamil Nadu,78.25,12.05,0.0,False,False
+78.30_12.00,Tamil Nadu,78.35,12.05,0.0,False,False
+78.40_12.00,Tamil Nadu,78.45,12.05,0.0,False,False
+78.50_12.00,Tamil Nadu,78.55,12.05,0.0,False,False
+78.60_12.00,Tamil Nadu,78.64999999999999,12.05,0.0,False,False
+78.70_12.00,Tamil Nadu,78.75,12.05,0.0,False,False
+78.80_12.00,Tamil Nadu,78.85,12.05,0.0,False,False
+78.90_12.00,Tamil Nadu,78.95,12.05,0.0,False,False
+79.00_12.00,Tamil Nadu,79.05,12.05,0.0,False,False
+79.10_12.00,Tamil Nadu,79.14999999999999,12.05,0.0,False,False
+79.20_12.00,Tamil Nadu,79.25,12.05,0.0,False,False
+79.30_12.00,Tamil Nadu,79.35,12.05,0.0,False,False
+79.40_12.00,Tamil Nadu,79.45,12.05,0.0,False,False
+79.50_12.00,Tamil Nadu,79.55,12.05,0.0,False,False
+79.60_12.00,Tamil Nadu,79.64999999999999,12.05,0.0,False,False
+79.70_12.00,Tamil Nadu,79.75,12.05,0.01067569475051976,False,False
+79.80_12.00,Tamil Nadu,79.85,12.05,0.22485728654122525,False,False
+75.10_12.10,Kerala,75.14999999999999,12.15,0.0,False,False
+75.20_12.10,Kerala,75.25,12.15,0.0,False,False
+75.30_12.10,Kerala,75.35,12.15,0.0,False,False
+75.40_12.10,Kerala,75.45,12.15,0.0,False,False
+75.50_12.10,Kerala,75.55,12.15,0.0,False,False
+75.60_12.10,Karnataka,75.64999999999999,12.15,0.0,False,False
+75.70_12.10,Karnataka,75.75,12.15,0.04690445902454157,False,False
+75.80_12.10,Karnataka,75.85,12.15,0.17302628633454384,False,False
+75.90_12.10,Karnataka,75.95,12.15,0.0,False,False
+76.00_12.10,Karnataka,76.05,12.15,0.2568794789005265,True,False
+76.10_12.10,Karnataka,76.14999999999999,12.15,0.8928514315779248,True,False
+76.20_12.10,Karnataka,76.25,12.15,0.3646778630551952,True,False
+76.30_12.10,Karnataka,76.35,12.15,0.0,True,False
+76.40_12.10,Karnataka,76.45,12.15,0.0,True,False
+76.50_12.10,Karnataka,76.55,12.15,0.0,True,False
+76.60_12.10,Karnataka,76.64999999999999,12.15,0.0,False,False
+76.70_12.10,Karnataka,76.75,12.15,0.0,True,False
+76.80_12.10,Karnataka,76.85,12.15,0.0,False,True
+76.90_12.10,Karnataka,76.95,12.15,0.0,False,False
+77.00_12.10,Karnataka,77.05,12.15,0.0,True,True
+77.10_12.10,Karnataka,77.14999999999999,12.15,0.14162936751178304,False,True
+77.20_12.10,Karnataka,77.25,12.15,0.2043243755287647,False,False
+77.30_12.10,Karnataka,77.35,12.15,0.2170937767160774,False,False
+77.40_12.10,Karnataka,77.45,12.15,0.7593870685809683,False,False
+77.50_12.10,Karnataka,77.55,12.15,0.8649402984260535,False,False
+77.60_12.10,Karnataka,77.64999999999999,12.15,0.8923353003190987,False,False
+77.70_12.10,Tamil Nadu,77.75,12.15,0.8900850400750024,False,False
+77.80_12.10,Tamil Nadu,77.85,12.15,0.662923541943459,False,False
+77.90_12.10,Tamil Nadu,77.95,12.15,0.05747049982129528,False,False
+78.00_12.10,Tamil Nadu,78.05,12.15,0.0,False,False
+78.10_12.10,Tamil Nadu,78.14999999999999,12.15,0.0,False,False
+78.20_12.10,Tamil Nadu,78.25,12.15,0.0,False,False
+78.30_12.10,Tamil Nadu,78.35,12.15,0.0,False,False
+78.40_12.10,Tamil Nadu,78.45,12.15,0.0,False,False
+78.50_12.10,Tamil Nadu,78.55,12.15,0.0,False,False
+78.60_12.10,Tamil Nadu,78.64999999999999,12.15,0.0,False,False
+78.70_12.10,Tamil Nadu,78.75,12.15,0.0,False,False
+78.80_12.10,Tamil Nadu,78.85,12.15,0.0,False,False
+78.90_12.10,Tamil Nadu,78.95,12.15,0.0,False,False
+79.00_12.10,Tamil Nadu,79.05,12.15,0.0,False,False
+79.10_12.10,Tamil Nadu,79.14999999999999,12.15,0.0,False,False
+79.20_12.10,Tamil Nadu,79.25,12.15,0.0,False,False
+79.30_12.10,Tamil Nadu,79.35,12.15,0.0,False,False
+79.40_12.10,Tamil Nadu,79.45,12.15,0.0,False,False
+79.50_12.10,Tamil Nadu,79.55,12.15,0.0,False,False
+79.60_12.10,Tamil Nadu,79.64999999999999,12.15,0.0,False,False
+79.70_12.10,Tamil Nadu,79.75,12.15,0.006220360688361169,False,False
+79.80_12.10,Tamil Nadu,79.85,12.15,0.34151835318012497,False,False
+75.10_12.20,Kerala,75.14999999999999,12.25,0.0,False,False
+75.20_12.20,Kerala,75.25,12.25,0.0,False,False
+75.30_12.20,Kerala,75.35,12.25,0.0,False,False
+75.40_12.20,Kerala,75.45,12.25,0.017524710462761373,False,False
+75.50_12.20,Karnataka,75.55,12.25,0.03244731359649084,False,False
+75.60_12.20,Karnataka,75.64999999999999,12.25,0.0,False,False
+75.70_12.20,Karnataka,75.75,12.25,0.0,False,False
+75.80_12.20,Karnataka,75.85,12.25,0.0,False,False
+75.90_12.20,Karnataka,75.95,12.25,2.609107885178552e-06,False,False
+76.00_12.20,Karnataka,76.05,12.25,0.37675585477165363,True,False
+76.10_12.20,Karnataka,76.14999999999999,12.25,0.07717063504513173,True,False
+76.20_12.20,Karnataka,76.25,12.25,0.01340882630462799,True,False
+76.30_12.20,Karnataka,76.35,12.25,0.0,True,False
+76.40_12.20,Karnataka,76.45,12.25,0.0,False,False
+76.50_12.20,Karnataka,76.55,12.25,0.0,False,False
+76.60_12.20,Karnataka,76.64999999999999,12.25,0.0,False,False
+76.70_12.20,Karnataka,76.75,12.25,0.0,False,False
+76.80_12.20,Karnataka,76.85,12.25,0.0,True,True
+76.90_12.20,Karnataka,76.95,12.25,0.0,False,True
+77.00_12.20,Karnataka,77.05,12.25,0.0,False,True
+77.10_12.20,Karnataka,77.14999999999999,12.25,0.1260958522398368,True,False
+77.20_12.20,Karnataka,77.25,12.25,0.5285888395182935,True,False
+77.30_12.20,Karnataka,77.35,12.25,0.9174567090707272,True,True
+77.40_12.20,Karnataka,77.45,12.25,0.9201312332889471,True,True
+77.50_12.20,Tamil Nadu,77.55,12.25,0.8975584249676852,False,True
+77.60_12.20,Tamil Nadu,77.64999999999999,12.25,0.8202310789624624,False,False
+77.70_12.20,Tamil Nadu,77.75,12.25,0.7996175346439883,False,False
+77.80_12.20,Tamil Nadu,77.85,12.25,0.9683355549526402,False,False
+77.90_12.20,Tamil Nadu,77.95,12.25,0.780732253310514,False,False
+78.00_12.20,Tamil Nadu,78.05,12.25,0.00018589999240081648,False,False
+78.10_12.20,Tamil Nadu,78.14999999999999,12.25,0.0,False,False
+78.20_12.20,Tamil Nadu,78.25,12.25,0.0,False,False
+78.30_12.20,Tamil Nadu,78.35,12.25,0.0,False,False
+78.40_12.20,Tamil Nadu,78.45,12.25,0.0,False,False
+78.50_12.20,Tamil Nadu,78.55,12.25,0.0,False,False
+78.60_12.20,Tamil Nadu,78.64999999999999,12.25,0.0,False,False
+78.70_12.20,Tamil Nadu,78.75,12.25,0.0,False,False
+78.80_12.20,Tamil Nadu,78.85,12.25,0.0,False,False
+78.90_12.20,Tamil Nadu,78.95,12.25,0.0,False,False
+79.00_12.20,Tamil Nadu,79.05,12.25,0.0,False,False
+79.10_12.20,Tamil Nadu,79.14999999999999,12.25,0.0,False,False
+79.20_12.20,Tamil Nadu,79.25,12.25,0.0,False,False
+79.30_12.20,Tamil Nadu,79.35,12.25,0.0,False,False
+79.40_12.20,Tamil Nadu,79.45,12.25,0.0,False,False
+79.50_12.20,Tamil Nadu,79.55,12.25,0.0,False,False
+79.60_12.20,Tamil Nadu,79.64999999999999,12.25,0.0,False,False
+79.70_12.20,Tamil Nadu,79.75,12.25,0.0,False,False
+79.80_12.20,Tamil Nadu,79.85,12.25,0.0,False,False
+79.90_12.20,Tamil Nadu,79.95,12.25,0.0,False,True
+75.10_12.30,Kerala,75.14999999999999,12.35,0.0,False,False
+75.20_12.30,Kerala,75.25,12.35,0.0,False,False
+75.30_12.30,Kerala,75.35,12.35,0.0,False,False
+75.40_12.30,Karnataka,75.45,12.35,0.49348565947706285,False,False
+75.50_12.30,Karnataka,75.55,12.35,0.20452912195177783,False,False
+75.60_12.30,Karnataka,75.64999999999999,12.35,0.0,False,False
+75.70_12.30,Karnataka,75.75,12.35,0.0,False,False
+75.80_12.30,Karnataka,75.85,12.35,0.0,False,False
+75.90_12.30,Karnataka,75.95,12.35,0.0,False,False
+76.00_12.30,Karnataka,76.05,12.35,0.0,True,False
+76.10_12.30,Karnataka,76.14999999999999,12.35,0.0,True,False
+76.20_12.30,Karnataka,76.25,12.35,0.0,True,False
+76.30_12.30,Karnataka,76.35,12.35,0.041030670569392996,False,False
+76.40_12.30,Karnataka,76.45,12.35,0.08166634392807388,False,False
+76.50_12.30,Karnataka,76.55,12.35,0.0,False,False
+76.60_12.30,Karnataka,76.64999999999999,12.35,0.0,False,False
+76.70_12.30,Karnataka,76.75,12.35,0.00552745022526933,False,False
+76.80_12.30,Karnataka,76.85,12.35,0.0014072893157320468,False,True
+76.90_12.30,Karnataka,76.95,12.35,0.0,True,False
+77.00_12.30,Karnataka,77.05,12.35,0.0,False,True
+77.10_12.30,Karnataka,77.14999999999999,12.35,0.13405555524078563,False,False
+77.20_12.30,Karnataka,77.25,12.35,0.697937143694882,True,True
+77.30_12.30,Karnataka,77.35,12.35,0.8844818425658141,True,True
+77.40_12.30,Karnataka,77.45,12.35,0.32445313297927647,True,False
+77.50_12.30,Karnataka,77.55,12.35,0.48106989343215795,False,False
+77.60_12.30,Tamil Nadu,77.64999999999999,12.35,0.5416216572867449,False,False
+77.70_12.30,Tamil Nadu,77.75,12.35,0.7458183042044837,False,False
+77.80_12.30,Tamil Nadu,77.85,12.35,0.8838319880869729,False,False
+77.90_12.30,Tamil Nadu,77.95,12.35,0.45755009565143573,False,False
+78.00_12.30,Tamil Nadu,78.05,12.35,0.0,False,False
+78.10_12.30,Tamil Nadu,78.14999999999999,12.35,0.0,False,False
+78.20_12.30,Tamil Nadu,78.25,12.35,0.0,False,False
+78.30_12.30,Tamil Nadu,78.35,12.35,0.0,False,False
+78.40_12.30,Tamil Nadu,78.45,12.35,0.0,False,False
+78.50_12.30,Tamil Nadu,78.55,12.35,0.0,False,False
+78.60_12.30,Tamil Nadu,78.64999999999999,12.35,0.0,False,False
+78.70_12.30,Tamil Nadu,78.75,12.35,0.0,False,False
+78.80_12.30,Tamil Nadu,78.85,12.35,0.0,False,False
+78.90_12.30,Tamil Nadu,78.95,12.35,0.0,False,False
+79.00_12.30,Tamil Nadu,79.05,12.35,0.0,False,False
+79.10_12.30,Tamil Nadu,79.14999999999999,12.35,0.0,False,False
+79.20_12.30,Tamil Nadu,79.25,12.35,0.0,False,False
+79.30_12.30,Tamil Nadu,79.35,12.35,0.0,False,False
+79.40_12.30,Tamil Nadu,79.45,12.35,0.0,False,False
+79.50_12.30,Tamil Nadu,79.55,12.35,0.0,False,False
+79.60_12.30,Tamil Nadu,79.64999999999999,12.35,0.0,False,False
+79.70_12.30,Tamil Nadu,79.75,12.35,0.0,False,False
+79.80_12.30,Tamil Nadu,79.85,12.35,0.0,False,False
+79.90_12.30,Tamil Nadu,79.95,12.35,0.0,False,False
+80.00_12.30,Tamil Nadu,80.05,12.35,0.0,False,True
+75.00_12.40,Kerala,75.05,12.45,0.0,False,False
+75.10_12.40,Kerala,75.14999999999999,12.45,0.0,False,False
+75.20_12.40,Kerala,75.25,12.45,0.0,False,False
+75.30_12.40,Kerala,75.35,12.45,0.0,False,False
+75.40_12.40,Karnataka,75.45,12.45,0.2219892302734954,False,False
+75.50_12.40,Karnataka,75.55,12.45,0.005151011111927357,False,False
+75.60_12.40,Karnataka,75.64999999999999,12.45,0.041690928757200464,False,False
+75.70_12.40,Karnataka,75.75,12.45,0.0,False,False
+75.80_12.40,Karnataka,75.85,12.45,0.0,True,False
+75.90_12.40,Karnataka,75.95,12.45,0.0,True,False
+76.00_12.40,Karnataka,76.05,12.45,0.0,False,False
+76.10_12.40,Karnataka,76.14999999999999,12.45,0.0,True,True
+76.20_12.40,Karnataka,76.25,12.45,0.0,True,False
+76.30_12.40,Karnataka,76.35,12.45,0.0,False,True
+76.40_12.40,Karnataka,76.45,12.45,0.0,True,True
+76.50_12.40,Karnataka,76.55,12.45,0.0011621546560020952,False,True
+76.60_12.40,Karnataka,76.64999999999999,12.45,0.007992695213999907,False,True
+76.70_12.40,Karnataka,76.75,12.45,0.0,False,True
+76.80_12.40,Karnataka,76.85,12.45,0.0,True,True
+76.90_12.40,Karnataka,76.95,12.45,0.0,False,False
+77.00_12.40,Karnataka,77.05,12.45,0.0,False,False
+77.10_12.40,Karnataka,77.14999999999999,12.45,0.0,False,False
+77.20_12.40,Karnataka,77.25,12.45,0.009927367953382438,False,False
+77.30_12.40,Karnataka,77.35,12.45,0.027462114591762916,False,False
+77.40_12.40,Karnataka,77.45,12.45,0.03578240427469776,True,False
+77.50_12.40,Karnataka,77.55,12.45,0.1787100489998367,False,False
+77.60_12.40,Tamil Nadu,77.64999999999999,12.45,0.5419378200792783,False,False
+77.70_12.40,Tamil Nadu,77.75,12.45,0.1694035495309039,True,False
+77.80_12.40,Tamil Nadu,77.85,12.45,0.35288700499777564,False,False
+77.90_12.40,Tamil Nadu,77.95,12.45,0.4737164982864536,True,False
+78.00_12.40,Tamil Nadu,78.05,12.45,0.0,False,False
+78.10_12.40,Tamil Nadu,78.14999999999999,12.45,0.0,False,False
+78.20_12.40,Tamil Nadu,78.25,12.45,0.0,False,False
+78.30_12.40,Tamil Nadu,78.35,12.45,0.0,False,False
+78.40_12.40,Tamil Nadu,78.45,12.45,0.0,False,False
+78.50_12.40,Tamil Nadu,78.55,12.45,0.0,False,False
+78.60_12.40,Tamil Nadu,78.64999999999999,12.45,0.0,False,False
+78.70_12.40,Tamil Nadu,78.75,12.45,0.0,False,False
+78.80_12.40,Tamil Nadu,78.85,12.45,0.0,False,False
+78.90_12.40,Tamil Nadu,78.95,12.45,0.0,False,False
+79.00_12.40,Tamil Nadu,79.05,12.45,0.0,False,False
+79.10_12.40,Tamil Nadu,79.14999999999999,12.45,0.0,False,False
+79.20_12.40,Tamil Nadu,79.25,12.45,0.0,False,False
+79.30_12.40,Tamil Nadu,79.35,12.45,0.0,False,False
+79.40_12.40,Tamil Nadu,79.45,12.45,0.0,False,False
+79.50_12.40,Tamil Nadu,79.55,12.45,0.0,False,False
+79.60_12.40,Tamil Nadu,79.64999999999999,12.45,0.0,False,False
+79.70_12.40,Tamil Nadu,79.75,12.45,0.0,False,False
+79.80_12.40,Tamil Nadu,79.85,12.45,0.0,False,False
+79.90_12.40,Tamil Nadu,79.95,12.45,0.0,False,False
+80.00_12.40,Tamil Nadu,80.05,12.45,0.0,False,False
+80.10_12.40,Tamil Nadu,80.14999999999999,12.45,0.0,False,False
+75.00_12.50,Kerala,75.05,12.55,0.0,False,False
+75.10_12.50,Kerala,75.14999999999999,12.55,0.0,False,False
+75.20_12.50,Kerala,75.25,12.55,0.0,False,False
+75.30_12.50,Karnataka,75.35,12.55,0.0,False,False
+75.40_12.50,Karnataka,75.45,12.55,0.0,False,False
+75.50_12.50,Karnataka,75.55,12.55,0.0,False,False
+75.60_12.50,Karnataka,75.64999999999999,12.55,0.4268816685318479,False,False
+75.70_12.50,Karnataka,75.75,12.55,0.05980965258993761,False,False
+75.80_12.50,Karnataka,75.85,12.55,0.0,False,False
+75.90_12.50,Karnataka,75.95,12.55,0.0,False,False
+76.00_12.50,Karnataka,76.05,12.55,0.0,False,False
+76.10_12.50,Karnataka,76.14999999999999,12.55,0.0,True,False
+76.20_12.50,Karnataka,76.25,12.55,0.0,False,True
+76.30_12.50,Karnataka,76.35,12.55,0.0,True,True
+76.40_12.50,Karnataka,76.45,12.55,0.0,True,True
+76.50_12.50,Karnataka,76.55,12.55,0.0,False,True
+76.60_12.50,Karnataka,76.64999999999999,12.55,0.0,False,True
+76.70_12.50,Karnataka,76.75,12.55,0.0,False,True
+76.80_12.50,Karnataka,76.85,12.55,0.0,False,False
+76.90_12.50,Karnataka,76.95,12.55,0.0,False,True
+77.00_12.50,Karnataka,77.05,12.55,0.0,False,True
+77.10_12.50,Karnataka,77.14999999999999,12.55,0.0,True,True
+77.20_12.50,Karnataka,77.25,12.55,0.0,True,False
+77.30_12.50,Karnataka,77.35,12.55,0.0,False,False
+77.40_12.50,Karnataka,77.45,12.55,0.043633255573410315,False,False
+77.50_12.50,Karnataka,77.55,12.55,0.5435345621576063,False,False
+77.60_12.50,Tamil Nadu,77.64999999999999,12.55,0.12833974538668258,True,False
+77.70_12.50,Tamil Nadu,77.75,12.55,0.0,False,False
+77.80_12.50,Tamil Nadu,77.85,12.55,0.0715667691510411,False,False
+77.90_12.50,Tamil Nadu,77.95,12.55,0.21548969211621838,False,False
+78.00_12.50,Tamil Nadu,78.05,12.55,0.0,False,False
+78.10_12.50,Tamil Nadu,78.14999999999999,12.55,0.0,False,False
+78.20_12.50,Tamil Nadu,78.25,12.55,0.0,False,False
+78.30_12.50,Tamil Nadu,78.35,12.55,0.0,False,False
+78.40_12.50,Tamil Nadu,78.45,12.55,0.0,False,False
+78.50_12.50,Tamil Nadu,78.55,12.55,0.0,False,False
+78.60_12.50,Tamil Nadu,78.64999999999999,12.55,0.0,False,False
+78.70_12.50,Tamil Nadu,78.75,12.55,0.0,False,False
+78.80_12.50,Tamil Nadu,78.85,12.55,0.0,False,False
+78.90_12.50,Tamil Nadu,78.95,12.55,0.0,False,False
+79.00_12.50,Tamil Nadu,79.05,12.55,0.0,False,False
+79.10_12.50,Tamil Nadu,79.14999999999999,12.55,0.0,False,False
+79.20_12.50,Tamil Nadu,79.25,12.55,0.0,False,False
+79.30_12.50,Tamil Nadu,79.35,12.55,0.0,False,False
+79.40_12.50,Tamil Nadu,79.45,12.55,0.0,False,False
+79.50_12.50,Tamil Nadu,79.55,12.55,0.0,False,False
+79.60_12.50,Tamil Nadu,79.64999999999999,12.55,0.0,False,False
+79.70_12.50,Tamil Nadu,79.75,12.55,0.0,False,False
+79.80_12.50,Tamil Nadu,79.85,12.55,0.0037645049839123115,False,False
+79.90_12.50,Tamil Nadu,79.95,12.55,0.0,False,False
+80.00_12.50,Tamil Nadu,80.05,12.55,0.0,False,False
+80.10_12.50,Tamil Nadu,80.14999999999999,12.55,0.0,False,False
+74.90_12.60,Kerala,74.95,12.65,0.0,False,False
+75.00_12.60,Kerala,75.05,12.65,0.0,False,False
+75.10_12.60,Kerala,75.14999999999999,12.65,0.0,False,False
+75.20_12.60,Karnataka,75.25,12.65,0.0,False,False
+75.30_12.60,Karnataka,75.35,12.65,0.0,False,False
+75.40_12.60,Karnataka,75.45,12.65,0.0,False,False
+75.50_12.60,Karnataka,75.55,12.65,0.0,False,False
+75.60_12.60,Karnataka,75.64999999999999,12.65,0.4539789546308851,False,False
+75.70_12.60,Karnataka,75.75,12.65,0.008994205185649142,False,False
+75.80_12.60,Karnataka,75.85,12.65,0.0,False,False
+75.90_12.60,Karnataka,75.95,12.65,0.0,False,False
+76.00_12.60,Karnataka,76.05,12.65,0.0,False,False
+76.10_12.60,Karnataka,76.14999999999999,12.65,0.0,True,False
+76.20_12.60,Karnataka,76.25,12.65,0.0,True,False
+76.30_12.60,Karnataka,76.35,12.65,0.0,False,False
+76.40_12.60,Karnataka,76.45,12.65,0.0,False,True
+76.50_12.60,Karnataka,76.55,12.65,0.0,True,True
+76.60_12.60,Karnataka,76.64999999999999,12.65,0.023374755103987288,True,False
+76.70_12.60,Karnataka,76.75,12.65,0.0,True,False
+76.80_12.60,Karnataka,76.85,12.65,0.0,True,False
+76.90_12.60,Karnataka,76.95,12.65,0.0,False,True
+77.00_12.60,Karnataka,77.05,12.65,0.0,False,True
+77.10_12.60,Karnataka,77.14999999999999,12.65,0.0,False,True
+77.20_12.60,Karnataka,77.25,12.65,0.0,False,False
+77.30_12.60,Karnataka,77.35,12.65,0.0,False,False
+77.40_12.60,Karnataka,77.45,12.65,0.0,False,False
+77.50_12.60,Karnataka,77.55,12.65,0.12521484386267714,True,False
+77.60_12.60,Tamil Nadu,77.64999999999999,12.65,0.08160591260340719,False,False
+77.70_12.60,Tamil Nadu,77.75,12.65,0.0,False,False
+77.80_12.60,Tamil Nadu,77.85,12.65,0.0,False,False
+77.90_12.60,Tamil Nadu,77.95,12.65,0.0,False,False
+78.00_12.60,Tamil Nadu,78.05,12.65,0.0,False,False
+78.10_12.60,Tamil Nadu,78.14999999999999,12.65,0.0,False,False
+78.20_12.60,Tamil Nadu,78.25,12.65,0.0,False,False
+78.50_12.60,Tamil Nadu,78.55,12.65,0.020483838255140305,False,False
+78.60_12.60,Tamil Nadu,78.64999999999999,12.65,0.0,False,False
+78.70_12.60,Tamil Nadu,78.75,12.65,0.0,False,False
+78.80_12.60,Tamil Nadu,78.85,12.65,0.0,False,False
+78.90_12.60,Tamil Nadu,78.95,12.65,0.0,False,False
+79.00_12.60,Tamil Nadu,79.05,12.65,0.0,False,False
+79.10_12.60,Tamil Nadu,79.14999999999999,12.65,0.0,False,False
+79.20_12.60,Tamil Nadu,79.25,12.65,0.0,False,False
+79.30_12.60,Tamil Nadu,79.35,12.65,0.0,False,False
+79.40_12.60,Tamil Nadu,79.45,12.65,0.0,False,False
+79.50_12.60,Tamil Nadu,79.55,12.65,0.0,False,False
+79.60_12.60,Tamil Nadu,79.64999999999999,12.65,0.0,False,False
+79.70_12.60,Tamil Nadu,79.75,12.65,0.0,False,False
+79.80_12.60,Tamil Nadu,79.85,12.65,0.0006695919030900554,False,False
+79.90_12.60,Tamil Nadu,79.95,12.65,0.0,False,False
+80.00_12.60,Tamil Nadu,80.05,12.65,0.0,False,False
+80.10_12.60,Tamil Nadu,80.14999999999999,12.65,0.0,False,False
+74.90_12.70,Kerala,74.95,12.75,0.0,False,False
+75.00_12.70,Karnataka,75.05,12.75,0.0,False,False
+75.10_12.70,Karnataka,75.14999999999999,12.75,0.0,False,False
+75.20_12.70,Karnataka,75.25,12.75,0.0,False,False
+75.30_12.70,Karnataka,75.35,12.75,0.0,False,False
+75.40_12.70,Karnataka,75.45,12.75,0.0,False,False
+75.50_12.70,Karnataka,75.55,12.75,0.0,False,False
+75.60_12.70,Karnataka,75.64999999999999,12.75,0.0019200002768772688,False,False
+75.70_12.70,Karnataka,75.75,12.75,0.0,False,False
+75.80_12.70,Karnataka,75.85,12.75,0.0,False,False
+75.90_12.70,Karnataka,75.95,12.75,0.0,False,False
+76.00_12.70,Karnataka,76.05,12.75,0.0,False,False
+76.10_12.70,Karnataka,76.14999999999999,12.75,0.0,True,False
+76.20_12.70,Karnataka,76.25,12.75,0.0,False,False
+76.30_12.70,Karnataka,76.35,12.75,0.0,True,True
+76.40_12.70,Karnataka,76.45,12.75,0.0,False,True
+76.50_12.70,Karnataka,76.55,12.75,0.0,True,True
+76.60_12.70,Karnataka,76.64999999999999,12.75,0.02278231800801959,True,True
+76.70_12.70,Karnataka,76.75,12.75,0.0,False,False
+76.80_12.70,Karnataka,76.85,12.75,0.0,False,False
+76.90_12.70,Karnataka,76.95,12.75,0.0,False,False
+77.00_12.70,Karnataka,77.05,12.75,0.0,True,False
+77.10_12.70,Karnataka,77.14999999999999,12.75,0.0,True,False
+77.20_12.70,Karnataka,77.25,12.75,0.001999331803916829,False,False
+77.30_12.70,Karnataka,77.35,12.75,0.012885881963084624,False,False
+77.40_12.70,Karnataka,77.45,12.75,0.0,False,False
+77.50_12.70,Karnataka,77.55,12.75,0.4019335415920043,False,False
+77.60_12.70,Karnataka,77.64999999999999,12.75,0.044401362405029135,False,False
+77.70_12.70,Karnataka,77.75,12.75,0.0,False,False
+77.80_12.70,Tamil Nadu,77.85,12.75,0.0,False,False
+77.90_12.70,Tamil Nadu,77.95,12.75,0.0,False,False
+78.00_12.70,Tamil Nadu,78.05,12.75,0.0,False,False
+78.10_12.70,Tamil Nadu,78.14999999999999,12.75,0.0,False,False
+78.60_12.70,Tamil Nadu,78.64999999999999,12.75,0.0,False,False
+78.70_12.70,Tamil Nadu,78.75,12.75,0.0,False,False
+78.80_12.70,Tamil Nadu,78.85,12.75,0.0,False,False
+78.90_12.70,Tamil Nadu,78.95,12.75,0.0,False,False
+79.00_12.70,Tamil Nadu,79.05,12.75,0.0,False,False
+79.10_12.70,Tamil Nadu,79.14999999999999,12.75,0.0,False,False
+79.20_12.70,Tamil Nadu,79.25,12.75,0.0,False,False
+79.30_12.70,Tamil Nadu,79.35,12.75,0.0,False,False
+79.40_12.70,Tamil Nadu,79.45,12.75,0.0,False,False
+79.50_12.70,Tamil Nadu,79.55,12.75,0.0,False,False
+79.60_12.70,Tamil Nadu,79.64999999999999,12.75,0.0,False,False
+79.70_12.70,Tamil Nadu,79.75,12.75,0.0,False,False
+79.80_12.70,Tamil Nadu,79.85,12.75,0.0,False,False
+79.90_12.70,Tamil Nadu,79.95,12.75,0.0,False,False
+80.00_12.70,Tamil Nadu,80.05,12.75,0.0,False,False
+80.10_12.70,Tamil Nadu,80.14999999999999,12.75,0.0,False,False
+74.80_12.80,Karnataka,74.85,12.85,0.0,False,False
+74.90_12.80,Karnataka,74.95,12.85,0.0,False,False
+75.00_12.80,Karnataka,75.05,12.85,0.0,False,False
+75.10_12.80,Karnataka,75.14999999999999,12.85,0.0,False,False
+75.20_12.80,Karnataka,75.25,12.85,0.0,False,False
+75.30_12.80,Karnataka,75.35,12.85,0.0,False,False
+75.40_12.80,Karnataka,75.45,12.85,0.0,False,False
+75.50_12.80,Karnataka,75.55,12.85,0.0,False,False
+75.60_12.80,Karnataka,75.64999999999999,12.85,0.0,False,False
+75.70_12.80,Karnataka,75.75,12.85,0.0,False,False
+75.80_12.80,Karnataka,75.85,12.85,0.0,False,False
+75.90_12.80,Karnataka,75.95,12.85,0.0,True,False
+76.00_12.80,Karnataka,76.05,12.85,0.0,False,False
+76.10_12.80,Karnataka,76.14999999999999,12.85,0.0,True,False
+76.20_12.80,Karnataka,76.25,12.85,0.0,True,False
+76.30_12.80,Karnataka,76.35,12.85,0.0,False,False
+76.40_12.80,Karnataka,76.45,12.85,0.0,False,False
+76.50_12.80,Karnataka,76.55,12.85,0.0,False,False
+76.60_12.80,Karnataka,76.64999999999999,12.85,0.0,True,True
+76.70_12.80,Karnataka,76.75,12.85,0.0,True,True
+76.80_12.80,Karnataka,76.85,12.85,0.0,True,True
+76.90_12.80,Karnataka,76.95,12.85,0.0,True,False
+77.00_12.80,Karnataka,77.05,12.85,0.0,True,False
+77.10_12.80,Karnataka,77.14999999999999,12.85,0.0,False,False
+77.20_12.80,Karnataka,77.25,12.85,0.0,False,False
+77.30_12.80,Karnataka,77.35,12.85,0.0,False,False
+77.40_12.80,Karnataka,77.45,12.85,0.0,False,False
+77.50_12.80,Karnataka,77.55,12.85,0.02215531195832822,False,False
+77.60_12.80,Karnataka,77.64999999999999,12.85,0.0,False,False
+77.70_12.80,Karnataka,77.75,12.85,0.0,False,False
+77.80_12.80,Tamil Nadu,77.85,12.85,0.0,False,False
+77.90_12.80,Karnataka,77.95,12.85,0.0,False,False
+78.00_12.80,Karnataka,78.05,12.85,0.0,False,False
+78.10_12.80,Karnataka,78.14999999999999,12.85,0.0,False,False
+78.20_12.80,Karnataka,78.25,12.85,0.0,False,False
+78.60_12.80,Tamil Nadu,78.64999999999999,12.85,0.08039086326029156,False,False
+78.70_12.80,Tamil Nadu,78.75,12.85,0.0,False,False
+78.80_12.80,Tamil Nadu,78.85,12.85,0.0,False,False
+78.90_12.80,Tamil Nadu,78.95,12.85,0.0,False,False
+79.00_12.80,Tamil Nadu,79.05,12.85,0.0,False,False
+79.10_12.80,Tamil Nadu,79.14999999999999,12.85,0.0,False,False
+79.20_12.80,Tamil Nadu,79.25,12.85,0.0,False,False
+79.30_12.80,Tamil Nadu,79.35,12.85,0.0,False,False
+79.40_12.80,Tamil Nadu,79.45,12.85,0.0,False,False
+79.50_12.80,Tamil Nadu,79.55,12.85,0.0,False,False
+79.60_12.80,Tamil Nadu,79.64999999999999,12.85,0.0,False,False
+79.70_12.80,Tamil Nadu,79.75,12.85,0.0,False,False
+79.80_12.80,Tamil Nadu,79.85,12.85,0.0,False,False
+79.90_12.80,Tamil Nadu,79.95,12.85,0.0,False,False
+80.00_12.80,Tamil Nadu,80.05,12.85,0.0,False,False
+80.10_12.80,Tamil Nadu,80.14999999999999,12.85,0.0,False,False
+74.80_12.90,Karnataka,74.85,12.95,0.0,False,False
+74.90_12.90,Karnataka,74.95,12.95,0.0,False,False
+75.00_12.90,Karnataka,75.05,12.95,0.0,False,False
+75.10_12.90,Karnataka,75.14999999999999,12.95,0.0,False,False
+75.20_12.90,Karnataka,75.25,12.95,0.0,False,False
+75.30_12.90,Karnataka,75.35,12.95,0.0,False,False
+75.40_12.90,Karnataka,75.45,12.95,0.0,False,False
+75.50_12.90,Karnataka,75.55,12.95,0.0,False,False
+75.60_12.90,Karnataka,75.64999999999999,12.95,0.0,False,False
+75.70_12.90,Karnataka,75.75,12.95,0.0,False,False
+75.80_12.90,Karnataka,75.85,12.95,0.0,False,False
+75.90_12.90,Karnataka,75.95,12.95,0.0,True,False
+76.00_12.90,Karnataka,76.05,12.95,0.0,False,False
+76.10_12.90,Karnataka,76.14999999999999,12.95,0.0,False,False
+76.20_12.90,Karnataka,76.25,12.95,0.0,False,False
+76.30_12.90,Karnataka,76.35,12.95,0.0,False,False
+76.40_12.90,Karnataka,76.45,12.95,0.0,False,False
+76.50_12.90,Karnataka,76.55,12.95,0.0,False,False
+76.60_12.90,Karnataka,76.64999999999999,12.95,0.0,False,False
+76.70_12.90,Karnataka,76.75,12.95,0.0,False,False
+76.80_12.90,Karnataka,76.85,12.95,0.0,False,True
+76.90_12.90,Karnataka,76.95,12.95,0.0,False,False
+77.00_12.90,Karnataka,77.05,12.95,0.0,False,False
+77.10_12.90,Karnataka,77.14999999999999,12.95,0.0,False,False
+77.20_12.90,Karnataka,77.25,12.95,0.0,False,False
+77.30_12.90,Karnataka,77.35,12.95,0.0,False,False
+77.40_12.90,Karnataka,77.45,12.95,0.0,False,False
+77.50_12.90,Karnataka,77.55,12.95,0.0,False,False
+77.60_12.90,Karnataka,77.64999999999999,12.95,0.0,False,False
+77.70_12.90,Karnataka,77.75,12.95,0.0,False,False
+77.80_12.90,Karnataka,77.85,12.95,0.0,False,False
+77.90_12.90,Karnataka,77.95,12.95,0.0,False,False
+78.00_12.90,Karnataka,78.05,12.95,0.0,False,False
+78.10_12.90,Karnataka,78.14999999999999,12.95,0.0,False,False
+78.20_12.90,Karnataka,78.25,12.95,0.0,False,False
+78.30_12.90,Karnataka,78.35,12.95,0.0,True,False
+78.60_12.90,Tamil Nadu,78.64999999999999,12.95,0.30050286621632627,False,False
+78.70_12.90,Tamil Nadu,78.75,12.95,0.0,False,False
+78.80_12.90,Tamil Nadu,78.85,12.95,0.0,False,False
+78.90_12.90,Tamil Nadu,78.95,12.95,0.0,False,False
+79.00_12.90,Tamil Nadu,79.05,12.95,0.0,False,False
+79.10_12.90,Tamil Nadu,79.14999999999999,12.95,0.0,False,False
+79.20_12.90,Tamil Nadu,79.25,12.95,0.0,False,False
+79.30_12.90,Tamil Nadu,79.35,12.95,0.0,False,False
+79.40_12.90,Tamil Nadu,79.45,12.95,0.0,False,True
+79.50_12.90,Tamil Nadu,79.55,12.95,0.0,False,False
+79.60_12.90,Tamil Nadu,79.64999999999999,12.95,0.0,False,False
+79.70_12.90,Tamil Nadu,79.75,12.95,0.0,False,False
+79.80_12.90,Tamil Nadu,79.85,12.95,0.0,False,False
+79.90_12.90,Tamil Nadu,79.95,12.95,0.0,False,False
+80.00_12.90,Tamil Nadu,80.05,12.95,0.0,False,False
+80.10_12.90,Tamil Nadu,80.14999999999999,12.95,0.0,False,False
+80.20_12.90,Tamil Nadu,80.25,12.95,0.013048423953027547,False,False
+74.80_13.00,Karnataka,74.85,13.05,0.0,False,False
+74.90_13.00,Karnataka,74.95,13.05,0.0,False,False
+75.00_13.00,Karnataka,75.05,13.05,0.0,False,False
+75.10_13.00,Karnataka,75.14999999999999,13.05,0.008897319974870801,False,False
+75.20_13.00,Karnataka,75.25,13.05,0.380670769657599,False,False
+75.30_13.00,Karnataka,75.35,13.05,0.13586792418655552,False,False
+75.40_13.00,Karnataka,75.45,13.05,0.011555391847107566,False,False
+75.50_13.00,Karnataka,75.55,13.05,0.0,False,False
+75.60_13.00,Karnataka,75.64999999999999,13.05,0.0,False,False
+75.70_13.00,Karnataka,75.75,13.05,0.0,False,False
+75.80_13.00,Karnataka,75.85,13.05,0.0,False,False
+75.90_13.00,Karnataka,75.95,13.05,0.0,False,False
+76.00_13.00,Karnataka,76.05,13.05,0.0,False,False
+76.10_13.00,Karnataka,76.14999999999999,13.05,0.0,False,False
+76.20_13.00,Karnataka,76.25,13.05,0.0,True,True
+76.30_13.00,Karnataka,76.35,13.05,0.0,False,False
+76.40_13.00,Karnataka,76.45,13.05,0.0,False,False
+76.50_13.00,Karnataka,76.55,13.05,0.0,False,False
+76.60_13.00,Karnataka,76.64999999999999,13.05,0.0,False,False
+76.70_13.00,Karnataka,76.75,13.05,0.007181497765002258,False,False
+76.80_13.00,Karnataka,76.85,13.05,0.0,False,False
+76.90_13.00,Karnataka,76.95,13.05,0.0,False,False
+77.00_13.00,Karnataka,77.05,13.05,0.0,False,False
+77.10_13.00,Karnataka,77.14999999999999,13.05,0.0,False,False
+77.20_13.00,Karnataka,77.25,13.05,0.0,False,False
+77.30_13.00,Karnataka,77.35,13.05,0.0,False,False
+77.40_13.00,Karnataka,77.45,13.05,0.0,False,False
+77.50_13.00,Karnataka,77.55,13.05,0.0,False,False
+77.60_13.00,Karnataka,77.64999999999999,13.05,0.0,False,False
+77.70_13.00,Karnataka,77.75,13.05,0.0,False,False
+77.80_13.00,Karnataka,77.85,13.05,0.0,False,False
+77.90_13.00,Karnataka,77.95,13.05,0.0,False,False
+78.00_13.00,Karnataka,78.05,13.05,0.0,False,False
+78.10_13.00,Karnataka,78.14999999999999,13.05,0.0,False,False
+78.20_13.00,Karnataka,78.25,13.05,0.0,True,False
+78.30_13.00,Karnataka,78.35,13.05,0.0,True,False
+78.40_13.00,Karnataka,78.45,13.05,0.0,False,False
+78.70_13.00,Tamil Nadu,78.75,13.05,0.24707541940667838,False,False
+78.80_13.00,Tamil Nadu,78.85,13.05,0.04022939899655143,False,False
+78.90_13.00,Tamil Nadu,78.95,13.05,0.0,False,False
+79.00_13.00,Tamil Nadu,79.05,13.05,0.0,False,False
+79.20_13.00,Tamil Nadu,79.25,13.05,0.0,False,False
+79.30_13.00,Tamil Nadu,79.35,13.05,0.0,False,False
+79.40_13.00,Tamil Nadu,79.45,13.05,0.0,False,False
+79.50_13.00,Tamil Nadu,79.55,13.05,0.0,False,False
+79.60_13.00,Tamil Nadu,79.64999999999999,13.05,0.0,False,False
+79.70_13.00,Tamil Nadu,79.75,13.05,0.0,False,False
+79.80_13.00,Tamil Nadu,79.85,13.05,0.0,False,False
+79.90_13.00,Tamil Nadu,79.95,13.05,0.0,False,False
+80.00_13.00,Tamil Nadu,80.05,13.05,0.0,False,False
+80.10_13.00,Tamil Nadu,80.14999999999999,13.05,0.0,False,False
+80.20_13.00,Tamil Nadu,80.25,13.05,0.010698296995973357,False,False
+74.80_13.10,Karnataka,74.85,13.15,0.0,False,False
+74.90_13.10,Karnataka,74.95,13.15,0.0,False,False
+75.00_13.10,Karnataka,75.05,13.15,0.0,False,False
+75.10_13.10,Karnataka,75.14999999999999,13.15,0.4654757612581079,False,False
+75.20_13.10,Karnataka,75.25,13.15,0.9543316683477221,False,False
+75.30_13.10,Karnataka,75.35,13.15,0.5331257214167248,False,False
+75.40_13.10,Karnataka,75.45,13.15,0.047030593543266684,False,False
+75.50_13.10,Karnataka,75.55,13.15,0.0,False,False
+75.60_13.10,Karnataka,75.64999999999999,13.15,0.0,False,False
+75.70_13.10,Karnataka,75.75,13.15,0.0,False,False
+75.80_13.10,Karnataka,75.85,13.15,0.0,False,False
+75.90_13.10,Karnataka,75.95,13.15,0.0,True,False
+76.00_13.10,Karnataka,76.05,13.15,0.0,True,False
+76.10_13.10,Karnataka,76.14999999999999,13.15,0.0,False,False
+76.20_13.10,Karnataka,76.25,13.15,0.0,False,False
+76.30_13.10,Karnataka,76.35,13.15,0.0,False,False
+76.40_13.10,Karnataka,76.45,13.15,0.0,False,False
+76.50_13.10,Karnataka,76.55,13.15,0.0,True,False
+76.60_13.10,Karnataka,76.64999999999999,13.15,0.0,False,False
+76.70_13.10,Karnataka,76.75,13.15,0.0,False,False
+76.80_13.10,Karnataka,76.85,13.15,0.0,False,False
+76.90_13.10,Karnataka,76.95,13.15,0.0,False,False
+77.00_13.10,Karnataka,77.05,13.15,0.0,False,False
+77.10_13.10,Karnataka,77.14999999999999,13.15,0.0,False,False
+77.20_13.10,Karnataka,77.25,13.15,0.0,False,False
+77.30_13.10,Karnataka,77.35,13.15,0.0,False,False
+77.40_13.10,Karnataka,77.45,13.15,0.14288767159554958,False,False
+77.50_13.10,Karnataka,77.55,13.15,0.043611635516745476,False,False
+77.60_13.10,Karnataka,77.64999999999999,13.15,0.0,False,False
+77.70_13.10,Karnataka,77.75,13.15,0.0,False,False
+77.80_13.10,Karnataka,77.85,13.15,0.0,False,False
+77.90_13.10,Karnataka,77.95,13.15,0.0,False,False
+78.00_13.10,Karnataka,78.05,13.15,0.0,False,False
+78.10_13.10,Karnataka,78.14999999999999,13.15,0.0,False,False
+78.20_13.10,Karnataka,78.25,13.15,0.0,False,False
+78.30_13.10,Karnataka,78.35,13.15,0.0,False,False
+78.40_13.10,Karnataka,78.45,13.15,0.0,False,False
+79.40_13.10,Tamil Nadu,79.45,13.15,0.0,False,False
+79.50_13.10,Tamil Nadu,79.55,13.15,0.0,False,False
+79.60_13.10,Tamil Nadu,79.64999999999999,13.15,0.0,False,False
+79.70_13.10,Tamil Nadu,79.75,13.15,0.0,False,False
+79.80_13.10,Tamil Nadu,79.85,13.15,0.0,False,False
+79.90_13.10,Tamil Nadu,79.95,13.15,0.0,False,False
+80.00_13.10,Tamil Nadu,80.05,13.15,0.0,False,False
+80.10_13.10,Tamil Nadu,80.14999999999999,13.15,0.0,False,False
+80.20_13.10,Tamil Nadu,80.25,13.15,0.0,False,False
+74.70_13.20,Karnataka,74.75,13.25,0.0,False,False
+74.80_13.20,Karnataka,74.85,13.25,0.0,False,False
+74.90_13.20,Karnataka,74.95,13.25,0.0,False,False
+75.00_13.20,Karnataka,75.05,13.25,0.08525750935687665,False,False
+75.10_13.20,Karnataka,75.14999999999999,13.25,0.8781516073179975,False,False
+75.20_13.20,Karnataka,75.25,13.25,0.8774795409585311,False,False
+75.30_13.20,Karnataka,75.35,13.25,0.06357210068449329,False,False
+75.40_13.20,Karnataka,75.45,13.25,0.0,False,False
+75.50_13.20,Karnataka,75.55,13.25,0.0,False,False
+75.60_13.20,Karnataka,75.64999999999999,13.25,0.0,False,False
+75.70_13.20,Karnataka,75.75,13.25,0.0,True,False
+75.80_13.20,Karnataka,75.85,13.25,0.0,False,False
+75.90_13.20,Karnataka,75.95,13.25,0.0,False,False
+76.00_13.20,Karnataka,76.05,13.25,0.0,False,False
+76.10_13.20,Karnataka,76.14999999999999,13.25,0.0,False,False
+76.20_13.20,Karnataka,76.25,13.25,0.0,False,True
+76.30_13.20,Karnataka,76.35,13.25,0.0,False,False
+76.40_13.20,Karnataka,76.45,13.25,0.0,False,False
+76.50_13.20,Karnataka,76.55,13.25,0.0,False,True
+76.60_13.20,Karnataka,76.64999999999999,13.25,0.0,False,False
+76.70_13.20,Karnataka,76.75,13.25,0.0,False,False
+76.80_13.20,Karnataka,76.85,13.25,0.0,False,False
+76.90_13.20,Karnataka,76.95,13.25,0.0,False,False
+77.00_13.20,Karnataka,77.05,13.25,0.0,False,False
+77.10_13.20,Karnataka,77.14999999999999,13.25,0.0,False,False
+77.20_13.20,Karnataka,77.25,13.25,0.0,False,False
+77.30_13.20,Karnataka,77.35,13.25,0.0,False,False
+77.40_13.20,Karnataka,77.45,13.25,0.0008032043243912202,False,False
+77.50_13.20,Karnataka,77.55,13.25,0.005692690939329313,False,False
+77.60_13.20,Karnataka,77.64999999999999,13.25,0.0,False,False
+77.70_13.20,Karnataka,77.75,13.25,0.0,False,False
+77.80_13.20,Karnataka,77.85,13.25,0.0,False,False
+77.90_13.20,Karnataka,77.95,13.25,0.0,False,False
+78.00_13.20,Karnataka,78.05,13.25,0.0,False,False
+78.10_13.20,Karnataka,78.14999999999999,13.25,0.0,False,False
+78.20_13.20,Karnataka,78.25,13.25,0.0,False,False
+78.30_13.20,Karnataka,78.35,13.25,0.0,False,False
+78.40_13.20,Karnataka,78.45,13.25,0.0,False,False
+78.50_13.20,Karnataka,78.55,13.25,0.0,False,False
+79.40_13.20,Tamil Nadu,79.45,13.25,0.0,False,False
+79.50_13.20,Tamil Nadu,79.55,13.25,0.0,False,False
+79.60_13.20,Tamil Nadu,79.64999999999999,13.25,0.0,False,False
+79.70_13.20,Tamil Nadu,79.75,13.25,0.0,False,False
+79.80_13.20,Tamil Nadu,79.85,13.25,0.0,False,False
+79.90_13.20,Tamil Nadu,79.95,13.25,0.0,False,False
+80.00_13.20,Tamil Nadu,80.05,13.25,0.0,False,False
+80.10_13.20,Tamil Nadu,80.14999999999999,13.25,0.0,False,False
+80.20_13.20,Tamil Nadu,80.25,13.25,0.0,False,False
+74.70_13.30,Karnataka,74.75,13.35,0.0,False,False
+74.80_13.30,Karnataka,74.85,13.35,0.0,False,False
+74.90_13.30,Karnataka,74.95,13.35,0.0,False,False
+75.00_13.30,Karnataka,75.05,13.35,0.6175210619367291,False,False
+75.10_13.30,Karnataka,75.14999999999999,13.35,0.946274021967945,False,False
+75.20_13.30,Karnataka,75.25,13.35,0.45351492988802383,False,False
+75.30_13.30,Karnataka,75.35,13.35,0.05605452461187625,False,False
+75.40_13.30,Karnataka,75.45,13.35,0.02200899438388003,False,False
+75.50_13.30,Karnataka,75.55,13.35,0.1378579642312318,False,False
+75.60_13.30,Karnataka,75.64999999999999,13.35,0.007663165225778738,False,False
+75.70_13.30,Karnataka,75.75,13.35,0.0,True,False
+75.80_13.30,Karnataka,75.85,13.35,0.0,True,False
+75.90_13.30,Karnataka,75.95,13.35,0.0,False,False
+76.00_13.30,Karnataka,76.05,13.35,0.0,False,False
+76.10_13.30,Karnataka,76.14999999999999,13.35,0.0,False,False
+76.20_13.30,Karnataka,76.25,13.35,0.2574790001254067,False,False
+76.30_13.30,Karnataka,76.35,13.35,0.15456471799251204,False,False
+76.40_13.30,Karnataka,76.45,13.35,0.0,False,False
+76.50_13.30,Karnataka,76.55,13.35,0.0,False,False
+76.60_13.30,Karnataka,76.64999999999999,13.35,0.0,False,False
+76.70_13.30,Karnataka,76.75,13.35,0.0,False,False
+76.80_13.30,Karnataka,76.85,13.35,0.0,False,False
+76.90_13.30,Karnataka,76.95,13.35,0.0,False,False
+77.00_13.30,Karnataka,77.05,13.35,0.0,False,False
+77.10_13.30,Karnataka,77.14999999999999,13.35,0.2961657981897163,False,False
+77.20_13.30,Karnataka,77.25,13.35,0.07320165848786994,False,False
+77.30_13.30,Karnataka,77.35,13.35,0.0,False,False
+77.40_13.30,Karnataka,77.45,13.35,0.0,False,False
+77.50_13.30,Karnataka,77.55,13.35,0.0,False,False
+77.60_13.30,Karnataka,77.64999999999999,13.35,0.0,False,False
+77.70_13.30,Karnataka,77.75,13.35,0.0,False,False
+77.80_13.30,Karnataka,77.85,13.35,0.0,False,False
+77.90_13.30,Karnataka,77.95,13.35,0.0,False,False
+78.00_13.30,Karnataka,78.05,13.35,0.0,False,False
+78.10_13.30,Karnataka,78.14999999999999,13.35,0.0,False,False
+78.20_13.30,Karnataka,78.25,13.35,0.0,False,False
+78.30_13.30,Karnataka,78.35,13.35,0.0,False,False
+79.90_13.30,Tamil Nadu,79.95,13.35,0.0,False,False
+80.00_13.30,Tamil Nadu,80.05,13.35,0.0,False,False
+80.10_13.30,Tamil Nadu,80.14999999999999,13.35,0.0,False,False
+80.20_13.30,Tamil Nadu,80.25,13.35,0.0,False,False
+74.70_13.40,Karnataka,74.75,13.45,0.0,False,False
+74.80_13.40,Karnataka,74.85,13.45,0.0,False,False
+74.90_13.40,Karnataka,74.95,13.45,0.10563867238937055,False,False
+75.00_13.40,Karnataka,75.05,13.45,0.7409587290461357,False,False
+75.10_13.40,Karnataka,75.14999999999999,13.45,0.6678010018021393,False,False
+75.20_13.40,Karnataka,75.25,13.45,0.0,False,False
+75.30_13.40,Karnataka,75.35,13.45,0.0,False,False
+75.40_13.40,Karnataka,75.45,13.45,0.008557943212453683,False,False
+75.50_13.40,Karnataka,75.55,13.45,0.5087555157805118,False,False
+75.60_13.40,Karnataka,75.64999999999999,13.45,0.581777068079211,False,False
+75.70_13.40,Karnataka,75.75,13.45,0.038162298656329245,False,False
+75.80_13.40,Karnataka,75.85,13.45,0.0,True,False
+75.90_13.40,Karnataka,75.95,13.45,0.0,False,False
+76.00_13.40,Karnataka,76.05,13.45,0.0,False,False
+76.10_13.40,Karnataka,76.14999999999999,13.45,0.0,False,False
+76.20_13.40,Karnataka,76.25,13.45,0.19484185116711086,True,False
+76.30_13.40,Karnataka,76.35,13.45,0.032758477324526955,False,False
+76.40_13.40,Karnataka,76.45,13.45,0.0,False,False
+76.50_13.40,Karnataka,76.55,13.45,0.0,False,False
+76.60_13.40,Karnataka,76.64999999999999,13.45,0.0,False,False
+76.70_13.40,Karnataka,76.75,13.45,0.006551047953692048,False,False
+76.80_13.40,Karnataka,76.85,13.45,0.0,False,False
+76.90_13.40,Karnataka,76.95,13.45,0.0,False,False
+77.00_13.40,Karnataka,77.05,13.45,0.0,False,False
+77.10_13.40,Karnataka,77.14999999999999,13.45,0.09783765159980087,False,False
+77.20_13.40,Karnataka,77.25,13.45,0.07219170657555986,False,False
+77.30_13.40,Karnataka,77.35,13.45,0.0,False,False
+77.40_13.40,Karnataka,77.45,13.45,0.0,False,False
+77.50_13.40,Karnataka,77.55,13.45,0.0,False,False
+77.60_13.40,Karnataka,77.64999999999999,13.45,0.0,False,False
+77.70_13.40,Karnataka,77.75,13.45,0.0,False,False
+77.80_13.40,Karnataka,77.85,13.45,0.0,False,False
+77.90_13.40,Karnataka,77.95,13.45,0.0,False,False
+78.00_13.40,Karnataka,78.05,13.45,0.0,False,False
+78.10_13.40,Karnataka,78.14999999999999,13.45,0.0,False,False
+78.20_13.40,Karnataka,78.25,13.45,0.0,False,False
+78.30_13.40,Karnataka,78.35,13.45,0.0,False,False
+80.00_13.40,Tamil Nadu,80.05,13.45,0.016294625410164416,False,False
+80.10_13.40,Tamil Nadu,80.14999999999999,13.45,0.06743658457527273,False,False
+80.20_13.40,Tamil Nadu,80.25,13.45,0.3780615484467662,False,True
+74.70_13.50,Karnataka,74.75,13.55,0.0,False,False
+74.80_13.50,Karnataka,74.85,13.55,0.0,False,False
+74.90_13.50,Karnataka,74.95,13.55,0.10890424011937318,False,False
+75.00_13.50,Karnataka,75.05,13.55,0.898776939861542,False,False
+75.10_13.50,Karnataka,75.14999999999999,13.55,0.09184421901827763,False,False
+75.20_13.50,Karnataka,75.25,13.55,0.0,False,False
+75.30_13.50,Karnataka,75.35,13.55,0.0,False,False
+75.40_13.50,Karnataka,75.45,13.55,0.0,False,False
+75.50_13.50,Karnataka,75.55,13.55,0.24296882348684798,True,True
+75.60_13.50,Karnataka,75.64999999999999,13.55,0.7516386459247976,False,False
+75.70_13.50,Karnataka,75.75,13.55,0.24683459124507387,True,False
+75.80_13.50,Karnataka,75.85,13.55,0.0,True,False
+75.90_13.50,Karnataka,75.95,13.55,0.0,False,False
+76.00_13.50,Karnataka,76.05,13.55,0.0,False,False
+76.10_13.50,Karnataka,76.14999999999999,13.55,0.0,False,False
+76.20_13.50,Karnataka,76.25,13.55,0.0,False,False
+76.30_13.50,Karnataka,76.35,13.55,0.0,False,False
+76.40_13.50,Karnataka,76.45,13.55,0.0,False,False
+76.50_13.50,Karnataka,76.55,13.55,0.0,False,False
+76.60_13.50,Karnataka,76.64999999999999,13.55,0.009827703422318165,False,False
+76.70_13.50,Karnataka,76.75,13.55,0.35596009787465976,False,False
+76.80_13.50,Karnataka,76.85,13.55,0.0,False,False
+76.90_13.50,Karnataka,76.95,13.55,0.0,False,False
+77.00_13.50,Karnataka,77.05,13.55,0.0,False,False
+77.10_13.50,Karnataka,77.14999999999999,13.55,0.0,False,False
+77.20_13.50,Karnataka,77.25,13.55,0.0,False,False
+77.30_13.50,Karnataka,77.35,13.55,0.0,False,False
+77.40_13.50,Karnataka,77.45,13.55,0.0,False,False
+77.50_13.50,Karnataka,77.55,13.55,0.0,False,False
+77.60_13.50,Karnataka,77.64999999999999,13.55,0.0,False,False
+77.70_13.50,Karnataka,77.75,13.55,0.0,False,False
+77.80_13.50,Karnataka,77.85,13.55,0.0,False,False
+77.90_13.50,Karnataka,77.95,13.55,0.0,False,False
+78.00_13.50,Karnataka,78.05,13.55,0.0,False,False
+78.10_13.50,Karnataka,78.14999999999999,13.55,0.0,False,False
+78.20_13.50,Karnataka,78.25,13.55,0.0,False,False
+78.30_13.50,Karnataka,78.35,13.55,0.0,False,False
+74.70_13.60,Karnataka,74.75,13.65,0.0,False,False
+74.80_13.60,Karnataka,74.85,13.65,0.011008478364690058,False,False
+74.90_13.60,Karnataka,74.95,13.65,0.4165968863624329,False,False
+75.00_13.60,Karnataka,75.05,13.65,0.4338554106247919,False,True
+75.10_13.60,Karnataka,75.14999999999999,13.65,0.0013110890522635868,False,False
+75.20_13.60,Karnataka,75.25,13.65,0.0,False,False
+75.30_13.60,Karnataka,75.35,13.65,0.0,False,False
+75.40_13.60,Karnataka,75.45,13.65,0.0,False,False
+75.50_13.60,Karnataka,75.55,13.65,0.10164952670438254,True,True
+75.60_13.60,Karnataka,75.64999999999999,13.65,0.7676746758963616,True,True
+75.70_13.60,Karnataka,75.75,13.65,0.18142588684814667,True,False
+75.80_13.60,Karnataka,75.85,13.65,0.0,False,False
+75.90_13.60,Karnataka,75.95,13.65,0.0,False,False
+76.00_13.60,Karnataka,76.05,13.65,0.0,False,False
+76.10_13.60,Karnataka,76.14999999999999,13.65,0.0,False,True
+76.20_13.60,Karnataka,76.25,13.65,0.0,False,False
+76.30_13.60,Karnataka,76.35,13.65,0.0,False,False
+76.40_13.60,Karnataka,76.45,13.65,0.0,False,False
+76.50_13.60,Karnataka,76.55,13.65,0.0,False,False
+76.60_13.60,Karnataka,76.64999999999999,13.65,0.1737062180088628,False,False
+76.70_13.60,Karnataka,76.75,13.65,0.2574257526580454,True,False
+76.80_13.60,Karnataka,76.85,13.65,0.0,False,False
+76.90_13.60,Karnataka,76.95,13.65,0.0,False,False
+77.00_13.60,Karnataka,77.05,13.65,0.0,False,False
+77.10_13.60,Karnataka,77.14999999999999,13.65,0.0,False,False
+77.20_13.60,Karnataka,77.25,13.65,0.0,False,False
+77.30_13.60,Karnataka,77.35,13.65,0.0,False,False
+77.40_13.60,Karnataka,77.45,13.65,0.0,False,False
+77.50_13.60,Karnataka,77.55,13.65,0.0,False,False
+77.60_13.60,Karnataka,77.64999999999999,13.65,0.0,False,False
+77.70_13.60,Karnataka,77.75,13.65,0.0,False,False
+77.80_13.60,Karnataka,77.85,13.65,0.0,False,False
+77.90_13.60,Karnataka,77.95,13.65,0.0,False,False
+78.00_13.60,Karnataka,78.05,13.65,0.0,False,False
+74.60_13.70,Karnataka,74.64999999999999,13.75,0.0,False,False
+74.70_13.70,Karnataka,74.75,13.75,0.37245370873884803,False,False
+74.80_13.70,Karnataka,74.85,13.75,0.9528637388746086,False,False
+74.90_13.70,Karnataka,74.95,13.75,0.748460828073829,False,False
+75.00_13.70,Karnataka,75.05,13.75,0.0468219093661669,False,True
+75.10_13.70,Karnataka,75.14999999999999,13.75,0.0,False,False
+75.20_13.70,Karnataka,75.25,13.75,0.0,False,False
+75.30_13.70,Karnataka,75.35,13.75,0.08730404206219503,False,False
+75.40_13.70,Karnataka,75.45,13.75,0.5703525392147111,True,True
+75.50_13.70,Karnataka,75.55,13.75,0.3965631133794192,True,True
+75.60_13.70,Karnataka,75.64999999999999,13.75,0.15452730812855522,True,False
+75.70_13.70,Karnataka,75.75,13.75,0.0,False,False
+75.80_13.70,Karnataka,75.85,13.75,0.0,False,False
+75.90_13.70,Karnataka,75.95,13.75,0.0,False,False
+76.00_13.70,Karnataka,76.05,13.75,0.0,False,False
+76.10_13.70,Karnataka,76.14999999999999,13.75,0.0,False,True
+76.20_13.70,Karnataka,76.25,13.75,0.0,False,False
+76.30_13.70,Karnataka,76.35,13.75,0.0,False,False
+76.40_13.70,Karnataka,76.45,13.75,0.0,False,False
+76.50_13.70,Karnataka,76.55,13.75,0.0,False,False
+76.60_13.70,Karnataka,76.64999999999999,13.75,0.2852979727194376,False,False
+76.70_13.70,Karnataka,76.75,13.75,0.15403147221130975,False,False
+76.80_13.70,Karnataka,76.85,13.75,0.0,False,False
+76.90_13.70,Karnataka,76.95,13.75,0.0,False,False
+77.00_13.70,Karnataka,77.05,13.75,0.0,False,False
+77.10_13.70,Karnataka,77.14999999999999,13.75,0.0,False,False
+77.20_13.70,Karnataka,77.25,13.75,0.0,False,False
+77.30_13.70,Karnataka,77.35,13.75,0.0,False,False
+77.40_13.70,Karnataka,77.45,13.75,0.0,False,False
+77.60_13.70,Karnataka,77.64999999999999,13.75,0.0,False,False
+77.70_13.70,Karnataka,77.75,13.75,0.0,False,False
+77.80_13.70,Karnataka,77.85,13.75,0.0,False,False
+77.90_13.70,Karnataka,77.95,13.75,0.0,False,False
+78.00_13.70,Karnataka,78.05,13.75,0.0,False,False
+74.60_13.80,Karnataka,74.64999999999999,13.85,0.013922292139277061,False,False
+74.70_13.80,Karnataka,74.75,13.85,0.6432527612244096,False,False
+74.80_13.80,Karnataka,74.85,13.85,0.9806123339650856,False,False
+74.90_13.80,Karnataka,74.95,13.85,0.4338251891694576,False,True
+75.00_13.80,Karnataka,75.05,13.85,0.0,False,False
+75.10_13.80,Karnataka,75.14999999999999,13.85,0.0,False,False
+75.20_13.80,Karnataka,75.25,13.85,0.0,True,False
+75.30_13.80,Karnataka,75.35,13.85,0.2639174858138966,False,False
+75.40_13.80,Karnataka,75.45,13.85,0.9746323274305693,True,False
+75.50_13.80,Karnataka,75.55,13.85,0.30855219948853563,True,False
+75.60_13.80,Karnataka,75.64999999999999,13.85,0.0,False,False
+75.70_13.80,Karnataka,75.75,13.85,0.0,False,False
+75.80_13.80,Karnataka,75.85,13.85,0.0,False,False
+75.90_13.80,Karnataka,75.95,13.85,0.0,False,False
+76.00_13.80,Karnataka,76.05,13.85,0.0,False,False
+76.10_13.80,Karnataka,76.14999999999999,13.85,0.0,False,False
+76.20_13.80,Karnataka,76.25,13.85,0.0,False,False
+76.30_13.80,Karnataka,76.35,13.85,0.0,False,False
+76.40_13.80,Karnataka,76.45,13.85,0.0,False,False
+76.50_13.80,Karnataka,76.55,13.85,0.0,False,False
+76.60_13.80,Karnataka,76.64999999999999,13.85,0.0033617939104318754,False,False
+76.70_13.80,Karnataka,76.75,13.85,0.0,False,True
+76.80_13.80,Karnataka,76.85,13.85,0.0,False,False
+76.90_13.80,Karnataka,76.95,13.85,0.0,False,False
+77.20_13.80,Karnataka,77.25,13.85,0.0,False,True
+77.80_13.80,Karnataka,77.85,13.85,0.0,False,False
+77.90_13.80,Karnataka,77.95,13.85,0.0,False,False
+78.00_13.80,Karnataka,78.05,13.85,0.0,False,False
+74.60_13.90,Karnataka,74.64999999999999,13.95,0.2618652085321021,False,False
+74.70_13.90,Karnataka,74.75,13.95,0.36633922606177827,False,False
+74.80_13.90,Karnataka,74.85,13.95,0.04465998649580653,False,True
+74.90_13.90,Karnataka,74.95,13.95,0.0,False,True
+75.00_13.90,Karnataka,75.05,13.95,0.0,False,False
+75.10_13.90,Karnataka,75.14999999999999,13.95,0.0,False,False
+75.20_13.90,Karnataka,75.25,13.95,0.0,False,False
+75.30_13.90,Karnataka,75.35,13.95,0.0090325195737813,True,False
+75.40_13.90,Karnataka,75.45,13.95,0.4688173380207682,True,False
+75.50_13.90,Karnataka,75.55,13.95,0.0,False,False
+75.60_13.90,Karnataka,75.64999999999999,13.95,0.0,False,False
+75.70_13.90,Karnataka,75.75,13.95,0.0,False,False
+75.80_13.90,Karnataka,75.85,13.95,0.0,False,False
+75.90_13.90,Karnataka,75.95,13.95,0.0,False,False
+76.00_13.90,Karnataka,76.05,13.95,0.0,False,False
+76.10_13.90,Karnataka,76.14999999999999,13.95,0.0,False,False
+76.20_13.90,Karnataka,76.25,13.95,0.0,False,False
+76.30_13.90,Karnataka,76.35,13.95,0.0,False,False
+76.40_13.90,Karnataka,76.45,13.95,0.0,True,False
+76.50_13.90,Karnataka,76.55,13.95,0.0,False,False
+76.60_13.90,Karnataka,76.64999999999999,13.95,0.0,False,False
+76.70_13.90,Karnataka,76.75,13.95,0.0,False,False
+76.80_13.90,Karnataka,76.85,13.95,0.0,False,False
+76.90_13.90,Karnataka,76.95,13.95,0.0,False,False
+74.50_14.00,Karnataka,74.55,14.05,0.0,False,False
+74.60_14.00,Karnataka,74.64999999999999,14.05,0.35746951190479836,False,False
+74.70_14.00,Karnataka,74.75,14.05,0.33259717582005954,False,True
+74.80_14.00,Karnataka,74.85,14.05,0.436608032827499,False,True
+74.90_14.00,Karnataka,74.95,14.05,0.33517592890740033,False,True
+75.00_14.00,Karnataka,75.05,14.05,0.0,True,False
+75.10_14.00,Karnataka,75.14999999999999,14.05,0.0,False,False
+75.20_14.00,Karnataka,75.25,14.05,0.0,False,False
+75.30_14.00,Karnataka,75.35,14.05,0.0,False,False
+75.40_14.00,Karnataka,75.45,14.05,0.0,False,False
+75.50_14.00,Karnataka,75.55,14.05,0.0,False,False
+75.60_14.00,Karnataka,75.64999999999999,14.05,0.0,False,False
+75.70_14.00,Karnataka,75.75,14.05,0.0,False,False
+75.80_14.00,Karnataka,75.85,14.05,0.0,False,False
+75.90_14.00,Karnataka,75.95,14.05,0.0,False,False
+76.00_14.00,Karnataka,76.05,14.05,0.0,False,False
+76.10_14.00,Karnataka,76.14999999999999,14.05,0.0,False,False
+76.20_14.00,Karnataka,76.25,14.05,0.0,True,False
+76.30_14.00,Karnataka,76.35,14.05,0.0,False,False
+76.40_14.00,Karnataka,76.45,14.05,0.0,False,False
+76.50_14.00,Karnataka,76.55,14.05,0.0,False,False
+76.60_14.00,Karnataka,76.64999999999999,14.05,0.0,False,False
+76.70_14.00,Karnataka,76.75,14.05,0.0,False,False
+76.80_14.00,Karnataka,76.85,14.05,0.0,False,True
+76.90_14.00,Karnataka,76.95,14.05,0.0,False,False
+77.10_14.00,Karnataka,77.14999999999999,14.05,0.0,False,False
+77.20_14.00,Karnataka,77.25,14.05,0.0,False,False
+77.30_14.00,Karnataka,77.35,14.05,0.0,False,False
+74.50_14.10,Karnataka,74.55,14.15,0.0,False,False
+74.60_14.10,Karnataka,74.64999999999999,14.15,0.43422418689142517,False,False
+74.70_14.10,Karnataka,74.75,14.15,0.6320573167887215,False,True
+74.80_14.10,Karnataka,74.85,14.15,0.7119813930719836,True,True
+74.90_14.10,Karnataka,74.95,14.15,0.2387908010428526,True,False
+75.00_14.10,Karnataka,75.05,14.15,0.0,False,False
+75.10_14.10,Karnataka,75.14999999999999,14.15,0.0,True,False
+75.20_14.10,Karnataka,75.25,14.15,0.0,True,False
+75.30_14.10,Karnataka,75.35,14.15,0.0,True,False
+75.40_14.10,Karnataka,75.45,14.15,0.0,False,False
+75.50_14.10,Karnataka,75.55,14.15,0.0,False,False
+75.60_14.10,Karnataka,75.64999999999999,14.15,0.0,False,False
+75.70_14.10,Karnataka,75.75,14.15,0.0,False,False
+75.80_14.10,Karnataka,75.85,14.15,0.0,False,False
+75.90_14.10,Karnataka,75.95,14.15,0.0,False,False
+76.00_14.10,Karnataka,76.05,14.15,0.0,False,False
+76.10_14.10,Karnataka,76.14999999999999,14.15,0.0,False,False
+76.20_14.10,Karnataka,76.25,14.15,0.0,False,False
+76.30_14.10,Karnataka,76.35,14.15,0.21216037637241605,True,False
+76.40_14.10,Karnataka,76.45,14.15,0.08715592558916958,False,False
+76.50_14.10,Karnataka,76.55,14.15,0.0,False,False
+76.60_14.10,Karnataka,76.64999999999999,14.15,0.0,False,False
+76.70_14.10,Karnataka,76.75,14.15,0.0,False,False
+76.80_14.10,Karnataka,76.85,14.15,0.0,False,False
+77.00_14.10,Karnataka,77.05,14.15,0.0,False,False
+77.10_14.10,Karnataka,77.14999999999999,14.15,0.0,False,False
+77.20_14.10,Karnataka,77.25,14.15,0.0,False,False
+77.30_14.10,Karnataka,77.35,14.15,0.0,False,False
+74.40_14.20,Karnataka,74.45,14.25,0.0,False,False
+74.50_14.20,Karnataka,74.55,14.25,0.0,False,False
+74.60_14.20,Karnataka,74.64999999999999,14.25,0.0,False,False
+74.70_14.20,Karnataka,74.75,14.25,0.0,False,False
+74.80_14.20,Karnataka,74.85,14.25,0.0,True,True
+74.90_14.20,Karnataka,74.95,14.25,0.0,True,True
+75.00_14.20,Karnataka,75.05,14.25,0.0,True,False
+75.10_14.20,Karnataka,75.14999999999999,14.25,0.0,True,False
+75.20_14.20,Karnataka,75.25,14.25,0.0,False,False
+75.30_14.20,Karnataka,75.35,14.25,0.0,False,False
+75.40_14.20,Karnataka,75.45,14.25,0.0,False,False
+75.50_14.20,Karnataka,75.55,14.25,0.0,False,False
+75.60_14.20,Karnataka,75.64999999999999,14.25,0.0,False,False
+75.70_14.20,Karnataka,75.75,14.25,0.0,False,False
+75.80_14.20,Karnataka,75.85,14.25,0.0,False,False
+75.90_14.20,Karnataka,75.95,14.25,0.0,False,False
+76.00_14.20,Karnataka,76.05,14.25,0.0,False,False
+76.10_14.20,Karnataka,76.14999999999999,14.25,0.0,False,False
+76.20_14.20,Karnataka,76.25,14.25,0.0,False,False
+76.30_14.20,Karnataka,76.35,14.25,0.012631976076973273,False,False
+76.40_14.20,Karnataka,76.45,14.25,0.0002649760213706319,False,False
+76.50_14.20,Karnataka,76.55,14.25,0.0,False,False
+76.60_14.20,Karnataka,76.64999999999999,14.25,0.0,False,False
+76.70_14.20,Karnataka,76.75,14.25,0.0,False,False
+76.80_14.20,Karnataka,76.85,14.25,0.0,False,False
+76.90_14.20,Karnataka,76.95,14.25,0.0,False,False
+77.10_14.20,Karnataka,77.14999999999999,14.25,0.0,False,False
+77.20_14.20,Karnataka,77.25,14.25,0.0,False,False
+77.30_14.20,Karnataka,77.35,14.25,0.0,False,False
+77.40_14.20,Karnataka,77.45,14.25,0.0,False,False
+74.40_14.30,Karnataka,74.45,14.35,0.0,True,False
+74.50_14.30,Karnataka,74.55,14.35,0.0,False,False
+74.60_14.30,Karnataka,74.64999999999999,14.35,0.0,False,False
+74.70_14.30,Karnataka,74.75,14.35,0.0,False,False
+74.80_14.30,Karnataka,74.85,14.35,0.0,False,False
+74.90_14.30,Karnataka,74.95,14.35,0.0,True,False
+75.00_14.30,Karnataka,75.05,14.35,0.0,True,False
+75.10_14.30,Karnataka,75.14999999999999,14.35,0.0,False,False
+75.20_14.30,Karnataka,75.25,14.35,0.0,False,True
+75.30_14.30,Karnataka,75.35,14.35,0.0,True,False
+75.40_14.30,Karnataka,75.45,14.35,0.0,False,False
+75.50_14.30,Karnataka,75.55,14.35,0.0,False,False
+75.60_14.30,Karnataka,75.64999999999999,14.35,0.0,True,False
+75.70_14.30,Karnataka,75.75,14.35,0.0,False,False
+75.80_14.30,Karnataka,75.85,14.35,0.0,True,False
+75.90_14.30,Karnataka,75.95,14.35,0.0,False,False
+76.00_14.30,Karnataka,76.05,14.35,0.0,False,False
+76.10_14.30,Karnataka,76.14999999999999,14.35,0.0,False,False
+76.20_14.30,Karnataka,76.25,14.35,0.0,False,False
+76.30_14.30,Karnataka,76.35,14.35,0.0,False,False
+76.40_14.30,Karnataka,76.45,14.35,0.0,False,False
+76.50_14.30,Karnataka,76.55,14.35,0.0,False,False
+76.60_14.30,Karnataka,76.64999999999999,14.35,0.0,False,False
+76.70_14.30,Karnataka,76.75,14.35,0.0,False,False
+76.80_14.30,Karnataka,76.85,14.35,0.0,False,False
+74.40_14.40,Karnataka,74.45,14.45,0.0,True,False
+74.50_14.40,Karnataka,74.55,14.45,0.0,False,False
+74.60_14.40,Karnataka,74.64999999999999,14.45,0.0,False,False
+74.70_14.40,Karnataka,74.75,14.45,0.0,False,False
+74.80_14.40,Karnataka,74.85,14.45,0.0,False,False
+74.90_14.40,Karnataka,74.95,14.45,0.0,False,False
+75.00_14.40,Karnataka,75.05,14.45,0.006793598831000524,True,False
+75.10_14.40,Karnataka,75.14999999999999,14.45,0.0,True,False
+75.20_14.40,Karnataka,75.25,14.45,0.0,True,True
+75.30_14.40,Karnataka,75.35,14.45,0.0,False,False
+75.40_14.40,Karnataka,75.45,14.45,0.0,False,False
+75.50_14.40,Karnataka,75.55,14.45,0.0,False,False
+75.60_14.40,Karnataka,75.64999999999999,14.45,0.0,False,False
+75.70_14.40,Karnataka,75.75,14.45,0.0,True,False
+75.80_14.40,Karnataka,75.85,14.45,0.0,False,False
+75.90_14.40,Karnataka,75.95,14.45,0.0,False,False
+76.00_14.40,Karnataka,76.05,14.45,0.0,False,False
+76.10_14.40,Karnataka,76.14999999999999,14.45,0.0,False,False
+76.20_14.40,Karnataka,76.25,14.45,0.0,False,True
+76.30_14.40,Karnataka,76.35,14.45,0.0,True,False
+76.40_14.40,Karnataka,76.45,14.45,0.0,False,False
+76.50_14.40,Karnataka,76.55,14.45,0.0,False,False
+76.60_14.40,Karnataka,76.64999999999999,14.45,0.0,False,False
+76.70_14.40,Karnataka,76.75,14.45,0.0,False,False
+76.80_14.40,Karnataka,76.85,14.45,0.0,False,False
+74.30_14.50,Karnataka,74.35,14.55,0.0,True,True
+74.40_14.50,Karnataka,74.45,14.55,0.0,False,False
+74.50_14.50,Karnataka,74.55,14.55,0.0,False,False
+74.60_14.50,Karnataka,74.64999999999999,14.55,0.0,True,False
+74.70_14.50,Karnataka,74.75,14.55,0.0,False,False
+74.80_14.50,Karnataka,74.85,14.55,0.0,False,False
+74.90_14.50,Karnataka,74.95,14.55,0.0,True,False
+75.00_14.50,Karnataka,75.05,14.55,0.0,True,False
+75.10_14.50,Karnataka,75.14999999999999,14.55,0.0,True,True
+75.20_14.50,Karnataka,75.25,14.55,0.0,True,True
+75.30_14.50,Karnataka,75.35,14.55,0.0,True,False
+75.40_14.50,Karnataka,75.45,14.55,0.0,False,False
+75.50_14.50,Karnataka,75.55,14.55,0.0,False,False
+75.60_14.50,Karnataka,75.64999999999999,14.55,0.0007804850532288867,False,False
+75.70_14.50,Karnataka,75.75,14.55,0.11768896822008616,False,False
+75.80_14.50,Karnataka,75.85,14.55,0.0,False,False
+75.90_14.50,Karnataka,75.95,14.55,0.0,True,True
+76.00_14.50,Karnataka,76.05,14.55,0.0,False,False
+76.10_14.50,Karnataka,76.14999999999999,14.55,0.0,False,False
+76.20_14.50,Karnataka,76.25,14.55,0.23764215596140234,False,False
+76.30_14.50,Karnataka,76.35,14.55,0.0,False,False
+76.40_14.50,Karnataka,76.45,14.55,0.0,False,False
+76.50_14.50,Karnataka,76.55,14.55,0.0,False,False
+76.60_14.50,Karnataka,76.64999999999999,14.55,0.0,False,False
+76.70_14.50,Karnataka,76.75,14.55,0.0,False,False
+74.30_14.60,Karnataka,74.35,14.65,0.0,False,False
+74.40_14.60,Karnataka,74.45,14.65,0.0,False,True
+74.50_14.60,Karnataka,74.55,14.65,0.0,False,False
+74.60_14.60,Karnataka,74.64999999999999,14.65,0.0,True,False
+74.70_14.60,Karnataka,74.75,14.65,0.0,False,False
+74.80_14.60,Karnataka,74.85,14.65,0.0,False,False
+74.90_14.60,Karnataka,74.95,14.65,0.0,False,False
+75.00_14.60,Karnataka,75.05,14.65,0.0,True,False
+75.10_14.60,Karnataka,75.14999999999999,14.65,0.0,True,True
+75.20_14.60,Karnataka,75.25,14.65,0.0,True,True
+75.30_14.60,Karnataka,75.35,14.65,0.0,True,False
+75.40_14.60,Karnataka,75.45,14.65,0.0,False,False
+75.50_14.60,Karnataka,75.55,14.65,0.0020186317297904805,False,False
+75.60_14.60,Karnataka,75.64999999999999,14.65,0.24878938769421077,False,False
+75.70_14.60,Karnataka,75.75,14.65,0.14128616576719227,True,False
+75.80_14.60,Karnataka,75.85,14.65,0.0,False,False
+75.90_14.60,Karnataka,75.95,14.65,0.0,False,False
+76.00_14.60,Karnataka,76.05,14.65,0.0,False,False
+76.10_14.60,Karnataka,76.14999999999999,14.65,0.12133644649249277,False,False
+76.20_14.60,Karnataka,76.25,14.65,0.2606136181375449,True,False
+76.30_14.60,Karnataka,76.35,14.65,0.0,False,False
+76.40_14.60,Karnataka,76.45,14.65,0.0,False,False
+76.50_14.60,Karnataka,76.55,14.65,0.0,False,False
+76.60_14.60,Karnataka,76.64999999999999,14.65,0.0,False,False
+76.70_14.60,Karnataka,76.75,14.65,0.0,False,False
+74.20_14.70,Karnataka,74.25,14.75,0.0,False,True
+74.30_14.70,Karnataka,74.35,14.75,0.0,False,False
+74.40_14.70,Karnataka,74.45,14.75,0.0,False,False
+74.50_14.70,Karnataka,74.55,14.75,0.0,True,False
+74.60_14.70,Karnataka,74.64999999999999,14.75,0.0,False,False
+74.70_14.70,Karnataka,74.75,14.75,0.0,False,False
+74.80_14.70,Karnataka,74.85,14.75,0.0,False,False
+74.90_14.70,Karnataka,74.95,14.75,0.0,True,True
+75.00_14.70,Karnataka,75.05,14.75,0.0,True,True
+75.10_14.70,Karnataka,75.14999999999999,14.75,0.0,False,True
+75.20_14.70,Karnataka,75.25,14.75,0.0,True,False
+75.30_14.70,Karnataka,75.35,14.75,0.0,False,True
+75.40_14.70,Karnataka,75.45,14.75,4.091797255131772e-05,False,False
+75.50_14.70,Karnataka,75.55,14.75,0.292516678406785,False,False
+75.60_14.70,Karnataka,75.64999999999999,14.75,0.03181470184288349,False,False
+75.70_14.70,Karnataka,75.75,14.75,0.01081798911073319,True,True
+75.80_14.70,Karnataka,75.85,14.75,0.0,False,False
+75.90_14.70,Karnataka,75.95,14.75,0.0,False,False
+76.00_14.70,Karnataka,76.05,14.75,0.0,False,False
+76.10_14.70,Karnataka,76.14999999999999,14.75,0.0,False,True
+76.20_14.70,Karnataka,76.25,14.75,0.0,False,True
+76.30_14.70,Karnataka,76.35,14.75,0.0,True,False
+76.40_14.70,Karnataka,76.45,14.75,0.0,False,False
+76.50_14.70,Karnataka,76.55,14.75,0.0,False,False
+76.60_14.70,Karnataka,76.64999999999999,14.75,0.02002728400131777,False,False
+76.70_14.70,Karnataka,76.75,14.75,0.0,False,False
+74.10_14.80,Karnataka,74.14999999999999,14.85,0.0,False,False
+74.20_14.80,Karnataka,74.25,14.85,0.0,True,True
+74.30_14.80,Karnataka,74.35,14.85,0.030228126959649472,False,False
+74.40_14.80,Karnataka,74.45,14.85,0.10476367920231301,True,True
+74.50_14.80,Karnataka,74.55,14.85,0.0,True,True
+74.60_14.80,Karnataka,74.64999999999999,14.85,0.0,True,False
+74.70_14.80,Karnataka,74.75,14.85,0.0,True,False
+74.80_14.80,Karnataka,74.85,14.85,0.0,False,False
+74.90_14.80,Karnataka,74.95,14.85,0.0,True,False
+75.00_14.80,Karnataka,75.05,14.85,0.0,True,True
+75.10_14.80,Karnataka,75.14999999999999,14.85,0.0,True,True
+75.20_14.80,Karnataka,75.25,14.85,0.0,False,False
+75.30_14.80,Karnataka,75.35,14.85,0.0,False,False
+75.40_14.80,Karnataka,75.45,14.85,0.0,False,True
+75.50_14.80,Karnataka,75.55,14.85,0.0,False,False
+75.60_14.80,Karnataka,75.64999999999999,14.85,0.0,False,False
+75.70_14.80,Karnataka,75.75,14.85,0.0,False,False
+75.80_14.80,Karnataka,75.85,14.85,0.0,False,False
+75.90_14.80,Karnataka,75.95,14.85,0.0,False,False
+76.00_14.80,Karnataka,76.05,14.85,0.0,False,False
+76.10_14.80,Karnataka,76.14999999999999,14.85,0.0,False,True
+76.20_14.80,Karnataka,76.25,14.85,0.0,False,False
+76.30_14.80,Karnataka,76.35,14.85,0.0,False,False
+76.40_14.80,Karnataka,76.45,14.85,0.0,False,False
+76.50_14.80,Karnataka,76.55,14.85,0.020054558322777166,False,False
+76.60_14.80,Karnataka,76.64999999999999,14.85,0.48557958035811716,False,False
+76.70_14.80,Karnataka,76.75,14.85,0.0030828819100635232,False,False
+76.80_14.80,Karnataka,76.85,14.85,0.0,False,False
+74.00_14.90,Goa,74.05,14.95,0.0,False,False
+74.10_14.90,Goa,74.14999999999999,14.95,0.2743099516117262,True,True
+74.20_14.90,Karnataka,74.25,14.95,0.49006972303291957,True,False
+74.30_14.90,Karnataka,74.35,14.95,0.8328634677119203,False,False
+74.40_14.90,Karnataka,74.45,14.95,0.978022763860865,True,True
+74.50_14.90,Karnataka,74.55,14.95,0.42729823903979425,True,True
+74.60_14.90,Karnataka,74.64999999999999,14.95,0.0,False,False
+74.70_14.90,Karnataka,74.75,14.95,0.0,True,True
+74.80_14.90,Karnataka,74.85,14.95,0.0,True,False
+74.90_14.90,Karnataka,74.95,14.95,0.0,True,False
+75.00_14.90,Karnataka,75.05,14.95,0.0,True,True
+75.10_14.90,Karnataka,75.14999999999999,14.95,0.0,True,True
+75.20_14.90,Karnataka,75.25,14.95,0.0,False,False
+75.30_14.90,Karnataka,75.35,14.95,0.0,False,False
+75.40_14.90,Karnataka,75.45,14.95,0.0,False,False
+75.50_14.90,Karnataka,75.55,14.95,0.0,False,True
+75.60_14.90,Karnataka,75.64999999999999,14.95,0.0,False,False
+75.70_14.90,Karnataka,75.75,14.95,0.0,False,False
+75.80_14.90,Karnataka,75.85,14.95,0.0,False,True
+75.90_14.90,Karnataka,75.95,14.95,0.0,False,False
+76.00_14.90,Karnataka,76.05,14.95,0.0,False,True
+76.10_14.90,Karnataka,76.14999999999999,14.95,0.0,True,True
+76.20_14.90,Karnataka,76.25,14.95,0.0,False,False
+76.30_14.90,Karnataka,76.35,14.95,0.0,False,False
+76.40_14.90,Karnataka,76.45,14.95,0.0,True,False
+76.50_14.90,Karnataka,76.55,14.95,0.0,True,False
+76.60_14.90,Karnataka,76.64999999999999,14.95,0.004136084363739672,False,False
+76.70_14.90,Karnataka,76.75,14.95,0.0,False,False
+74.00_15.00,Goa,74.05,15.05,0.0,False,False
+74.10_15.00,Goa,74.14999999999999,15.05,0.1896215965035627,True,False
+74.20_15.00,Goa,74.25,15.05,0.9155047799536851,False,False
+74.30_15.00,Karnataka,74.35,15.05,1.0,True,False
+74.40_15.00,Karnataka,74.45,15.05,1.0,False,True
+74.50_15.00,Karnataka,74.55,15.05,0.9410109505786656,True,True
+74.60_15.00,Karnataka,74.64999999999999,15.05,0.16598759916069805,True,True
+74.70_15.00,Karnataka,74.75,15.05,0.03595533938700905,True,False
+74.80_15.00,Karnataka,74.85,15.05,0.0,True,False
+74.90_15.00,Karnataka,74.95,15.05,0.0,True,True
+75.00_15.00,Karnataka,75.05,15.05,0.012131159449997677,True,True
+75.10_15.00,Karnataka,75.14999999999999,15.05,0.0,True,True
+75.20_15.00,Karnataka,75.25,15.05,0.0,False,False
+75.30_15.00,Karnataka,75.35,15.05,0.0,False,False
+75.40_15.00,Karnataka,75.45,15.05,0.0,False,True
+75.50_15.00,Karnataka,75.55,15.05,0.0,False,False
+75.60_15.00,Karnataka,75.64999999999999,15.05,0.0,False,False
+75.70_15.00,Karnataka,75.75,15.05,0.023990232875692675,False,False
+75.80_15.00,Karnataka,75.85,15.05,0.23340119397428352,True,True
+75.90_15.00,Karnataka,75.95,15.05,0.0,False,False
+76.00_15.00,Karnataka,76.05,15.05,0.0,False,True
+76.10_15.00,Karnataka,76.14999999999999,15.05,0.0,True,True
+76.20_15.00,Karnataka,76.25,15.05,0.0,True,True
+76.30_15.00,Karnataka,76.35,15.05,0.0,False,False
+76.40_15.00,Karnataka,76.45,15.05,0.0,False,False
+76.50_15.00,Karnataka,76.55,15.05,0.0,False,False
+76.60_15.00,Karnataka,76.64999999999999,15.05,0.0,False,False
+76.70_15.00,Karnataka,76.75,15.05,0.0,False,False
+76.90_15.00,Karnataka,76.95,15.05,0.0,False,False
+77.00_15.00,Karnataka,77.05,15.05,0.0,False,False
+73.90_15.10,Goa,73.95,15.15,0.0,True,False
+74.00_15.10,Goa,74.05,15.15,0.0,False,False
+74.10_15.10,Goa,74.14999999999999,15.15,0.01889600881359468,True,False
+74.20_15.10,Goa,74.25,15.15,0.7727650348512071,True,False
+74.30_15.10,Karnataka,74.35,15.15,0.9771723344780399,True,False
+74.40_15.10,Karnataka,74.45,15.15,0.24633696588906312,True,True
+74.50_15.10,Karnataka,74.55,15.15,0.5049742363979345,True,True
+74.60_15.10,Karnataka,74.64999999999999,15.15,0.6085420744187859,True,True
+74.70_15.10,Karnataka,74.75,15.15,0.14360104343682084,True,True
+74.80_15.10,Karnataka,74.85,15.15,0.0,True,False
+74.90_15.10,Karnataka,74.95,15.15,0.0,True,False
+75.00_15.10,Karnataka,75.05,15.15,0.0,True,True
+75.10_15.10,Karnataka,75.14999999999999,15.15,0.0,False,True
+75.20_15.10,Karnataka,75.25,15.15,0.0,False,True
+75.30_15.10,Karnataka,75.35,15.15,0.0,False,True
+75.40_15.10,Karnataka,75.45,15.15,0.0,False,True
+75.50_15.10,Karnataka,75.55,15.15,0.0,False,True
+75.60_15.10,Karnataka,75.64999999999999,15.15,0.0004217929040283176,False,False
+75.70_15.10,Karnataka,75.75,15.15,0.31941156438299234,False,False
+75.80_15.10,Karnataka,75.85,15.15,0.16289237621004585,True,False
+75.90_15.10,Karnataka,75.95,15.15,0.0,False,True
+76.00_15.10,Karnataka,76.05,15.15,0.0,False,True
+76.10_15.10,Karnataka,76.14999999999999,15.15,0.0,True,True
+76.20_15.10,Karnataka,76.25,15.15,0.0,True,True
+76.30_15.10,Karnataka,76.35,15.15,0.0,True,True
+76.40_15.10,Karnataka,76.45,15.15,0.0,False,False
+76.50_15.10,Karnataka,76.55,15.15,0.0,False,False
+76.60_15.10,Karnataka,76.64999999999999,15.15,0.0,False,False
+76.70_15.10,Karnataka,76.75,15.15,0.0,False,False
+76.80_15.10,Karnataka,76.85,15.15,0.0,False,False
+76.90_15.10,Karnataka,76.95,15.15,0.0,False,False
+77.00_15.10,Karnataka,77.05,15.15,0.0,False,False
+77.10_15.10,Karnataka,77.14999999999999,15.15,0.0,False,False
+73.90_15.20,Goa,73.95,15.25,0.0,False,False
+74.00_15.20,Goa,74.05,15.25,0.0,True,False
+74.10_15.20,Goa,74.14999999999999,15.25,0.0596971732469411,True,False
+74.20_15.20,Goa,74.25,15.25,0.8507418720037017,True,False
+74.30_15.20,Karnataka,74.35,15.25,0.988566443830474,True,True
+74.40_15.20,Karnataka,74.45,15.25,0.2072440039294506,True,True
+74.50_15.20,Karnataka,74.55,15.25,0.0,True,False
+74.60_15.20,Karnataka,74.64999999999999,15.25,0.0,True,True
+74.70_15.20,Karnataka,74.75,15.25,0.0,True,True
+74.80_15.20,Karnataka,74.85,15.25,0.0,False,True
+74.90_15.20,Karnataka,74.95,15.25,0.0,True,True
+75.00_15.20,Karnataka,75.05,15.25,0.0,True,False
+75.10_15.20,Karnataka,75.14999999999999,15.25,0.0,False,False
+75.20_15.20,Karnataka,75.25,15.25,0.0,False,True
+75.30_15.20,Karnataka,75.35,15.25,0.0,False,True
+75.40_15.20,Karnataka,75.45,15.25,0.0,False,True
+75.50_15.20,Karnataka,75.55,15.25,0.0,False,False
+75.60_15.20,Karnataka,75.64999999999999,15.25,0.23083269824239372,False,False
+75.70_15.20,Karnataka,75.75,15.25,0.41902894985903427,False,False
+75.80_15.20,Karnataka,75.85,15.25,0.0,False,False
+75.90_15.20,Karnataka,75.95,15.25,0.0,False,False
+76.00_15.20,Karnataka,76.05,15.25,0.0,False,False
+76.10_15.20,Karnataka,76.14999999999999,15.25,0.0,True,True
+76.20_15.20,Karnataka,76.25,15.25,0.0,False,True
+76.30_15.20,Karnataka,76.35,15.25,0.0,False,False
+76.40_15.20,Karnataka,76.45,15.25,0.0,False,False
+76.50_15.20,Karnataka,76.55,15.25,0.0,False,False
+76.60_15.20,Karnataka,76.64999999999999,15.25,0.0,False,False
+76.70_15.20,Karnataka,76.75,15.25,0.0,False,False
+76.80_15.20,Karnataka,76.85,15.25,0.0,False,False
+76.90_15.20,Karnataka,76.95,15.25,0.0,False,False
+77.00_15.20,Karnataka,77.05,15.25,0.0,False,False
+73.90_15.30,Goa,73.95,15.35,0.0,True,False
+74.00_15.30,Goa,74.05,15.35,0.0,True,False
+74.10_15.30,Goa,74.14999999999999,15.35,0.11052364339665702,False,False
+74.20_15.30,Goa,74.25,15.35,0.719490013816759,True,False
+74.30_15.30,Karnataka,74.35,15.35,0.8094728078105305,True,True
+74.40_15.30,Karnataka,74.45,15.35,0.039724284724952194,True,True
+74.50_15.30,Karnataka,74.55,15.35,0.0,True,False
+74.60_15.30,Karnataka,74.64999999999999,15.35,0.0,True,True
+74.70_15.30,Karnataka,74.75,15.35,0.0,True,True
+74.80_15.30,Karnataka,74.85,15.35,0.0,True,False
+74.90_15.30,Karnataka,74.95,15.35,0.0,True,True
+75.00_15.30,Karnataka,75.05,15.35,0.0,False,False
+75.10_15.30,Karnataka,75.14999999999999,15.35,0.0,False,False
+75.20_15.30,Karnataka,75.25,15.35,0.0,False,True
+75.30_15.30,Karnataka,75.35,15.35,0.0,False,True
+75.40_15.30,Karnataka,75.45,15.35,0.0,False,False
+75.50_15.30,Karnataka,75.55,15.35,0.0,False,False
+75.60_15.30,Karnataka,75.64999999999999,15.35,0.0,False,False
+75.70_15.30,Karnataka,75.75,15.35,0.0,False,False
+75.80_15.30,Karnataka,75.85,15.35,0.0,False,False
+75.90_15.30,Karnataka,75.95,15.35,0.0,False,True
+76.00_15.30,Karnataka,76.05,15.35,0.0,False,False
+76.10_15.30,Karnataka,76.14999999999999,15.35,0.0,False,False
+76.20_15.30,Karnataka,76.25,15.35,0.0,False,False
+76.30_15.30,Karnataka,76.35,15.35,0.0,False,True
+76.40_15.30,Karnataka,76.45,15.35,0.0,False,False
+76.50_15.30,Karnataka,76.55,15.35,0.0,False,False
+76.60_15.30,Karnataka,76.64999999999999,15.35,0.0,False,False
+76.70_15.30,Karnataka,76.75,15.35,0.0,False,False
+76.80_15.30,Karnataka,76.85,15.35,0.0,False,False
+76.90_15.30,Karnataka,76.95,15.35,0.0,False,False
+77.00_15.30,Karnataka,77.05,15.35,0.0,False,False
+73.80_15.40,Goa,73.85,15.45,0.0,True,True
+73.90_15.40,Goa,73.95,15.45,0.0,True,True
+74.00_15.40,Goa,74.05,15.45,0.010369595310526865,True,False
+74.10_15.40,Goa,74.14999999999999,15.45,0.16214939619125845,True,False
+74.20_15.40,Goa,74.25,15.45,0.9513801496106234,True,False
+74.30_15.40,Karnataka,74.35,15.45,0.656443389194507,True,False
+74.40_15.40,Karnataka,74.45,15.45,0.001257550598986538,False,True
+74.50_15.40,Karnataka,74.55,15.45,0.0,True,False
+74.60_15.40,Karnataka,74.64999999999999,15.45,0.0,True,True
+74.70_15.40,Karnataka,74.75,15.45,0.0,False,True
+74.80_15.40,Karnataka,74.85,15.45,0.0,True,False
+74.90_15.40,Karnataka,74.95,15.45,0.0,False,False
+75.00_15.40,Karnataka,75.05,15.45,0.0,False,False
+75.10_15.40,Karnataka,75.14999999999999,15.45,0.0,False,True
+75.20_15.40,Karnataka,75.25,15.45,0.0,False,True
+75.30_15.40,Karnataka,75.35,15.45,0.0,False,False
+75.40_15.40,Karnataka,75.45,15.45,0.0,False,False
+75.50_15.40,Karnataka,75.55,15.45,0.0,False,False
+75.60_15.40,Karnataka,75.64999999999999,15.45,0.0,False,False
+75.70_15.40,Karnataka,75.75,15.45,0.0,False,False
+75.80_15.40,Karnataka,75.85,15.45,0.0,False,False
+75.90_15.40,Karnataka,75.95,15.45,0.0,False,True
+76.00_15.40,Karnataka,76.05,15.45,0.0,False,False
+76.10_15.40,Karnataka,76.14999999999999,15.45,0.0,True,True
+76.20_15.40,Karnataka,76.25,15.45,0.0,False,False
+76.30_15.40,Karnataka,76.35,15.45,0.0,False,False
+76.40_15.40,Karnataka,76.45,15.45,0.0,False,False
+76.50_15.40,Karnataka,76.55,15.45,0.0,False,False
+76.60_15.40,Karnataka,76.64999999999999,15.45,0.0,False,False
+76.70_15.40,Karnataka,76.75,15.45,0.0,False,True
+76.80_15.40,Karnataka,76.85,15.45,0.0,False,False
+76.90_15.40,Karnataka,76.95,15.45,0.0,False,False
+73.80_15.50,Goa,73.85,15.55,0.01652811538899957,True,True
+73.90_15.50,Goa,73.95,15.55,0.0,True,True
+74.00_15.50,Goa,74.05,15.55,0.03269766662921239,True,False
+74.10_15.50,Goa,74.14999999999999,15.55,0.25250106323563715,False,False
+74.20_15.50,Goa,74.25,15.55,0.9794308160791426,True,False
+74.30_15.50,Karnataka,74.35,15.55,0.9503863091760506,True,False
+74.40_15.50,Karnataka,74.45,15.55,0.1279390685428645,True,True
+74.50_15.50,Karnataka,74.55,15.55,0.0,True,True
+74.60_15.50,Karnataka,74.64999999999999,15.55,0.0,False,False
+74.70_15.50,Karnataka,74.75,15.55,0.0,True,False
+74.80_15.50,Karnataka,74.85,15.55,0.0,True,False
+74.90_15.50,Karnataka,74.95,15.55,0.0,False,False
+75.00_15.50,Karnataka,75.05,15.55,0.0,False,True
+75.10_15.50,Karnataka,75.14999999999999,15.55,0.0,False,True
+75.20_15.50,Karnataka,75.25,15.55,0.0,False,False
+75.30_15.50,Karnataka,75.35,15.55,0.0,False,True
+75.40_15.50,Karnataka,75.45,15.55,0.0,False,True
+75.50_15.50,Karnataka,75.55,15.55,0.0,False,True
+75.60_15.50,Karnataka,75.64999999999999,15.55,0.0,False,True
+75.70_15.50,Karnataka,75.75,15.55,0.0,False,True
+75.80_15.50,Karnataka,75.85,15.55,0.0,False,True
+75.90_15.50,Karnataka,75.95,15.55,0.0,False,True
+76.00_15.50,Karnataka,76.05,15.55,0.0,False,False
+76.10_15.50,Karnataka,76.14999999999999,15.55,0.0,False,False
+76.20_15.50,Karnataka,76.25,15.55,0.0,False,False
+76.30_15.50,Karnataka,76.35,15.55,0.0,False,False
+76.40_15.50,Karnataka,76.45,15.55,0.0,False,False
+76.50_15.50,Karnataka,76.55,15.55,0.0,False,False
+76.60_15.50,Karnataka,76.64999999999999,15.55,0.0,False,False
+76.70_15.50,Karnataka,76.75,15.55,0.0,False,False
+76.80_15.50,Karnataka,76.85,15.55,0.0,False,False
+76.90_15.50,Karnataka,76.95,15.55,0.0,False,False
+73.70_15.60,Goa,73.75,15.65,0.0,True,True
+73.80_15.60,Goa,73.85,15.65,0.0,True,False
+73.90_15.60,Goa,73.95,15.65,0.0,False,False
+74.10_15.60,Goa,74.14999999999999,15.65,0.40137241002569357,False,False
+74.20_15.60,Karnataka,74.25,15.65,0.5616052594287371,False,False
+74.30_15.60,Karnataka,74.35,15.65,0.1871576366486171,True,False
+74.40_15.60,Karnataka,74.45,15.65,0.0,False,False
+74.50_15.60,Karnataka,74.55,15.65,0.0,False,False
+74.60_15.60,Karnataka,74.64999999999999,15.65,0.0,True,True
+74.70_15.60,Karnataka,74.75,15.65,0.0,False,False
+74.80_15.60,Karnataka,74.85,15.65,0.0,False,True
+74.90_15.60,Karnataka,74.95,15.65,0.0,False,True
+75.00_15.60,Karnataka,75.05,15.65,0.0,False,False
+75.10_15.60,Karnataka,75.14999999999999,15.65,0.0,False,True
+75.20_15.60,Karnataka,75.25,15.65,0.0,False,False
+75.30_15.60,Karnataka,75.35,15.65,0.0,False,False
+75.40_15.60,Karnataka,75.45,15.65,0.0,False,False
+75.50_15.60,Karnataka,75.55,15.65,0.0,False,True
+75.60_15.60,Karnataka,75.64999999999999,15.65,0.0,False,False
+75.70_15.60,Karnataka,75.75,15.65,0.0,False,True
+75.80_15.60,Karnataka,75.85,15.65,0.0,False,True
+75.90_15.60,Karnataka,75.95,15.65,0.0,False,True
+76.00_15.60,Karnataka,76.05,15.65,0.0,False,True
+76.10_15.60,Karnataka,76.14999999999999,15.65,0.0,False,False
+76.20_15.60,Karnataka,76.25,15.65,0.0,False,True
+76.30_15.60,Karnataka,76.35,15.65,0.0,False,False
+76.40_15.60,Karnataka,76.45,15.65,0.0,False,False
+76.50_15.60,Karnataka,76.55,15.65,0.0,False,False
+76.60_15.60,Karnataka,76.64999999999999,15.65,0.0,False,False
+76.70_15.60,Karnataka,76.75,15.65,0.0,False,False
+76.80_15.60,Karnataka,76.85,15.65,0.0,False,False
+76.90_15.60,Karnataka,76.95,15.65,0.0,False,False
+77.00_15.60,Karnataka,77.05,15.65,0.0,False,True
+73.80_15.70,Goa,73.85,15.75,0.0,True,False
+74.20_15.70,Karnataka,74.25,15.75,0.0,True,False
+74.30_15.70,Karnataka,74.35,15.75,0.0,True,False
+74.40_15.70,Karnataka,74.45,15.75,0.0,False,False
+74.50_15.70,Karnataka,74.55,15.75,0.0,True,True
+74.60_15.70,Karnataka,74.64999999999999,15.75,0.0,False,False
+74.70_15.70,Karnataka,74.75,15.75,0.0,True,True
+74.80_15.70,Karnataka,74.85,15.75,0.0,True,True
+74.90_15.70,Karnataka,74.95,15.75,0.0,True,True
+75.00_15.70,Karnataka,75.05,15.75,0.0,True,True
+75.10_15.70,Karnataka,75.14999999999999,15.75,0.0,False,True
+75.20_15.70,Karnataka,75.25,15.75,0.0,False,False
+75.30_15.70,Karnataka,75.35,15.75,0.0,False,False
+75.40_15.70,Karnataka,75.45,15.75,0.0,False,False
+75.50_15.70,Karnataka,75.55,15.75,0.0,False,False
+75.60_15.70,Karnataka,75.64999999999999,15.75,0.0,False,False
+75.70_15.70,Karnataka,75.75,15.75,0.0,False,True
+75.80_15.70,Karnataka,75.85,15.75,0.0,False,False
+75.90_15.70,Karnataka,75.95,15.75,0.0,False,False
+76.00_15.70,Karnataka,76.05,15.75,0.0,False,True
+76.10_15.70,Karnataka,76.14999999999999,15.75,0.0,False,False
+76.20_15.70,Karnataka,76.25,15.75,0.0,False,False
+76.30_15.70,Karnataka,76.35,15.75,0.0,False,False
+76.40_15.70,Karnataka,76.45,15.75,0.0,False,False
+76.50_15.70,Karnataka,76.55,15.75,0.0,False,False
+76.60_15.70,Karnataka,76.64999999999999,15.75,0.0,False,False
+76.70_15.70,Karnataka,76.75,15.75,0.0,False,False
+76.80_15.70,Karnataka,76.85,15.75,0.0,False,False
+76.90_15.70,Karnataka,76.95,15.75,0.0,False,True
+77.00_15.70,Karnataka,77.05,15.75,0.0,False,True
+74.40_15.80,Karnataka,74.45,15.85,0.0,False,False
+74.50_15.80,Karnataka,74.55,15.85,0.0,False,False
+74.60_15.80,Karnataka,74.64999999999999,15.85,0.0,False,False
+74.70_15.80,Karnataka,74.75,15.85,0.0,True,False
+74.80_15.80,Karnataka,74.85,15.85,0.0,False,True
+74.90_15.80,Karnataka,74.95,15.85,0.0,True,False
+75.00_15.80,Karnataka,75.05,15.85,0.0,True,False
+75.10_15.80,Karnataka,75.14999999999999,15.85,0.0,False,False
+75.20_15.80,Karnataka,75.25,15.85,0.0,False,False
+75.30_15.80,Karnataka,75.35,15.85,0.0,False,False
+75.40_15.80,Karnataka,75.45,15.85,0.0,False,False
+75.50_15.80,Karnataka,75.55,15.85,0.0,False,False
+75.60_15.80,Karnataka,75.64999999999999,15.85,0.0,False,False
+75.70_15.80,Karnataka,75.75,15.85,0.0,False,False
+75.80_15.80,Karnataka,75.85,15.85,0.0,False,False
+75.90_15.80,Karnataka,75.95,15.85,0.0,False,False
+76.00_15.80,Karnataka,76.05,15.85,0.0,False,False
+76.10_15.80,Karnataka,76.14999999999999,15.85,0.0,False,False
+76.20_15.80,Karnataka,76.25,15.85,0.0,False,False
+76.30_15.80,Karnataka,76.35,15.85,0.0,False,False
+76.40_15.80,Karnataka,76.45,15.85,0.0,False,False
+76.50_15.80,Karnataka,76.55,15.85,0.0,False,False
+76.60_15.80,Karnataka,76.64999999999999,15.85,0.0,False,False
+76.70_15.80,Karnataka,76.75,15.85,0.0,False,False
+76.80_15.80,Karnataka,76.85,15.85,0.0,False,False
+76.90_15.80,Karnataka,76.95,15.85,0.0,False,False
+74.40_15.90,Karnataka,74.45,15.95,0.0,True,False
+74.50_15.90,Karnataka,74.55,15.95,0.0,False,False
+74.60_15.90,Karnataka,74.64999999999999,15.95,0.0,True,False
+74.70_15.90,Karnataka,74.75,15.95,0.0,False,False
+74.80_15.90,Karnataka,74.85,15.95,0.0,False,False
+74.90_15.90,Karnataka,74.95,15.95,0.0,False,False
+75.00_15.90,Karnataka,75.05,15.95,0.0,False,False
+75.10_15.90,Karnataka,75.14999999999999,15.95,0.0,False,False
+75.20_15.90,Karnataka,75.25,15.95,0.0,False,False
+75.30_15.90,Karnataka,75.35,15.95,0.0,False,False
+75.40_15.90,Karnataka,75.45,15.95,0.0,False,False
+75.50_15.90,Karnataka,75.55,15.95,0.0,False,False
+75.60_15.90,Karnataka,75.64999999999999,15.95,0.0,False,False
+75.70_15.90,Karnataka,75.75,15.95,0.0,False,False
+75.80_15.90,Karnataka,75.85,15.95,0.0,False,False
+75.90_15.90,Karnataka,75.95,15.95,0.0,False,False
+76.00_15.90,Karnataka,76.05,15.95,0.0,False,False
+76.10_15.90,Karnataka,76.14999999999999,15.95,0.0,False,False
+76.20_15.90,Karnataka,76.25,15.95,0.0,False,False
+76.30_15.90,Karnataka,76.35,15.95,0.0,False,False
+76.40_15.90,Karnataka,76.45,15.95,0.0,False,False
+76.50_15.90,Karnataka,76.55,15.95,0.0,False,False
+76.60_15.90,Karnataka,76.64999999999999,15.95,0.0,False,False
+76.70_15.90,Karnataka,76.75,15.95,0.0,False,False
+76.80_15.90,Karnataka,76.85,15.95,0.0,False,False
+76.90_15.90,Karnataka,76.95,15.95,0.0,False,False
+77.00_15.90,Karnataka,77.05,15.95,0.0,True,True
+77.10_15.90,Karnataka,77.14999999999999,15.95,0.0,False,True
+77.30_15.90,Karnataka,77.35,15.95,0.0,False,True
+77.40_15.90,Karnataka,77.45,15.95,0.0,False,False
+74.40_16.00,Karnataka,74.45,16.05,0.0,False,False
+74.50_16.00,Karnataka,74.55,16.05,0.0,False,False
+74.60_16.00,Karnataka,74.64999999999999,16.05,0.0,False,False
+74.70_16.00,Karnataka,74.75,16.05,0.0,False,False
+74.80_16.00,Karnataka,74.85,16.05,0.0,False,False
+74.90_16.00,Karnataka,74.95,16.05,0.0,False,False
+75.00_16.00,Karnataka,75.05,16.05,0.0,False,False
+75.10_16.00,Karnataka,75.14999999999999,16.05,0.0,False,False
+75.20_16.00,Karnataka,75.25,16.05,0.0,False,False
+75.30_16.00,Karnataka,75.35,16.05,0.0,False,False
+75.40_16.00,Karnataka,75.45,16.05,0.0,False,False
+75.50_16.00,Karnataka,75.55,16.05,0.0,False,False
+75.60_16.00,Karnataka,75.64999999999999,16.05,0.0,False,False
+75.70_16.00,Karnataka,75.75,16.05,0.0,False,False
+75.80_16.00,Karnataka,75.85,16.05,0.0,False,False
+75.90_16.00,Karnataka,75.95,16.05,0.0,False,False
+76.00_16.00,Karnataka,76.05,16.05,0.0,False,False
+76.10_16.00,Karnataka,76.14999999999999,16.05,0.0,False,True
+76.20_16.00,Karnataka,76.25,16.05,0.0,False,False
+76.30_16.00,Karnataka,76.35,16.05,0.0,False,False
+76.40_16.00,Karnataka,76.45,16.05,0.0,False,False
+76.50_16.00,Karnataka,76.55,16.05,0.0,False,False
+76.60_16.00,Karnataka,76.64999999999999,16.05,0.0,False,False
+76.70_16.00,Karnataka,76.75,16.05,0.0,False,False
+76.80_16.00,Karnataka,76.85,16.05,0.0,False,False
+76.90_16.00,Karnataka,76.95,16.05,0.0,False,False
+77.00_16.00,Karnataka,77.05,16.05,0.0,False,False
+77.10_16.00,Karnataka,77.14999999999999,16.05,0.0,False,True
+77.20_16.00,Karnataka,77.25,16.05,0.0,False,True
+77.30_16.00,Karnataka,77.35,16.05,0.0,False,True
+77.40_16.00,Karnataka,77.45,16.05,0.0,False,True
+74.50_16.10,Karnataka,74.55,16.150000000000002,0.0,True,True
+74.60_16.10,Karnataka,74.64999999999999,16.150000000000002,0.00769402815814702,False,False
+74.70_16.10,Karnataka,74.75,16.150000000000002,0.007410054383156087,False,False
+74.80_16.10,Karnataka,74.85,16.150000000000002,0.002935428480307336,False,False
+74.90_16.10,Karnataka,74.95,16.150000000000002,0.0,False,False
+75.00_16.10,Karnataka,75.05,16.150000000000002,0.0,False,False
+75.10_16.10,Karnataka,75.14999999999999,16.150000000000002,0.0,False,False
+75.20_16.10,Karnataka,75.25,16.150000000000002,0.0,False,False
+75.30_16.10,Karnataka,75.35,16.150000000000002,0.0,False,False
+75.40_16.10,Karnataka,75.45,16.150000000000002,0.0,False,False
+75.50_16.10,Karnataka,75.55,16.150000000000002,0.0,False,False
+75.60_16.10,Karnataka,75.64999999999999,16.150000000000002,0.0,False,False
+75.70_16.10,Karnataka,75.75,16.150000000000002,0.0,False,False
+75.80_16.10,Karnataka,75.85,16.150000000000002,0.0,False,False
+75.90_16.10,Karnataka,75.95,16.150000000000002,0.0,False,False
+76.00_16.10,Karnataka,76.05,16.150000000000002,0.0,False,False
+76.10_16.10,Karnataka,76.14999999999999,16.150000000000002,0.0,False,True
+76.20_16.10,Karnataka,76.25,16.150000000000002,0.0,False,True
+76.30_16.10,Karnataka,76.35,16.150000000000002,0.0,False,True
+76.40_16.10,Karnataka,76.45,16.150000000000002,0.0,False,False
+76.50_16.10,Karnataka,76.55,16.150000000000002,0.0,False,False
+76.60_16.10,Karnataka,76.64999999999999,16.150000000000002,0.0,False,False
+76.70_16.10,Karnataka,76.75,16.150000000000002,0.0,False,False
+76.80_16.10,Karnataka,76.85,16.150000000000002,0.0,False,False
+76.90_16.10,Karnataka,76.95,16.150000000000002,0.0,False,False
+77.00_16.10,Karnataka,77.05,16.150000000000002,0.0,False,False
+77.10_16.10,Karnataka,77.14999999999999,16.150000000000002,0.0,False,True
+77.20_16.10,Karnataka,77.25,16.150000000000002,0.0,False,True
+77.30_16.10,Karnataka,77.35,16.150000000000002,0.0,False,False
+77.40_16.10,Karnataka,77.45,16.150000000000002,0.0,False,False
+74.50_16.20,Karnataka,74.55,16.25,0.0,False,False
+74.60_16.20,Karnataka,74.64999999999999,16.25,0.013832552973299952,False,False
+74.70_16.20,Karnataka,74.75,16.25,0.06136595667907074,False,False
+74.80_16.20,Karnataka,74.85,16.25,0.0,False,False
+74.90_16.20,Karnataka,74.95,16.25,0.0,False,False
+75.00_16.20,Karnataka,75.05,16.25,0.0,False,False
+75.10_16.20,Karnataka,75.14999999999999,16.25,0.0,False,False
+75.20_16.20,Karnataka,75.25,16.25,0.0,False,False
+75.30_16.20,Karnataka,75.35,16.25,0.0,False,False
+75.40_16.20,Karnataka,75.45,16.25,0.0,False,False
+75.50_16.20,Karnataka,75.55,16.25,0.0,False,False
+75.60_16.20,Karnataka,75.64999999999999,16.25,0.0,False,False
+75.70_16.20,Karnataka,75.75,16.25,0.0,False,True
+75.80_16.20,Karnataka,75.85,16.25,0.0,False,False
+75.90_16.20,Karnataka,75.95,16.25,0.0,False,False
+76.00_16.20,Karnataka,76.05,16.25,0.0,False,False
+76.10_16.20,Karnataka,76.14999999999999,16.25,0.0,False,False
+76.20_16.20,Karnataka,76.25,16.25,0.0,False,False
+76.30_16.20,Karnataka,76.35,16.25,0.0,False,False
+76.40_16.20,Karnataka,76.45,16.25,0.0,False,False
+76.50_16.20,Karnataka,76.55,16.25,0.0,False,False
+76.60_16.20,Karnataka,76.64999999999999,16.25,0.0,False,False
+76.70_16.20,Karnataka,76.75,16.25,0.0,False,False
+76.80_16.20,Karnataka,76.85,16.25,0.0,False,False
+76.90_16.20,Karnataka,76.95,16.25,0.0,False,False
+77.00_16.20,Karnataka,77.05,16.25,0.0,False,True
+77.10_16.20,Karnataka,77.14999999999999,16.25,0.0,False,True
+77.20_16.20,Karnataka,77.25,16.25,0.0,False,True
+77.30_16.20,Karnataka,77.35,16.25,0.0,False,True
+77.40_16.20,Karnataka,77.45,16.25,0.0,False,True
+74.30_16.30,Karnataka,74.35,16.35,0.0,False,False
+74.40_16.30,Karnataka,74.45,16.35,0.0,False,False
+74.50_16.30,Karnataka,74.55,16.35,0.0,False,False
+74.60_16.30,Karnataka,74.64999999999999,16.35,0.0,False,False
+74.70_16.30,Karnataka,74.75,16.35,0.0,False,False
+74.80_16.30,Karnataka,74.85,16.35,0.0,False,False
+74.90_16.30,Karnataka,74.95,16.35,0.0,False,False
+75.00_16.30,Karnataka,75.05,16.35,0.0,False,False
+75.10_16.30,Karnataka,75.14999999999999,16.35,0.0,False,False
+75.20_16.30,Karnataka,75.25,16.35,0.0,False,False
+75.30_16.30,Karnataka,75.35,16.35,0.0,False,False
+75.40_16.30,Karnataka,75.45,16.35,0.3620398633511564,False,False
+75.50_16.30,Karnataka,75.55,16.35,0.4043664259757801,False,False
+75.60_16.30,Karnataka,75.64999999999999,16.35,0.06888755781708278,False,False
+75.70_16.30,Karnataka,75.75,16.35,0.0,False,True
+75.80_16.30,Karnataka,75.85,16.35,0.0,False,False
+75.90_16.30,Karnataka,75.95,16.35,0.0,False,False
+76.00_16.30,Karnataka,76.05,16.35,0.0,False,False
+76.10_16.30,Karnataka,76.14999999999999,16.35,0.0,False,False
+76.20_16.30,Karnataka,76.25,16.35,0.0,False,False
+76.30_16.30,Karnataka,76.35,16.35,0.0,False,False
+76.40_16.30,Karnataka,76.45,16.35,0.0,False,False
+76.50_16.30,Karnataka,76.55,16.35,0.0,False,False
+76.60_16.30,Karnataka,76.64999999999999,16.35,0.0,False,False
+76.70_16.30,Karnataka,76.75,16.35,0.0,False,False
+76.80_16.30,Karnataka,76.85,16.35,0.0,False,False
+76.90_16.30,Karnataka,76.95,16.35,0.0,False,False
+77.00_16.30,Karnataka,77.05,16.35,0.0,False,False
+77.10_16.30,Karnataka,77.14999999999999,16.35,0.0,False,True
+77.20_16.30,Karnataka,77.25,16.35,0.0,False,True
+77.30_16.30,Karnataka,77.35,16.35,0.0,False,True
+77.40_16.30,Karnataka,77.45,16.35,0.0,False,True
+77.50_16.30,Karnataka,77.55,16.35,0.0,True,True
+74.30_16.40,Karnataka,74.35,16.45,0.0,False,False
+74.40_16.40,Karnataka,74.45,16.45,0.0,False,False
+74.50_16.40,Karnataka,74.55,16.45,0.0,False,False
+74.60_16.40,Karnataka,74.64999999999999,16.45,0.0,False,False
+74.70_16.40,Karnataka,74.75,16.45,0.0,False,False
+74.80_16.40,Karnataka,74.85,16.45,0.0,False,False
+74.90_16.40,Karnataka,74.95,16.45,0.0,False,False
+75.00_16.40,Karnataka,75.05,16.45,0.0,False,False
+75.10_16.40,Karnataka,75.14999999999999,16.45,0.0,False,False
+75.20_16.40,Karnataka,75.25,16.45,0.0,False,False
+75.30_16.40,Karnataka,75.35,16.45,0.0,False,False
+75.40_16.40,Karnataka,75.45,16.45,0.0,True,True
+75.50_16.40,Karnataka,75.55,16.45,0.0,False,True
+75.60_16.40,Karnataka,75.64999999999999,16.45,0.0,False,True
+75.70_16.40,Karnataka,75.75,16.45,0.0,False,False
+75.80_16.40,Karnataka,75.85,16.45,0.0,False,False
+75.90_16.40,Karnataka,75.95,16.45,0.0,False,False
+76.00_16.40,Karnataka,76.05,16.45,0.0,False,False
+76.10_16.40,Karnataka,76.14999999999999,16.45,0.0,False,False
+76.20_16.40,Karnataka,76.25,16.45,0.0,False,False
+76.30_16.40,Karnataka,76.35,16.45,0.0,False,False
+76.40_16.40,Karnataka,76.45,16.45,0.0,False,False
+76.50_16.40,Karnataka,76.55,16.45,0.0,False,False
+76.60_16.40,Karnataka,76.64999999999999,16.45,0.0,False,False
+76.70_16.40,Karnataka,76.75,16.45,0.0,False,True
+76.80_16.40,Karnataka,76.85,16.45,0.0,False,True
+76.90_16.40,Karnataka,76.95,16.45,0.0,False,False
+77.00_16.40,Karnataka,77.05,16.45,0.0,False,True
+77.10_16.40,Karnataka,77.14999999999999,16.45,0.0,False,True
+77.20_16.40,Karnataka,77.25,16.45,0.0,False,True
+74.40_16.50,Karnataka,74.45,16.55,0.0,False,False
+74.50_16.50,Karnataka,74.55,16.55,0.0,False,False
+74.60_16.50,Karnataka,74.64999999999999,16.55,0.0,False,False
+74.70_16.50,Karnataka,74.75,16.55,0.0,False,False
+74.80_16.50,Karnataka,74.85,16.55,0.0,False,False
+74.90_16.50,Karnataka,74.95,16.55,0.0,False,False
+75.00_16.50,Karnataka,75.05,16.55,0.0,False,False
+75.10_16.50,Karnataka,75.14999999999999,16.55,0.0,False,False
+75.20_16.50,Karnataka,75.25,16.55,0.0,False,False
+75.30_16.50,Karnataka,75.35,16.55,0.0,False,False
+75.40_16.50,Karnataka,75.45,16.55,0.0,False,False
+75.50_16.50,Karnataka,75.55,16.55,0.0,False,False
+75.60_16.50,Karnataka,75.64999999999999,16.55,0.0,False,False
+75.70_16.50,Karnataka,75.75,16.55,0.0,False,True
+75.80_16.50,Karnataka,75.85,16.55,0.0,False,False
+75.90_16.50,Karnataka,75.95,16.55,0.0,False,False
+76.00_16.50,Karnataka,76.05,16.55,0.0,False,False
+76.10_16.50,Karnataka,76.14999999999999,16.55,0.0,False,False
+76.20_16.50,Karnataka,76.25,16.55,0.0,False,False
+76.30_16.50,Karnataka,76.35,16.55,0.0,False,True
+76.40_16.50,Karnataka,76.45,16.55,0.0,False,False
+76.50_16.50,Karnataka,76.55,16.55,0.0,False,False
+76.60_16.50,Karnataka,76.64999999999999,16.55,0.0,False,False
+76.70_16.50,Karnataka,76.75,16.55,0.0,False,False
+76.80_16.50,Karnataka,76.85,16.55,0.0,False,False
+76.90_16.50,Karnataka,76.95,16.55,0.0,False,True
+77.00_16.50,Karnataka,77.05,16.55,0.0,False,True
+77.10_16.50,Karnataka,77.14999999999999,16.55,0.0,False,True
+77.20_16.50,Karnataka,77.25,16.55,0.0,False,True
+77.30_16.50,Karnataka,77.35,16.55,0.0,False,True
+74.70_16.60,Karnataka,74.75,16.650000000000002,0.0,False,False
+74.80_16.60,Karnataka,74.85,16.650000000000002,0.0,False,False
+74.90_16.60,Karnataka,74.95,16.650000000000002,0.0,False,False
+75.00_16.60,Karnataka,75.05,16.650000000000002,0.0,False,False
+75.10_16.60,Karnataka,75.14999999999999,16.650000000000002,0.0,False,False
+75.20_16.60,Karnataka,75.25,16.650000000000002,0.0,False,False
+75.30_16.60,Karnataka,75.35,16.650000000000002,0.0,False,False
+75.40_16.60,Karnataka,75.45,16.650000000000002,0.0,False,False
+75.50_16.60,Karnataka,75.55,16.650000000000002,0.0,False,True
+75.60_16.60,Karnataka,75.64999999999999,16.650000000000002,0.0,False,False
+75.70_16.60,Karnataka,75.75,16.650000000000002,0.0,False,False
+75.80_16.60,Karnataka,75.85,16.650000000000002,0.0,False,False
+75.90_16.60,Karnataka,75.95,16.650000000000002,0.0,False,False
+76.00_16.60,Karnataka,76.05,16.650000000000002,0.0,False,False
+76.10_16.60,Karnataka,76.14999999999999,16.650000000000002,0.0,False,False
+76.20_16.60,Karnataka,76.25,16.650000000000002,0.0,False,True
+76.30_16.60,Karnataka,76.35,16.650000000000002,0.0,False,False
+76.40_16.60,Karnataka,76.45,16.650000000000002,0.0,False,False
+76.50_16.60,Karnataka,76.55,16.650000000000002,0.0,False,False
+76.60_16.60,Karnataka,76.64999999999999,16.650000000000002,0.0,False,False
+76.70_16.60,Karnataka,76.75,16.650000000000002,0.0,False,False
+76.80_16.60,Karnataka,76.85,16.650000000000002,0.0,False,False
+76.90_16.60,Karnataka,76.95,16.650000000000002,0.0,False,False
+77.00_16.60,Karnataka,77.05,16.650000000000002,0.0,False,True
+77.10_16.60,Karnataka,77.14999999999999,16.650000000000002,0.0,False,True
+77.20_16.60,Karnataka,77.25,16.650000000000002,0.0,False,True
+77.30_16.60,Karnataka,77.35,16.650000000000002,0.0,False,True
+77.40_16.60,Karnataka,77.45,16.650000000000002,0.0,False,True
+74.80_16.70,Karnataka,74.85,16.75,0.0,False,False
+74.90_16.70,Karnataka,74.95,16.75,0.0,False,False
+75.00_16.70,Karnataka,75.05,16.75,0.0,False,False
+75.10_16.70,Karnataka,75.14999999999999,16.75,0.0,False,False
+75.20_16.70,Karnataka,75.25,16.75,0.0,False,False
+75.30_16.70,Karnataka,75.35,16.75,0.0,False,False
+75.40_16.70,Karnataka,75.45,16.75,0.0,False,False
+75.50_16.70,Karnataka,75.55,16.75,0.0,False,False
+75.60_16.70,Karnataka,75.64999999999999,16.75,0.0,False,False
+75.70_16.70,Karnataka,75.75,16.75,0.0,False,False
+75.80_16.70,Karnataka,75.85,16.75,0.0,False,False
+75.90_16.70,Karnataka,75.95,16.75,0.0,False,False
+76.00_16.70,Karnataka,76.05,16.75,0.0,False,True
+76.10_16.70,Karnataka,76.14999999999999,16.75,0.0,False,False
+76.20_16.70,Karnataka,76.25,16.75,0.0,False,False
+76.30_16.70,Karnataka,76.35,16.75,0.0,False,False
+76.40_16.70,Karnataka,76.45,16.75,0.0,False,False
+76.50_16.70,Karnataka,76.55,16.75,0.0,False,False
+76.60_16.70,Karnataka,76.64999999999999,16.75,0.0,False,False
+76.70_16.70,Karnataka,76.75,16.75,0.0,False,False
+76.80_16.70,Karnataka,76.85,16.75,0.0,False,False
+76.90_16.70,Karnataka,76.95,16.75,0.0,False,False
+77.00_16.70,Karnataka,77.05,16.75,0.0,False,True
+77.10_16.70,Karnataka,77.14999999999999,16.75,0.0,False,False
+77.20_16.70,Karnataka,77.25,16.75,0.0,False,False
+77.30_16.70,Karnataka,77.35,16.75,0.0,False,False
+74.90_16.80,Karnataka,74.95,16.85,0.0,False,False
+75.00_16.80,Karnataka,75.05,16.85,0.0,False,False
+75.10_16.80,Karnataka,75.14999999999999,16.85,0.0,False,False
+75.20_16.80,Karnataka,75.25,16.85,0.0,False,False
+75.30_16.80,Karnataka,75.35,16.85,0.0,False,False
+75.40_16.80,Karnataka,75.45,16.85,0.0,False,False
+75.50_16.80,Karnataka,75.55,16.85,0.0,False,False
+75.60_16.80,Karnataka,75.64999999999999,16.85,0.0,False,False
+75.70_16.80,Karnataka,75.75,16.85,0.0,False,False
+75.80_16.80,Karnataka,75.85,16.85,0.0,False,False
+75.90_16.80,Karnataka,75.95,16.85,0.0,False,False
+76.00_16.80,Karnataka,76.05,16.85,0.0,False,False
+76.10_16.80,Karnataka,76.14999999999999,16.85,0.0,False,False
+76.20_16.80,Karnataka,76.25,16.85,0.0,False,False
+76.30_16.80,Karnataka,76.35,16.85,0.0,False,False
+76.40_16.80,Karnataka,76.45,16.85,0.0,False,False
+76.50_16.80,Karnataka,76.55,16.85,0.0,False,False
+76.60_16.80,Karnataka,76.64999999999999,16.85,0.0,False,False
+76.70_16.80,Karnataka,76.75,16.85,0.0,False,False
+76.80_16.80,Karnataka,76.85,16.85,0.0,False,False
+76.90_16.80,Karnataka,76.95,16.85,0.0,False,True
+77.00_16.80,Karnataka,77.05,16.85,0.0,False,False
+77.10_16.80,Karnataka,77.14999999999999,16.85,0.0,False,False
+77.20_16.80,Karnataka,77.25,16.85,0.0,False,False
+77.30_16.80,Karnataka,77.35,16.85,0.0,False,False
+77.40_16.80,Karnataka,77.45,16.85,0.0,False,False
+75.30_16.90,Karnataka,75.35,16.95,0.0,False,False
+75.40_16.90,Karnataka,75.45,16.95,0.0,False,False
+75.50_16.90,Karnataka,75.55,16.95,0.0,False,False
+75.60_16.90,Karnataka,75.64999999999999,16.95,0.0,False,False
+75.70_16.90,Karnataka,75.75,16.95,0.0,False,False
+75.80_16.90,Karnataka,75.85,16.95,0.0,False,False
+75.90_16.90,Karnataka,75.95,16.95,0.0,False,False
+76.00_16.90,Karnataka,76.05,16.95,0.0,False,False
+76.10_16.90,Karnataka,76.14999999999999,16.95,0.0,False,False
+76.20_16.90,Karnataka,76.25,16.95,0.0,False,False
+76.30_16.90,Karnataka,76.35,16.95,0.0,False,False
+76.40_16.90,Karnataka,76.45,16.95,0.0,False,False
+76.50_16.90,Karnataka,76.55,16.95,0.0,False,False
+76.60_16.90,Karnataka,76.64999999999999,16.95,0.0,False,False
+76.70_16.90,Karnataka,76.75,16.95,0.0,False,False
+76.80_16.90,Karnataka,76.85,16.95,0.0,False,False
+76.90_16.90,Karnataka,76.95,16.95,0.0,False,False
+77.00_16.90,Karnataka,77.05,16.95,0.0,False,False
+77.10_16.90,Karnataka,77.14999999999999,16.95,0.0,False,False
+77.20_16.90,Karnataka,77.25,16.95,0.0,False,False
+77.30_16.90,Karnataka,77.35,16.95,0.0,False,False
+77.40_16.90,Karnataka,77.45,16.95,0.0,False,False
+75.70_17.00,Karnataka,75.75,17.05,0.0,False,False
+75.80_17.00,Karnataka,75.85,17.05,0.0,False,False
+75.90_17.00,Karnataka,75.95,17.05,0.0,False,False
+76.00_17.00,Karnataka,76.05,17.05,0.0,False,False
+76.10_17.00,Karnataka,76.14999999999999,17.05,0.0,False,False
+76.20_17.00,Karnataka,76.25,17.05,0.0,False,False
+76.30_17.00,Karnataka,76.35,17.05,0.0,False,False
+76.40_17.00,Karnataka,76.45,17.05,0.0,False,False
+76.50_17.00,Karnataka,76.55,17.05,0.0,False,False
+76.60_17.00,Karnataka,76.64999999999999,17.05,0.0,False,False
+76.70_17.00,Karnataka,76.75,17.05,0.0,False,False
+76.80_17.00,Karnataka,76.85,17.05,0.0,False,True
+76.90_17.00,Karnataka,76.95,17.05,0.0,False,True
+77.00_17.00,Karnataka,77.05,17.05,0.0,False,False
+77.10_17.00,Karnataka,77.14999999999999,17.05,0.0,False,False
+77.20_17.00,Karnataka,77.25,17.05,0.0,False,False
+77.30_17.00,Karnataka,77.35,17.05,0.0,False,False
+77.40_17.00,Karnataka,77.45,17.05,0.0,False,False
+75.60_17.10,Karnataka,75.64999999999999,17.150000000000002,0.0,False,False
+75.70_17.10,Karnataka,75.75,17.150000000000002,0.0,False,False
+75.80_17.10,Karnataka,75.85,17.150000000000002,0.0,False,False
+75.90_17.10,Karnataka,75.95,17.150000000000002,0.0,False,False
+76.00_17.10,Karnataka,76.05,17.150000000000002,0.0,False,False
+76.10_17.10,Karnataka,76.14999999999999,17.150000000000002,0.0,False,False
+76.20_17.10,Karnataka,76.25,17.150000000000002,0.0,False,False
+76.30_17.10,Karnataka,76.35,17.150000000000002,0.0,False,False
+76.40_17.10,Karnataka,76.45,17.150000000000002,0.0,False,False
+76.50_17.10,Karnataka,76.55,17.150000000000002,0.0,False,False
+76.60_17.10,Karnataka,76.64999999999999,17.150000000000002,0.0,False,False
+76.70_17.10,Karnataka,76.75,17.150000000000002,0.0,False,True
+76.80_17.10,Karnataka,76.85,17.150000000000002,0.0,False,False
+76.90_17.10,Karnataka,76.95,17.150000000000002,0.0,False,False
+77.00_17.10,Karnataka,77.05,17.150000000000002,0.0,False,False
+77.10_17.10,Karnataka,77.14999999999999,17.150000000000002,0.0,False,False
+77.20_17.10,Karnataka,77.25,17.150000000000002,0.0,False,False
+77.30_17.10,Karnataka,77.35,17.150000000000002,0.0,False,False
+75.60_17.20,Karnataka,75.64999999999999,17.25,0.0,False,False
+75.70_17.20,Karnataka,75.75,17.25,0.0,False,False
+75.80_17.20,Karnataka,75.85,17.25,0.0,False,False
+75.90_17.20,Karnataka,75.95,17.25,0.0,False,False
+76.00_17.20,Karnataka,76.05,17.25,0.0,False,False
+76.10_17.20,Karnataka,76.14999999999999,17.25,0.0,False,False
+76.20_17.20,Karnataka,76.25,17.25,0.0,False,False
+76.30_17.20,Karnataka,76.35,17.25,0.0,False,False
+76.40_17.20,Karnataka,76.45,17.25,0.0,False,False
+76.50_17.20,Karnataka,76.55,17.25,0.0,False,False
+76.60_17.20,Karnataka,76.64999999999999,17.25,0.0,False,False
+76.70_17.20,Karnataka,76.75,17.25,0.0,False,False
+76.80_17.20,Karnataka,76.85,17.25,0.0,False,False
+76.90_17.20,Karnataka,76.95,17.25,0.0,False,False
+77.00_17.20,Karnataka,77.05,17.25,0.0,False,False
+77.10_17.20,Karnataka,77.14999999999999,17.25,0.0,False,False
+77.20_17.20,Karnataka,77.25,17.25,0.0,False,False
+77.30_17.20,Karnataka,77.35,17.25,0.0,False,False
+75.60_17.30,Karnataka,75.64999999999999,17.35,0.0,False,False
+75.70_17.30,Karnataka,75.75,17.35,0.0,False,False
+75.80_17.30,Karnataka,75.85,17.35,0.0,False,False
+76.10_17.30,Karnataka,76.14999999999999,17.35,0.0,False,False
+76.20_17.30,Karnataka,76.25,17.35,0.0,False,False
+76.40_17.30,Karnataka,76.45,17.35,0.0,False,False
+76.50_17.30,Karnataka,76.55,17.35,0.0,False,False
+76.60_17.30,Karnataka,76.64999999999999,17.35,0.0,False,False
+76.70_17.30,Karnataka,76.75,17.35,0.0,False,True
+76.80_17.30,Karnataka,76.85,17.35,0.0,False,False
+76.90_17.30,Karnataka,76.95,17.35,0.0,False,False
+77.00_17.30,Karnataka,77.05,17.35,0.0,False,False
+77.10_17.30,Karnataka,77.14999999999999,17.35,0.0,False,False
+77.20_17.30,Karnataka,77.25,17.35,0.0,False,False
+77.30_17.30,Karnataka,77.35,17.35,0.0,False,False
+77.40_17.30,Karnataka,77.45,17.35,0.0,False,False
+76.40_17.40,Karnataka,76.45,17.45,0.0,False,False
+76.50_17.40,Karnataka,76.55,17.45,0.0,False,False
+76.60_17.40,Karnataka,76.64999999999999,17.45,0.0,False,False
+76.70_17.40,Karnataka,76.75,17.45,0.0,False,False
+76.80_17.40,Karnataka,76.85,17.45,0.0,False,False
+76.90_17.40,Karnataka,76.95,17.45,0.0,True,True
+77.00_17.40,Karnataka,77.05,17.45,0.0,True,True
+77.10_17.40,Karnataka,77.14999999999999,17.45,0.0,False,False
+77.20_17.40,Karnataka,77.25,17.45,0.0,False,False
+77.30_17.40,Karnataka,77.35,17.45,0.0,False,False
+77.40_17.40,Karnataka,77.45,17.45,0.1255712677481612,False,False
+77.50_17.40,Karnataka,77.55,17.45,0.3645678017247136,False,False
+76.30_17.50,Karnataka,76.35,17.55,0.0,False,False
+76.40_17.50,Karnataka,76.45,17.55,0.0,False,False
+76.50_17.50,Karnataka,76.55,17.55,0.0,False,False
+76.60_17.50,Karnataka,76.64999999999999,17.55,0.0,False,False
+76.70_17.50,Karnataka,76.75,17.55,0.0,False,False
+76.80_17.50,Karnataka,76.85,17.55,0.0,False,False
+76.90_17.50,Karnataka,76.95,17.55,0.0,False,False
+77.00_17.50,Karnataka,77.05,17.55,0.0,False,False
+77.10_17.50,Karnataka,77.14999999999999,17.55,0.0,False,False
+77.20_17.50,Karnataka,77.25,17.55,0.0,True,True
+77.30_17.50,Karnataka,77.35,17.55,0.0,False,False
+77.40_17.50,Karnataka,77.45,17.55,0.27970305159672465,False,False
+77.50_17.50,Karnataka,77.55,17.55,0.26373053814904,False,False
+76.50_17.60,Karnataka,76.55,17.650000000000002,0.0,False,False
+76.60_17.60,Karnataka,76.64999999999999,17.650000000000002,0.0,False,False
+76.70_17.60,Karnataka,76.75,17.650000000000002,0.0,False,False
+76.80_17.60,Karnataka,76.85,17.650000000000002,0.0,False,False
+76.90_17.60,Karnataka,76.95,17.650000000000002,0.0,False,False
+77.00_17.60,Karnataka,77.05,17.650000000000002,0.0,False,False
+77.10_17.60,Karnataka,77.14999999999999,17.650000000000002,0.0,False,False
+77.20_17.60,Karnataka,77.25,17.650000000000002,0.0,False,False
+77.30_17.60,Karnataka,77.35,17.650000000000002,0.0,False,False
+77.40_17.60,Karnataka,77.45,17.650000000000002,0.0,False,False
+76.70_17.70,Karnataka,76.75,17.75,0.0,False,False
+76.80_17.70,Karnataka,76.85,17.75,0.0,False,False
+76.90_17.70,Karnataka,76.95,17.75,0.0,False,False
+77.00_17.70,Karnataka,77.05,17.75,0.0,False,False
+77.10_17.70,Karnataka,77.14999999999999,17.75,0.0,False,False
+77.20_17.70,Karnataka,77.25,17.75,0.0,False,False
+77.30_17.70,Karnataka,77.35,17.75,0.0,False,False
+77.40_17.70,Karnataka,77.45,17.75,0.0,False,False
+76.80_17.80,Karnataka,76.85,17.85,0.0,False,False
+76.90_17.80,Karnataka,76.95,17.85,0.0,False,False
+77.00_17.80,Karnataka,77.05,17.85,0.0,False,False
+77.10_17.80,Karnataka,77.14999999999999,17.85,0.0,False,False
+77.20_17.80,Karnataka,77.25,17.85,0.0,False,False
+77.30_17.80,Karnataka,77.35,17.85,0.0,True,True
+77.40_17.80,Karnataka,77.45,17.85,0.0,False,True
+77.50_17.80,Karnataka,77.55,17.85,0.0,False,False
+76.90_17.90,Karnataka,76.95,17.95,0.0,False,False
+77.00_17.90,Karnataka,77.05,17.95,0.0,False,False
+77.10_17.90,Karnataka,77.14999999999999,17.95,0.0,False,False
+77.20_17.90,Karnataka,77.25,17.95,0.0,False,False
+77.30_17.90,Karnataka,77.35,17.95,0.0,False,False
+77.40_17.90,Karnataka,77.45,17.95,0.0,True,False
+77.50_17.90,Karnataka,77.55,17.95,0.0,False,True
+76.90_18.00,Karnataka,76.95,18.05,0.0,False,False
+77.00_18.00,Karnataka,77.05,18.05,0.0,False,False
+77.10_18.00,Karnataka,77.14999999999999,18.05,0.0,False,False
+77.20_18.00,Karnataka,77.25,18.05,0.0,False,False
+77.30_18.00,Karnataka,77.35,18.05,0.0,False,True
+77.40_18.00,Karnataka,77.45,18.05,0.0,False,True
+77.50_18.00,Karnataka,77.55,18.05,0.0,False,True
+76.90_18.10,Karnataka,76.95,18.15,0.0,False,False
+77.00_18.10,Karnataka,77.05,18.15,0.0,False,True
+77.10_18.10,Karnataka,77.14999999999999,18.15,0.0,False,False
+77.20_18.10,Karnataka,77.25,18.15,0.0,False,True
+77.30_18.10,Karnataka,77.35,18.15,0.0,False,True
+77.40_18.10,Karnataka,77.45,18.15,0.0,True,True
+77.50_18.10,Karnataka,77.55,18.15,0.0,False,False
+77.20_18.20,Karnataka,77.25,18.25,0.0,False,False
+77.30_18.20,Karnataka,77.35,18.25,0.0,True,True
+77.40_18.20,Karnataka,77.45,18.25,0.0,False,False
+77.50_18.20,Karnataka,77.55,18.25,0.0,False,False
+77.20_18.30,Karnataka,77.25,18.35,0.0,False,False
+77.30_18.30,Karnataka,77.35,18.35,0.0,False,False

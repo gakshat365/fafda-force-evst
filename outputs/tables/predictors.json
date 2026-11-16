@@ -1,0 +1,20 @@
+[
+ "bio1",
+ "bio12",
+ "bio4",
+ "bio15",
+ "bio2",
+ "bio14",
+ "bio18",
+ "ndvi_median",
+ "ndvi_range",
+ "elev_sd",
+ "lc_shrub",
+ "lc_grass",
+ "lc_crop",
+ "lc_built",
+ "lc_water",
+ "lc_wetland",
+ "dist_water_km",
+ "lc_shannon"
+]

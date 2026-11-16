@@ -1,0 +1,34 @@
+{
+ "target": "threatened",
+ "title": "Threatened-species richness",
+ "best_model": "Random Forest",
+ "best_params": {
+  "min_samples_leaf": 1,
+  "max_features": 0.5,
+  "max_depth": null
+ },
+ "n_train": 2058,
+ "n_cells": 3043,
+ "features": [
+  "bio1",
+  "bio12",
+  "bio4",
+  "bio15",
+  "bio2",
+  "bio14",
+  "bio18",
+  "ndvi_median",
+  "ndvi_range",
+  "elev_sd",
+  "lc_shrub",
+  "lc_grass",
+  "lc_crop",
+  "lc_built",
+  "lc_water",
+  "lc_wetland",
+  "dist_water_km",
+  "lc_shannon"
+ ],
+ "extrapolated_cells": 37,
+ "train_R2_best": 0.9332455846793957
+}
